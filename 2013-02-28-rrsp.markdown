@@ -1,0 +1,77 @@
+---
+layout: post
+title: What is an RRSP and how does it work?
+date: 2013-02-28 17:00:31.000000000 -05:00
+categories:
+- Personal Finance
+tags:
+- account
+- income tax
+- interest
+- registered
+- retirement
+- rrsp
+- savings
+- tax
+meta:
+  _yoast_wpseo_linkdex: '91'
+  _edit_last: '3'
+  _yoast_wpseo_focuskw: rrsp
+  _yoast_wpseo_metadesc: The RRSP is a quintessentially Canadian retirement savings
+    tool introduced in 1957. Here's a crash course in how it works and how it can
+    work for you.
+  _wpas_skip_3090928: '1'
+  _wpas_skip_3092210: '1'
+  _wpas_skip_3090937: '1'
+author: Dean Stamler
+excerpt_separator: <!--more-->
+---
+
+Today I want to talk about something that confuses a lot of people: the registered retirement savings plan or RRSP.  The RRSP is a quintessentially Canadian retirement-savings tool that was introduced by the Liberal government in 1957.  Some of you may be asking why I am talking about RRSPs literally days before the end of the RRSP "season".  There are two reasons.  The first is that it's bad practice to pay attention to RRSP seasons because you'll get better return for your dollar, save money and have less stress in your life if you're contributing year-round because of [dollar-cost averaging][dca].  Secondly, I want to make sure you take the time to understand the RRSP instead of quickly skimming this and then making hasty decisions.<!--more-->
+
+### Your RRSP is all about tax deferral
+
+Ok, on to the good stuff.  RRSPs are accounts that are registered with the Canadian federal government.  That means the Canada Revenue Agency knows how much you've put in and how much you've taken out before you even tell them.  You can store all sorts of things in these accounts including cash, stocks in public companies, bonds, mutual funds, your mortgage (yes!), really there are piles of options.  Notice that RRSPs are not mutual funds, they can _hold_ mutual funds.  A lot of people miss this distinction and it's sad because they're missing the point of an RRSP: tax deferral.  The basic thing that makes an RRSP so special is that you don't pay income tax on the money you put into it or the interest you earn until you take it out.  This means an RRSP will lower your taxes NOW!  Here's a quick example:
+
+Alice and Bob both make $45,000 one year.  Alice leaves $2000 in her bank account at the end of the year for savings.  Bob puts the $2000 in cash within an RRSP.  Both of them will earn almost no interest because cash accounts pay almost nothing.  Alice pays $7471 in income tax at the end of the year.  Bob pays $6848. How did Bob save $623 in taxes?  Well, to the Canada Revenue Agency, Bob only made $43,000 this year because he dumped $2000 into an RRSP. That's the tax deferral part.  Bob didn't have to pay any tax on the money he put into the RRSP.  It won't grow much, mind you, because he left it in cash.
+
+### Then your money grows tax-free
+
+Alice and Bob both decide they will buy a [GIC] that has a rare-as-a-unicorn interest rate of 5% (what a great find!).  After 10 years, Bob's money is worth $3258 because it grew without any income tax.  Alice's money is only worth $2806. What the heck, Alice?  Oh… she had to pay income tax every single year on her 5%, making her interest rate actually 3.44%.  If this doesn't make sense to you, check out my post on [net worth]. So far Bob's paid no tax on his savings, and Alice is left crying in the corner.
+
+### But you will pay tax eventually
+
+Bob and Alice both decide to stop working.  Alice already knows she has $2806 in her bank account after paying taxes from the interest earned on her GIC.  No surprises there.  But Bob decides to take his money out… and pays income tax on it.  How much?  Well here's the thing.  That really depends on how much _other_ money Bob has.  You see, RRSPs are only good if you expect to have a lower tax rate when you take the money out than when you put the money in.  If the tax rate is still the same for Bob as it was when he contributed (31.15% 2012 marginal Ontario rate used in this calculation), Bob won't have any advantage at all.  But if Bob had contributed his income tax savings to the RRSP account as well when he made the original contribution, he would be ahead because of the compound interest.
+
+### Pay less tax on each cheque with a T1213 form
+
+There's [a form][t1213] you can complete and submit to your employer to make sure your employer isn't charging you tax on your RRSP contributions on payday. This means that at the end of the year instead of getting a return for the contributions you made, you and the Canada Revenue Agency will be fair-and-square.  The idea here is that you contribute MORE than you otherwise would from each paycheque (i.e. put the tax you're not paying into your RRSP immediately).  If you don't do this, an RRSP might not be the right tax-saving tool for you.  In a future post, I'll talk about the TFSA.  That one's pretty neat and it might be better for you.  It's probably better for a lot of readers, actually.
+
+### Contribution room
+
+You can only contribute so much to your RRSP.  Right now (2012) [it's $22,970][rrsp-limit] or 18% of your income, whichever is lower.  You can carry forward unused contribution room to future years and you can time your contributions so that they occur during high-income years if you know when those might be.
+
+### Spousal RRSPs
+
+If you're married and you make more money than your spouse, you can contribute to _their_ RRSP.  The idea here is that you get the immediate tax deduction but they are the ones taxed when the money gets withdrawn down the road.  This facilitates a form of [income splitting].
+
+### Wrap-up
+
+As you're probably guessing, someone who knows what they're talking about could pretty much talk about RRSPs forever.  There are endless permutations and combinations of possibilities that the RRSP allows to minimize your income taxes.  That's why you should familiarize yourself with them early on in life.  Plan to pay less tax!  Let's wrap up with some bullet-point characteristics of the RRSP:
+
+1. RRSPs are a _container for an investment_, they are not themselves an investment
+2. RRSPs do not have an inherent interest rate
+3. It's difficult to predict how someone's RRSP affects their net worth or future income since the investments are taxable when withdrawn
+4. Money you put in an RRSP is money you haven't yet paid tax on
+5. You can only put so much into an RRSP in a given year.  What you can contribute is tied to your income and is inflation-capped.
+6. If you don't contribute the maximum to your RRSP in a given year, you can carry forward that contribution room into the future.
+
+
+Like I said earlier, I hope to write about the TFSA (Tax-Free Savings Account) in the future.  For now, start saving!
+
+[dca]: http://en.wikipedia.org/wiki/Dollar_cost_averaging
+[GIC]: http://en.wikipedia.org/wiki/Guaranteed_Investment_Certificate
+[net worth]: http://www.stamler.ca/net-worth/
+[t1213]: http://www.cra-arc.gc.ca/E/pbg/tf/t1213/
+[rrsp-limit]: http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/rrsp-reer/cntrbtng/lmts-eng.html
+[income splitting]: http://en.wikipedia.org/wiki/Income_splitting

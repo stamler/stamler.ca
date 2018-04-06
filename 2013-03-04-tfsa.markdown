@@ -1,0 +1,70 @@
+---
+layout: post
+title: 'TFSA: what it is and why you need one'
+date: 2013-03-04 10:00:59.000000000 -05:00
+categories:
+- Personal Finance
+tags:
+- account
+- free
+- income tax
+- interest
+- registered
+- retirement
+- savings
+- tax
+- tfsa
+meta:
+  _yoast_wpseo_linkdex: '94'
+  _edit_last: '3'
+  _yoast_wpseo_focuskw: tfsa
+  _yoast_wpseo_metadesc: The TFSA is awesome. Saving in one will turbo-charge your
+    financial position if you use it correctly by avoiding piles of income tax down
+    the road.
+  _wpas_done_all: '1'
+  _wpas_skip_3090928: '1'
+  _wpas_skip_3092210: '1'
+  _wpas_skip_3090937: '1'
+author: Dean Stamler
+excerpt_separator: <!--more-->
+---
+A few days ago I gave you all a [crash-course in RRSPs][rrsp].  You had a blast reading it but then I threw in another acronym at the end: TFSA.  You were probably like "where did that come from, Dean?".  Now I'm going to tell you.  The TFSA is the Tax-Free Savings Account.  It was introduced by the Conservative government in 2009 as yet another way to help us pay less taxes on our savings even though Canadians don't seem to save that much.  Also, they hadn't met their quota for acronyms (seriously we have IPP, [RRSP][rrsp], RRIF, RESP, RDSP, they're even talking about introducing a PRPP and that's not all of them).
+
+If you are ignoring TFSAs because you're deeply in love with RRSPs or you're just too lazy to learn, listen up.  TFSAs KILL.  They're awesome.  They will turbo-charge and nitro your financial position if you use them correctly.  If you have a modest but solid income and savings tendencies, a TFSA will change your life.<!--more-->
+
+### Your TFSA is all about simplicity and retiring loaded
+
+You'll recall that RRSPs are about tax deferral (paying taxes in the future instead of now) and they are not an investment in themselves but rather a container for an investment.  TFSAs are also a container, but they are not about tax deferral. In fact you're going to pay tax on the money you put in, so there's that.  But that's pretty much it.  No tax ever again.  Not on interest earned, not on withdrawals.  If you diligently contribute to your TFSA and choose good investments to hold inside it that grow like hydroponic tomatoes on the international space station, you're going to be rich.
+
+It's always easier to explain with real numbers, so remember [Alice and Bob][rrsp]?  Well their friend Carlos was doing things with money too.  He threw his two grand into a TFSA using the 5% unicorn-GIC as well.  (If you don't know what unicorn I'm talking about, read the [RRSP][rrsp] post again).  Carlos pays the same income tax as Alice that first year so he is immediately behind $623 compared to Bob.  But that's where his disadvantage ends.  Carlos ends up having the same amount of cash as Bob has after 10 years, but he doesn't pay tax on it!  So he's got $3258.
+
+### Contribution room
+
+You're super stoked at this point, I can tell.  You want to throw every thing you have into a TFSA and then go out for wings and beer.  Here's the thing, you can only throw a certain amount into it.  That certain amount is the same for everyone, rich or poor.  It's based entirely on your age.  Basically, each year the government determines what everyone can contribute for that year.  For 2009 when the TFSA was introduced and each year until 2012, that amount was $5000.  For 2013 they've [raised it to $5500][tfsa].  You have to be 18 years or older before you can contribute, but the contribution room is carried forward.  So if you were 18 before 2009 and you've never contributed to a TFSA, you can contribute up to $25500 in 2013 if you've never contributed before.  Simple, right?  There's even talk about the annual contribution room going up to $10,000 once the budget is balanced.  Personally I think that's stupid tax policy, but right now I'm wearing the hat that says "teach them how to avoid taxes legally" and not the one that says "show them why taxes are important to have a healthy country" so yeah.
+
+### Withdrawals at any time
+
+You can pull money out whenever you want, tax free.  If you pull out $25,000 you can put that much back in at any time provided you have $25,000 of contribution room remaining.  But if you don't have $25,000 contribution remaining all you have to do is wait until the next calendar year.  Then not only will you get another $5500 of contribution room (or whatever the government decides is a fair amount for that year), but you'll also get to add the $25,000 withdrawal back.  This is unlike RRSPs where you lose contribution room on withdrawals _forever_ unless you earn the contribution room again by having taxable income.
+
+### The one case when the man will tax you mercilessly
+
+Don't you dare contribute more than your allowed contribution room.  The penalty is 1% of your entire TFSA _every month_ .  Also, if you do make any withdrawals, that contribution room doesn't come back until _next_  year (I just said that in the last paragraph but it's important so I said it again), so hold your horses to avoid the nasty excess contribution tax.  It's safest to only either withdraw or contribute in a given calendar year unless you know exactly what you're doing.
+
+### Wrap-up
+
+TFSAs are simple and awesome so you should use them no matter what: either to save extra on top of your RRSP or if the math works out to use instead of an RRSP (ideally you would max out both).  Plan to pay less tax!  Let's wrap up with some bullet-point characteristics of the TFSA:
+
+1. TFSAs are a _container for an investment_, they are not themselves an investment
+2. TFSAs do not have an inherent interest rate
+3. A TFSA is not taxable when withdrawn and thus 100% of its value is usable in an individual's [net worth] calculation.
+4. Since withdrawals from a TFSA are not taxable income, they will not cause you to incur an OAS clawback or disqualify you from many other income-tested government programs. Yes, this bullet point is the first time I've talked about this.  I'll elaborate in future post(s).  Just rest assured that the TFSA is awesome.
+5. Money you put in a TFSA is money you have already paid tax on
+6. You can only put so much into a TFSA in a given year.  What you can contribute is the same for everyone and is related only to the number of years you were over 18 and the government's prescribed maximum contribution amount for those years.
+7. You can carry forward unused contribution room to future years.
+8. Any excess contributions are taxed heavily!
+
+Alright, now you know how sweet a TFSAs are.  Start saving.
+
+[rrsp]: https://www.stamler.ca/rrsp/
+[tfsa]: https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html
+[net worth]: https://www.stamler.ca/net-worth/

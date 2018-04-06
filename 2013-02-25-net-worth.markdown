@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Net worth and income tax: a rule'
+date: 2013-02-25 17:30:30.000000000 -05:00
+categories:
+- Personal Finance
+tags:
+- income tax
+- investing
+- net worth
+- properties
+- property
+- rental
+- tax
+meta:
+  _yoast_wpseo_linkdex: '92'
+  _edit_last: '3'
+  _yoast_wpseo_focuskw: net worth
+  _yoast_wpseo_title: 'Net worth and income tax: a rule - Dean Stamler'
+  _yoast_wpseo_metadesc: If you want to grow your net worth, there's some simple but
+    powerful math about interest and income tax that you have to understand.
+  _wpas_skip_3090928: '1'
+  _wpas_skip_3092210: '1'
+  _wpas_skip_3090937: '1'
+author: Dean Stamler
+excerpt_separator: <!--more-->
+---
+After having this conversation no fewer than three times over the past few months, I figured it would be a good idea to clarify a widely-held misconception for landlords holding mortgages and really for anyone whose goal is to put themselves in a better financial situation. I have heard both landlords and others make the unqualified statement that you'll lower your income taxes if you keep your rental property mortgage for a long time and don't accelerate the payments on rental properties. While this is true, it's not necessarily the best way to maximize your net worth and that's the goal, isn't it? Even though lowering income tax is a great idea, keeping a mortgage for a long time means we're just paying money to the bank in the form of interest. To make it worse, the interest we're paying is often higher than the income tax we would pay if we had no mortgage!<!--more-->
+
+If we carefully apply the basic rules of investing— slay the highest-rate debt first, invest in the highest-return investment first— then the whole thing becomes much more clear. The first thing to realize is that your wealth isn't compartmentalized but rather one value called your [net worth], the difference between what you own and what you owe. The financial goal of anyone, property investor or otherwise, is to maximize your net worth. Upon further examination it's clear that those two goals of killing debt and investing money are actually one with respect to your net worth. The lower your debt, the higher your net worth. The higher your investments, the higher your net worth.
+
+### A simple rule to grow net worth
+
+The previous paragraph can be reduced down to one simple rule: pay or save towards the highest after-tax interest rate first, regardless of what you owe or own. This statement can also be qualified a bit: guaranteed rates are somewhat more important than non-guaranteed rates. A guaranteed rate is something like a fixed mortgage rate or a [GIC]; they are dependable and should be given more priority than non-guaranteed rates especially in the short term. As an example, if you have a taxable investment that earns 5% and your income tax rate is 30%, you'll actually only be earning 3.5% after tax on that investment (30% less than 5%). Similarly, if you have a tax-deductible debt like a rental mortgage at an interest rate of 5% you're really only paying 3.5% interest (again, 30% less than 5%). If you have an investment opportunity and rental mortgage combo like this, putting an equal amount of money against either or both will have the same result on your net worth. If the investment rate wasn't guaranteed, then paying the mortgage would be a better idea since it is a fixed (guaranteed) rate.
+
+So in order to figure out how to maximize your net worth, you need to calculate all of the after-tax interest rates for your debts and investments and decide which ones are guaranteed. Putting money towards the highest after-tax rates first, while paying special attention to guaranteed rates, will grow your net worth the fastest.  In a future post I'm going to give an example using a rental property mortgage to clarify the rule further.
+
+[net worth]: http://www.investopedia.com/terms/n/networth.asp
+[GIC]: http://en.wikipedia.org/wiki/Guaranteed_Investment_Certificate

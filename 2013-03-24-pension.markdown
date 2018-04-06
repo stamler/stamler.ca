@@ -1,0 +1,135 @@
+---
+layout: post
+title: 'Pensions: a nuanced retirement tool (update)'
+date: 2013-03-24 17:29:37.000000000 -04:00
+categories:
+- Personal Finance
+tags:
+- annuity
+- contributions
+- employer
+- employment
+- income
+- income tax
+- investing
+- job
+- net worth
+- pension
+- pensions
+- retirement
+- tax
+meta:
+  _yoast_wpseo_linkdex: '93'
+  _edit_last: '3'
+  _yoast_wpseo_focuskw: pension
+  _yoast_wpseo_metadesc: Pensions are complicated and nuanced retirement savings vehicles
+    and may even help you choose a job. Find out how your pension fits into your retirement.
+  _wpas_done_all: '1'
+  _wpas_skip_3090928: '1'
+  _wpas_skip_3092210: '1'
+  _wpas_skip_3090937: '1'
+author: Dean Stamler
+excerpt_separator: <!--more-->
+---
+Ahhh, pensions.  They can be your ticket to financial freedom.  In the best of cases, having a pension is like having a job for the rest of your life without working.  In other cases employees view their pensions as silver-bullet solutions to retirement and ignore their financial responsibilities.  Sadly many people don't pay any attention to their pensions or the place a pension holds in their financial future until it's too late to make a difference.  Today I'm going to introduce you to the various types of pensions and how to determine their value.  Along the way I'll touch on some common questions.  We have lots to talk about so hang in there!
+
+### What is a pension?
+
+A pension is an agreement between the pensioner (beneficiary) and the payer to receive a set amount of money (benefits) on a regular basis, generally following retirement from employment.  Typically pension payments will last until the beneficiary dies.  In some cases, the beneficiary's surviving spouse or family will continue to receive benefits, possibly at a different rate.
+<!--more-->
+
+### Defined benefit (DB) pensions
+
+Pensions can be broadly divided into two groups: those that pay a prescribed amount defined in a set formula (defined benefit pensions, often called DB pension) and those that pay an amount dependent on investment returns and contributions (defined contribution or DC).  A defined benefit pension uses a formula which can be based on many factors including but not limited to salary, years of employment and retirement age.  For example, a common way to calculate a defined benefit pension accounts for the last few years' income of a beneficiary before retirement and gives a portion of that provided the beneficiary has given enough service.  In a defined benefit pension the pool of money from contributions is in one large portfolio since there is no need to individually track performance.  Benefits are clearly defined in terms other than investment returns.  DB pensions can be funded or unfunded.  A funded plan is one in which a large pool of assets and cash exists and payouts depend at least partly on the growth in value of the pool.  In an unfunded plan, pension benefits are paid directly on a recurring basis by contributions from current employees or the employer and therefore there is no pool of money.  Unfunded pensions are often called pay as you go or PAYGO. Defined benefit pensions are very valuable provided they are being offered by a stable employer or sponsor.  This is because there is no market risk in DB pensions for the beneficiary.
+
+### Defined contribution (DC) pensions
+
+The alternative to the DB pension is the defined contribution pension.  In this scheme, each employee has his or her own pension account.  The amount of pension the employee receives at retirement is directly affected by investment gains and losses and the amount of money the employee contributed to the pension.  Contributions to DC pensions can be either from the employee (usually tax-deferred) or from the employer or both.
+
+### Public Pensions
+
+Sometimes the state will provide a pension to people over a certain age.  There is a pension in Canada called the [CPP] (Canada Pension Plan).  It is a funded public pension with defined benefits based on (capped) wage over the beneficiary's lifetime.  Benefits are also indexed to inflation which means benefits increase as the value of money decreases.  In Canada there is an additional pension system called [OAS] (old-age security).  OAS kicks in for anyone over 65 years old.  Between 2023 and 2029 this age will gradually change to 67.  OAS is independent of lifetime working income contributions, but it does get clawed back for those who make more money in retirement.
+
+### How safe is a pension?
+
+The safety of a pension is very complicated because there are so many factors at play.  Good arguments are made that DC pensions are more sustainable than DB pensions because the considerable risk is distributed among all pensioners as opposed to being held by one large entity (the pension manager or employer).  In PAYGO DB pensions, the major risks are the employer's bankruptcy, financial insolvency or inability to meet benefit payments.  In funded pensions the risks are low investment returns and, less directly, the employer's financial insolvency.  In DC pensions, the risk is primarily low investment returns.  Public pensions are very large and carefully managed and thus are perceived to be of lower risk, especially funded ones.  The CPP has generally performed well and can be considered a dependable form of income when planning for retirement.
+
+### Tax implications for pensions
+
+In many countries, Canada included, contributions to a pension plan by the employee are tax-deductible, subject to a limit.  Further, employers almost always contribute to pensions.  Pension income is almost always taxable, though sometimes special considerations are available.  For example, in Canada pension income can be split between married couples (CPP and OAS do not qualify).  Because of these properties, pensions have pretty much the same tax profile as [RRSP]s.
+
+### Portability of pensions
+
+What happens to your pension when you take another job with a different employer?  The ability of a pension to translate from one employer to another is the pension's portability.  In general, DB pensions are much less portable than DC pensions.  This isn't necessarily a bad thing.  Often a DB pension scheme will let you leave the pension intact when you leave the company and just start collecting benefits at a specified age regardless of where you work.  The portability of a pension also hinges on the pension's present value at the time of porting.  As with an [RRSP], a pension tends to have very little value at the beginning of its life and starts to really bulk up near the end.  You should discuss the portability options of your pension plan with your employer so that you fully understand the implications of leaving the company or organization.
+
+### Pensions and RRSPs
+
+If you contribute to a pension plan your [RRSP] contribution room will be reduced by the pension adjustment amount which is reported on your T4 slip.  This amount is calculated by your plan administrator or employer.  The pension adjustment is based on an overall maximum contribution limit of 18% of a tax-payer's earned income up to a defined maximum.  To make this brutally simple, if you have a pension you won't be able to contribute as much to your RRSP.  That "as much" is the pension adjustment.  To make this even more brutal, re-read that part about the 18% limit.  What this is implying is that a pension can be replicated almost identically with an RRSP provided you save enough since they have the same limits.
+
+### What is a pension actually worth?
+
+I have written an extensive article on [annuities] and if you haven't read it yet, do it now!  Come back once you're up to date because I'm going to assume you've read it moving forward.  Fancy math people (I kind of actually am one) will tell you that one way to calculate the value of your pension is to use the present value of an annuity.  This is the value in one lump sum of your pension on the day you retire.  If you have this amount calculated, you can compare it to many other options but one interesting comparison is the amount of money you'd need to save from a higher-paying but pensionless job to have an equivalent retirement income.
+
+You'll recall from my previous [article][annuities] that an annuity is a stream of payments that are equal on an annualized basis and last for a set number of years.  In really simple terms, the value of your pension depends on how long you're going to live after you start collecting and the amount of each benefit payment.  Once you have that info, the actual payment amount and the interest rate, you just plug in the numbers.  Wait! Interest rate??  Haven't we been through this already? What interest rate?  In this case there are way too many options.  It probably makes the most sense to use the interest rate that you think you could achieve with your money in retirement.  This will be a conservative rate of growth, possibly at or near inflation because you don't want to lose your savings in retirement.  If you're the kind of person that would stuff money it in your mattress, use 0% as the rate and just multiply the payment amount by the number of payments so you don't divide by 0 in the annuity formula.  The basic thing to remember is that higher rates will give you a lower present value because if the rates are high you could use less of the principal for each payment.  
+
+One more curve-ball: inflation.  Some pensions are indexed to inflation which is amazing.  If you're running the present-value calculation on these you can subtract the expected inflation rate from the interest rate to give you a present value number that factors in the increased costs of living as your retirement progresses.  So if you anticipate the average interest rate to be 3% and inflation to be 2% over the pension benefit period, use a rate of 1% in the present value calculation.
+
+This really isn't going to make much sense sense for most of you without an example so let's bring back Dave from the annuity article.  He has a pension that pays $1000 per month, not indexed to inflation.  If Dave imagines that inflation will be 2% when he retires and that he'll live for 30 years after retirement, remembering that there are 12 months in a year we can can calculate the present value of Dave's pension like this:
+
+{% raw %}
+$$ -1000 * \frac{1-(1+0.001\overline{6} )^{-360}}{0.001\overline{6}}, n=30 * 12, i=0.02 / 12 $$
+{% endraw %}
+
+That's a slight simplification since I assumed the 2% inflation is compounded monthly so it's not really an annual rate but let's not get too complex— the answer will be correct within a small margin.  Here's a table with Dave's pension valuation at retirement based on various scenarios of how long he may live.  Note that the rates do not factor in inflation, so subtract the expected inflation rate accordingly.  This table was calculated using the PV() function in a spreadsheet because I'm lazy.
+
+#### Present value of $1000/month pension by years and expected nominal interest rate
+
+| Years | 1.00% | 2.00% | 3.00% | 4.00% | 5.00% |
+| --- | --- | --- | --- | --- | --- |
+| 15 | $167,085.91 | $155,398.05 | $144,805.47 | $135,192.15 | $126,455.24 |
+| 20 | $217,441.27 | $197,674.03 | $180,310.91 | $165,021.86 | $151,525.31 |
+| 25 | $265,341.76 | $235,930.11 | $210,876.45 | $189,452.48 | $171,060.05 |
+| 30 | $310,907.07 | $270,548.52 | $237,189.38 | $209,461.24 | $186,281.62 |
+| 35 | $354,251.03 | $301,875.16 | $259,841.37 | $225,848.47 | $198,142.35 |
+| 40 | $395,481.94 | $330,223.03 | $279,341.76 | $239,269.67 | $207,384.29 |
+
+Now that you know how to calculate what a pension is worth you can shop around for jobs not just based on salary but also pension benefits!
+
+### Employer matching is huge
+
+Almost always at least some part of a pension is funded by the employer.  This is significant because it represents more than you could save on your own.  Find out what the matching policy is.  Often employers who don't have pension plans per se will offer RRSP matching as an alternative.  This is effectively a DC pension where you could possibly control the investment ([like indexes maybe][index-investing]?).  Find out if you have control of investments.
+
+### Frequently Asked Questions
+
+Should I contribute to my pension instead of or in addition to an RRSP or [TFSA]?
+>Sometimes you'll have the option to contribute more to your pension.  Run the numbers on all options and compare them.  There is no one-size fits all answer.  Make sure that the combined cash flows in retirement will be enough to satisfy your expected spending.  If not, save more money, possibly in multiple places.
+
+What if I want to retire early?
+>Most pensions have a minimum age for vesting.  If you want to retire earlier you'll need to cover this gap with additional savings either through an RRSP, TFSA or unregistered money.
+
+Can I do better than a pension with my investments?
+>Maybe.  But remember that your employer is likely matching at least part of your pension contributions so there's an immediate increase
+
+Should I take CPP early?
+>Maybe.  Perhaps I'll write something about that later.
+
+Should I take CPP early and invest it in my RRSP?
+>Let me answer your question with another question.  Do you think you can beat the CPP?
+
+### Wrap-up
+
+Hopefully I've made things more clearly rather than more confusing.  If you've learned that there are a lot of things to think about regarding pensions, then I've done my job.  I strongly believe in doing the math yourself to understand what your pension is worth and if you don't have a pension to figure out whether or not you should take a job that does.  Above all, remember that a pension is just part of your employment income that you won't actually receive until later.  It isn't magic or perfect.
+
+### UPDATE: CPP reduction for private pensions and inflation
+
+A friend of mine, Derek Lawrence, brought a few things to my attention after I originally published this post that I figured would be helpful in this discussion.  Firstly, many pensions in Canada are integrated with the CPP and reduce payout after age 65 to account for this.  For example, the [Ontario Teacher's Pension Plan][otpp] reduces CPP pension payout after CPP kicks in by about two-thirds of the CPP payout.  For this reason when calculating the present value of a pension payout should be appropriately reduced after age 65, rendering the present value lower.  
+
+Secondly it's important that you consider inflation when calculating the present value of a pension and required retirement savings.  At 2% inflation, a dollar buys half as much after 35 years.  Fortunately wages generally increase to compensate, but this introduces an interesting curve ball to the savings calculation and to the payment part as well.  Payments should be estimated in inflated dollars if possible, and savings should be made not in absolute dollars but as a percentage of wage.  None of this invalidates the importance of the annuity calculations I included in this post, but these are definitely important considerations.
+
+[CPP]: http://www.servicecanada.gc.ca/eng/isp/cpp/cpptoc.shtml
+[OAS]: http://www.servicecanada.gc.ca/eng/isp/oas/oastoc.shtml
+[RRSP]: http://www.stamler.ca/rrsp/
+[TFSA]: http://www.stamler.ca/tfsa/
+[annuities]: http://www.stamler.ca/annuity/
+[index-investing]: http://www.stamler.ca/index-investing/
+[otpp]: https://www.otpp.com
