@@ -17,7 +17,7 @@ title: // stamler
 
 description: >- # this means to ignore newlines until "baseurl:"
   clever ideas
-baseurl: "/stamler.ca" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: dstamler
 #github_username:  stamler
