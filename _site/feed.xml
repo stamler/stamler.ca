@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-14T18:17:54-04:00</updated><id>http://localhost:4000/</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/">&lt;!-- https://forum.synology.com/enu/viewtopic.php?t=126166 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T09:35:08-04:00</updated><id>http://localhost:4000/</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">The Canadian Housing Market Needs Negative Price Pressure</title><link href="http://localhost:4000/housing-price-policy/" rel="alternate" type="text/html" title="The Canadian Housing Market Needs Negative Price Pressure" /><published>2019-03-25T11:00:00-04:00</published><updated>2019-03-25T11:00:00-04:00</updated><id>http://localhost:4000/housing-price-policy</id><content type="html" xml:base="http://localhost:4000/housing-price-policy/">&lt;p&gt;&lt;em&gt;A shortened version of this pieces appears in the &lt;a href=&quot;https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/&quot;&gt;March 25, 2019&lt;/a&gt; edition of The Globe and Mail&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the things Canadians need right now is negative pressure on the cost of housing. This can be achieved through any number of policies that increase available housing supply. Funding the construction of new co-operative housing, expanding the scope of public housing, and taxing second properties or vacant properties are all market-driven policy interventions which can be used to achieve the goal of applying negative pressure on the cost of housing within the existing market by increasing supply.&lt;/p&gt;
+
+&lt;p&gt;By comparison, the Liberal government has proposed, in their upcoming budget, a policy which will apply positive pressure to the cost of housing. It will sustain or increase prices in the market, possibly even inflating a housing price bubble. The Liberal plan involves using the CMHC, a crown corporation, to purchase up to 10% equity in homes purchased by first-time buyers. When these buyers sell their homes they would be required to pay back that amount (with or without interest or capital appreciation hasn’t been specified). By increasing the number of buyers who qualify for financing, this policy will increase housing demand and drive price growth. It will also expose the CMHC to additional risk by forcing them to bring an announced $1.25B on to their balance sheet which at some point could require a write down if housing prices fall.&lt;/p&gt;
+
+&lt;p&gt;A further questionable component of this policy is the successor. Some future government will declare the policy either unsustainable (defund it or allow the initial allocation to be depleted) or in need of expansion. Both options are fraught with peril. Should the policy be declared unsustainable a shock to the housing market would be realized in the sudden shrinking of the demand side. Should it be declared in need of expansion the price of housing would continue to rise, causing the CMHC to own an increasing amount of the (expensive) Canadian housing stock. This may seem analogous to the expansion of public housing which I mentioned earlier, but it isn’t. If public and co-operative housing were expanded the costs of the exercise would be at the control of the CMHC and economies of scale could be realized. In the Liberal policy, the already hot housing market determines the prices the CMHC has to pay for equity in the national housing stock.&lt;/p&gt;
+
+&lt;p&gt;The Liberal plan is a short-term solution which does long term damage. It doesn’t address the reason housing is expensive — lack of supply — and instead raises the prices for everyone. In doing so it will tie up an increasing amount of capital in housing and reduce the velocity of money throughout the economy.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="housing" /><category term="prices" /><category term="markets" /><category term="affordability" /><summary type="html">The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.</summary></entry><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/">&lt;!-- https://forum.synology.com/enu/viewtopic.php?t=126166 --&gt;
 &lt;p&gt;Synology does not enable password-less ssh by default on their NAS devices. Here’s how to do it yourself in DSM v6.0.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -758,133 +766,4 @@ exit
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;I’m mentioning ETFs because they’re usually even cheaper than mutual funds, but you’re welcome to check out mutuals too. All the major banks in Canada have index-tracking mutual funds with (relatively) low MERs. Anyway, hit up &lt;a href=&quot;http://questrade.com/?refid=irhnjfvn&quot;&gt;Questrade&lt;/a&gt; and open an account for free. If you don’t have a &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; or &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; yet, they’ll open one for you. If you’ve maxed both of those out already lucky you; just get a non-registered account. Happy investing!&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="average" /><category term="bonds" /><category term="index" /><category term="investing" /><category term="management expense ratio" /><category term="mer" /><category term="money" /><category term="mutual fund" /><category term="retirement" /><category term="rrsp" /><category term="stocks" /><category term="tfsa" /><summary type="html">I’ve met quite a few people who complain that their ‘investors’ or mutual funds lose their money all the time. Some of them use this as justification to just blow all their money on boats and going out for lunch every couple of days. Bad call bros. Your investor may be making terrible choices (which you have allowed) but more than likely you can fix the problem, get in control and stop being such a fatalist about your financial future by switching to index investing. Of all the potential reasons why your investment situation is sucking, there are two that are most likely the problem for you: Your investor or mutual fund is picking stocks that suck You’re paying insane MERs. Index investing is the way to beat half of the money investing in the stock market, guaranteed ! Seriously.</summary></entry><entry><title type="html">Investment types: a net worth and income tax example</title><link href="http://localhost:4000/investment-types/" rel="alternate" type="text/html" title="Investment types: a net worth and income tax example" /><published>2013-03-08T16:55:28-05:00</published><updated>2013-03-08T16:55:28-05:00</updated><id>http://localhost:4000/investment-types</id><content type="html" xml:base="http://localhost:4000/investment-types/">&lt;p&gt;Awhile back I introduced a simple rule of growing your &lt;a href=&quot;http://www.stamler.ca/net-worth/&quot;&gt;net worth&lt;/a&gt;: pay or save towards the highest after-tax interest rate first, regardless of what you owe or own.  Today I’ll introduce the investment types with respect to taxes and run some numbers using a rental property as an example.  Each investment type affects your taxes in different ways and what you choose to do with your money should certainly take your taxes into account.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;several-investment-types&quot;&gt;Several investment types&lt;/h3&gt;
-
-&lt;p&gt;Broadly speaking, there are five categories of interest-bearing investment types &lt;em&gt;and debts&lt;/em&gt; with respect to income tax.  Notice that I’m including debts here. This is important, and if you don’t get it please read my post on &lt;a href=&quot;http://www.stamler.ca/net-worth/&quot;&gt;net worth&lt;/a&gt; again. Here is a table with a brief breakdown of their tax implications.&lt;/p&gt;
-
-&lt;h4 id=&quot;investment-types&quot;&gt;Investment Types&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Type&lt;/th&gt;
-      &lt;th&gt;Examples&lt;/th&gt;
-      &lt;th&gt;Tax implications&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Non-registered investments&lt;/td&gt;
-      &lt;td&gt;stocks in unregistered accounts, rental properties&lt;/td&gt;
-      &lt;td&gt;Contributions are taxed, income is taxed at different rates depending on whether it is dividend income or capital gains or other distributions / coupon amounts&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tax-sheltered investments&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Roth_IRA&quot;&gt;Roth IRA&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Contributions are taxed but withdrawals are not&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Differed-tax investments&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/401k&quot;&gt;401(k)&lt;/a&gt;, personal corporation holdings (net of corporate tax)&lt;/td&gt;
-      &lt;td&gt;Contributions are not taxed but withdrawals are&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Investment loans&lt;/td&gt;
-      &lt;td&gt;rental mortgages, investment leverage&lt;/td&gt;
-      &lt;td&gt;Interest is used to reduce income, often 100%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Non-investment debt&lt;/td&gt;
-      &lt;td&gt;home mortgage, credit-card debt&lt;/td&gt;
-      &lt;td&gt;Interest does not reduce income. Please note that in some countries home mortgage interest is tax deductible&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;So we have about five investment types.  None are inherently better than the other because ‘betterness’ is determined by taxation and taxation is determined by your individual situation.&lt;/p&gt;
-
-&lt;h3 id=&quot;an-example-using-rental-property-mortgages&quot;&gt;An example using rental property mortgages&lt;/h3&gt;
-
-&lt;p&gt;I introduced rental property mortgages in my &lt;a href=&quot;http://www.stamler.ca/net-worth/&quot;&gt;net worth&lt;/a&gt; post because I think they’re a really simple way to clearly demonstrate the rule in action.  Rental property mortgages are “investment loans” from the table above which means they’re 100% tax-deductible.  Here is a typical example which addresses the case of two people who make different decisions about whether or not to accelerate the payments of a rental property mortgage.&lt;/p&gt;
-
-&lt;p&gt;Alice and Bob each own identical rental houses that they purchased with identical $100,000 mortgages at 5% on the same day. Bob accelerates his payments at the beginning to $1058/month, Alice pays her regular 25 year amortization at $582/month. After 10 years, Alice still has a mortgage and Bob has made his last payment. Neither of them have any other debt. Both of them have the exact same income, and thus same highest income tax rate. Here are their rental income statements for the 11th year of ownership.&lt;/p&gt;
-
-&lt;h4 id=&quot;alice--bobs-year-11-income-statement&quot;&gt;Alice &amp;amp; Bob’s Year 11 Income Statement&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Alice&lt;/th&gt;
-      &lt;th&gt;Bob&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rental income&lt;/td&gt;
-      &lt;td&gt;$10,000&lt;/td&gt;
-      &lt;td&gt;$10,000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mortgage interest&lt;/td&gt;
-      &lt;td&gt;$3500&lt;/td&gt;
-      &lt;td&gt;$0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;All other expenses&lt;/td&gt;
-      &lt;td&gt;$1000&lt;/td&gt;
-      &lt;td&gt;$1000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Net income&lt;/td&gt;
-      &lt;td&gt;$5500&lt;/td&gt;
-      &lt;td&gt;$9000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Income tax&lt;/td&gt;
-      &lt;td&gt;$1650&lt;/td&gt;
-      &lt;td&gt;$2700&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;After-tax profit&lt;/td&gt;
-      &lt;td&gt;$3850&lt;/td&gt;
-      &lt;td&gt;$6300&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;After 10 years, Bob is reporting a significantly higher net income than Alice and therefore he pays more income tax. If their top tax brackets were 30%, Bob would pay $2700 in tax while Alice would pay less at only $1650. Good job Alice! Actually no. Alice certainly pays less tax, but her after tax income from the property is only $3850 vs. Bob’s much more princely sum of $6300. Bob sacrificed at the beginning by making higher monthly payments and Alice will pay dearly for the rest of her amortization.  Read this again.  I have spoken to several rental property owners who consistently claim that paying off the rental mortgage is a bad idea because it increases taxes.  Of course it does, but it also increases after-tax profit!  If you have no other debt but a rental mortgage and you’re not paying it off at an accelerated rate if that rate exceeds the after-tax rate of other possible investments… STOP!  Pay off that rental mortgage.  &lt;em&gt;Don’t sit on a GIC at 2% if you owe on a mortgage at 4%.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I know some of you are thinking “hold on, Dean”.  Bob paid &lt;em&gt;significantly&lt;/em&gt; more money on his payments during the first ten years of ownership.  You’re right, But Alice still owes over $100k.&lt;/p&gt;
-
-&lt;h4 id=&quot;alice--bobs-payments&quot;&gt;Alice &amp;amp; Bob’s Payments&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total mortgage payments&lt;/td&gt;
-      &lt;td&gt;$69,840&lt;/td&gt;
-      &lt;td&gt;$126,960&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Remaining payments&lt;/td&gt;
-      &lt;td&gt;$104,760&lt;/td&gt;
-      &lt;td&gt;$0&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;context-matters&quot;&gt;Context matters&lt;/h3&gt;
-
-&lt;p&gt;But wait! This example is useful in its own context but like I said in my last post net worth isn’t compartmentalized. Imagine if Bob and Alice both had $100,000 mortgages on their family homes as well at the same 5%. Bob was paying $582 on his house and Alice was paying $1058 on hers. Who’s ahead after 10 years? Well the interest on the home mortgage wasn’t tax-deductible, and Alice owns her home now, but Bob doesn’t. Bob will now pay $1640 per month on his family home and Alice will pay $1640 on her rental (both Bob and Alice know that they should keep paying the same total amount instead of blowing it all on a vacation). Taken together this scenario may first appear like Alice and Bob are in the exact same financial boat, but Bob is in worse shape because he still has to pay tax on that $1640/month whereas Alice still gets to deduct interest expenses, almost $3500 in year 10. At their 30% tax rate, Alice will pay about $1000 less in taxes per year.  Short summary: &lt;em&gt;if you have a rental house as well as your own house and they both have similar mortgage rates, pay off your own house first&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;summing-it-up&quot;&gt;Summing it up&lt;/h3&gt;
-
-&lt;p&gt;Pay or save towards the highest after-tax interest rate first, regardless of what you owe or own.  I didn’t dive into all five types of interest in this post or the interactions they have with each other.  My goal here is to get you thinking about how income tax affects the things you do with your money.  But I’ve discussed specific examples in previous posts (&lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;tax-deferral&lt;/a&gt; and &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;tax-sheltered&lt;/a&gt;) so it’s probably useful to read those if you haven’t already.  I hope that all the landlords out there who have rental mortgages and no other debt will start paying off those mortgages faster if they don’t have any other higher-return investments for their cash.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="income tax" /><category term="investing" /><category term="investment" /><category term="net worth" /><category term="properties" /><category term="property" /><category term="rental" /><category term="tax" /><category term="types" /><summary type="html">Awhile back I introduced a simple rule of growing your net worth: pay or save towards the highest after-tax interest rate first, regardless of what you owe or own.  Today I’ll introduce the investment types with respect to taxes and run some numbers using a rental property as an example.  Each investment type affects your taxes in different ways and what you choose to do with your money should certainly take your taxes into account.</summary></entry></feed>
+&lt;p&gt;I’m mentioning ETFs because they’re usually even cheaper than mutual funds, but you’re welcome to check out mutuals too. All the major banks in Canada have index-tracking mutual funds with (relatively) low MERs. Anyway, hit up &lt;a href=&quot;http://questrade.com/?refid=irhnjfvn&quot;&gt;Questrade&lt;/a&gt; and open an account for free. If you don’t have a &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; or &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; yet, they’ll open one for you. If you’ve maxed both of those out already lucky you; just get a non-registered account. Happy investing!&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="average" /><category term="bonds" /><category term="index" /><category term="investing" /><category term="management expense ratio" /><category term="mer" /><category term="money" /><category term="mutual fund" /><category term="retirement" /><category term="rrsp" /><category term="stocks" /><category term="tfsa" /><summary type="html">I’ve met quite a few people who complain that their ‘investors’ or mutual funds lose their money all the time. Some of them use this as justification to just blow all their money on boats and going out for lunch every couple of days. Bad call bros. Your investor may be making terrible choices (which you have allowed) but more than likely you can fix the problem, get in control and stop being such a fatalist about your financial future by switching to index investing. Of all the potential reasons why your investment situation is sucking, there are two that are most likely the problem for you: Your investor or mutual fund is picking stocks that suck You’re paying insane MERs. Index investing is the way to beat half of the money investing in the stock market, guaranteed ! Seriously.</summary></entry></feed>
