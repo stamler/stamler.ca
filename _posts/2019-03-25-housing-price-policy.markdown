@@ -18,7 +18,7 @@ author: Dean Stamler
 excerpt: The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.
 excerpt_separator: <!--more-->
 ---
-_A shortened version of this pieces appears in the [March 25, 2019](https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/) edition of The Globe and Mail_
+_A shortened version of this piece appears as a letter in the [March 25, 2019](https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/) edition of The Globe and Mail_
 
 One of the things Canadians need right now is negative pressure on the cost of housing. This can be achieved through any number of policies that increase available housing supply. Funding the construction of new co-operative housing, expanding the scope of public housing, and taxing second properties or vacant properties are all market-driven policy interventions which can be used to achieve the goal of applying negative pressure on the cost of housing within the existing market by increasing supply.
   
