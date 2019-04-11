@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T09:35:08-04:00</updated><id>http://localhost:4000/</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">The Canadian Housing Market Needs Negative Price Pressure</title><link href="http://localhost:4000/housing-price-policy/" rel="alternate" type="text/html" title="The Canadian Housing Market Needs Negative Price Pressure" /><published>2019-03-25T11:00:00-04:00</published><updated>2019-03-25T11:00:00-04:00</updated><id>http://localhost:4000/housing-price-policy</id><content type="html" xml:base="http://localhost:4000/housing-price-policy/">&lt;p&gt;&lt;em&gt;A shortened version of this pieces appears in the &lt;a href=&quot;https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/&quot;&gt;March 25, 2019&lt;/a&gt; edition of The Globe and Mail&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-11T14:50:06-04:00</updated><id>http://localhost:4000/</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">The Canadian Housing Market Needs Negative Price Pressure</title><link href="http://localhost:4000/housing-price-policy/" rel="alternate" type="text/html" title="The Canadian Housing Market Needs Negative Price Pressure" /><published>2019-03-25T11:00:00-04:00</published><updated>2019-03-25T11:00:00-04:00</updated><id>http://localhost:4000/housing-price-policy</id><content type="html" xml:base="http://localhost:4000/housing-price-policy/">&lt;p&gt;&lt;em&gt;A shortened version of this piece appears as a letter in the &lt;a href=&quot;https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/&quot;&gt;March 25, 2019&lt;/a&gt; edition of The Globe and Mail&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the things Canadians need right now is negative pressure on the cost of housing. This can be achieved through any number of policies that increase available housing supply. Funding the construction of new co-operative housing, expanding the scope of public housing, and taxing second properties or vacant properties are all market-driven policy interventions which can be used to achieve the goal of applying negative pressure on the cost of housing within the existing market by increasing supply.&lt;/p&gt;
 
@@ -6,7 +6,50 @@
 
 &lt;p&gt;A further questionable component of this policy is the successor. Some future government will declare the policy either unsustainable (defund it or allow the initial allocation to be depleted) or in need of expansion. Both options are fraught with peril. Should the policy be declared unsustainable a shock to the housing market would be realized in the sudden shrinking of the demand side. Should it be declared in need of expansion the price of housing would continue to rise, causing the CMHC to own an increasing amount of the (expensive) Canadian housing stock. This may seem analogous to the expansion of public housing which I mentioned earlier, but it isn’t. If public and co-operative housing were expanded the costs of the exercise would be at the control of the CMHC and economies of scale could be realized. In the Liberal policy, the already hot housing market determines the prices the CMHC has to pay for equity in the national housing stock.&lt;/p&gt;
 
-&lt;p&gt;The Liberal plan is a short-term solution which does long term damage. It doesn’t address the reason housing is expensive — lack of supply — and instead raises the prices for everyone. In doing so it will tie up an increasing amount of capital in housing and reduce the velocity of money throughout the economy.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="housing" /><category term="prices" /><category term="markets" /><category term="affordability" /><summary type="html">The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.</summary></entry><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/">&lt;!-- https://forum.synology.com/enu/viewtopic.php?t=126166 --&gt;
+&lt;p&gt;The Liberal plan is a short-term solution which does long term damage. It doesn’t address the reason housing is expensive — lack of supply — and instead raises the prices for everyone. In doing so it will tie up an increasing amount of capital in housing and reduce the velocity of money throughout the economy.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="housing" /><category term="prices" /><category term="markets" /><category term="affordability" /><summary type="html">The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.</summary></entry><entry><title type="html">AWS Storage Gateway and NTFS permissions for SMB sharing</title><link href="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/" rel="alternate" type="text/html" title="AWS Storage Gateway and NTFS permissions for SMB sharing" /><published>2018-09-01T12:49:00-04:00</published><updated>2018-09-01T12:49:00-04:00</updated><id>http://localhost:4000/AWS%20Storage%20Gateway%20and%20NTFS%20permissions</id><content type="html" xml:base="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/">&lt;p&gt;TL;DR &lt;em&gt;RID portion of Windows SID + 66666 = POSIX ID assigned by Storage Gateway&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aws.amazon.com/storagegateway/&quot;&gt;AWS Storage Gateway&lt;/a&gt; for Files is a front-end for &lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;, delivered as a VM appliance, that exposes either an NFS or an SMB file share. This exposed share is cached at the storage gateway (the VM) so that subsequent hits to the share pull cached data rather than S3, minimizing requests. It also invisibly uploads and files written to the share to blobs on S3. This is particularly useful for storing archival data, however S3 itself doesn’t have any mechanism for storing granular user/group/everybody permissions. Each object in an S3 bucket can follow that bucket’s permissions, but these are not exposed to the exported share. Instead, metadata attached to each S3 object is the definitive authority of permissions exported in the file share, whether NFS or SMB.&lt;/p&gt;
+
+&lt;p&gt;On write, the following metadata is added to each BLOB.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;x-amz-meta-file-group (posix-style gid)&lt;/li&gt;
+  &lt;li&gt;x-amz-meta-file-owner (posix-style uid)&lt;/li&gt;
+  &lt;li&gt;x-amz-meta-file-permissions (posix-style permissions correlating to uid, gid, and Everybody)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mapping-sid-to-posix-for-aws-gateway&quot;&gt;Mapping SID to Posix for AWS Gateway&lt;/h3&gt;
+
+&lt;p&gt;So how does the storage gateway assign these permissions to S3 blobs when the files are written to the gateway? To undertand the answer to this question, we look to the way that Windows &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/desktop/secmgmt/mapping-posix-identifiers&quot;&gt;maps POSIX identifiers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Storage Gateway assigns group and user values by using the SID in a Windows environment added to an offset. After testing, I discovered that &lt;strong&gt;Storage Gateway uses an offset of 66666&lt;/strong&gt; to the RID part of the SID of an object to get a mapped POSIX ID which is stored as metadata on the S3 bucket.&lt;/p&gt;
+
+&lt;p&gt;For example, if a domain user has an SID of S-1-5-21-&amp;lt;domainSID&amp;gt;-513 this would map to 67179 as the POSIX ID.&lt;/p&gt;
+
+&lt;p&gt;Please note that not all Posix ID translations make use of a TrustedDomain object per the above article. The following table shows SIDs that are mapped using well-known offset values.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Source&lt;/th&gt;
+      &lt;th&gt;POSIX ID offset&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SIDs from the built-in domain&lt;/td&gt;
+      &lt;td&gt;0x20000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SIDs from the account domain&lt;/td&gt;
+      &lt;td&gt;0x30000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SIDs from the primary domain (on Workstations only)&lt;/td&gt;
+      &lt;td&gt;0x40000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Dean Stamler</name></author><category term="aws" /><category term="ntfs" /><category term="permissions" /><category term="smb" /><category term="file sharing" /><summary type="html">AWS Storage Gateway can expose an S3 bucket as an SMB share, but permissions behaviour can be confusing. Here's an explanation.</summary></entry><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/">&lt;!-- https://forum.synology.com/enu/viewtopic.php?t=126166 --&gt;
 &lt;p&gt;Synology does not enable password-less ssh by default on their NAS devices. Here’s how to do it yourself in DSM v6.0.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -695,75 +738,4 @@ exit
 
 &lt;h3 id=&quot;so-should-i-get-a-life-annuity&quot;&gt;So should I get a life annuity?&lt;/h3&gt;
 
-&lt;p&gt;You have to decide whether or not it’s worth it to buy an annuity. Dependability has some serious advantages. That being said, it’s probably not a good idea to use all of your savings to buy an annuity. For example, say in retirement you need to make a big purchase. The working you would get a loan and then pay it off, with interest. The retired you who has a pile of cash can just pay cash for that big purchase and pay &lt;em&gt;no interest&lt;/em&gt;! But if you have an annuity instead of a big pile of cash you’ll probably need a loan, with interest. There are literally hundreds of scenarios where an annuity could work against you if you don’t have another pool of cash in retirement. That is the cost of dependability.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="annuity" /><category term="earning" /><category term="finance" /><category term="income" /><category term="payments" /><category term="planning" /><category term="present" /><category term="retirement" /><category term="tax" /><category term="valuation" /><category term="value" /><summary type="html">The time-value of money is the principle that money today has a different value than money tomorrow. At the centre of this concept is the annuity and its formula, which I will not derive or prove here because I’m the only one who will find it interesting. An annuity is a set of fixed payments that are made over a specified period of time. I’m going to focus on a specific type of annuity here: a life annuity. A life annuity is an insurance policy sold by an insurance company that pays a (usually monthly) payment to the buyer until the buyer (or the buyer’s surviving partner in some cases) dies. Sometimes you just want to be able to know how much money you’re going to have in the future and the life annuity is one way to do that. Life annuities can seem expensive if you’re not used to seeing the numbers. The high price is the price of certainty. I’m going to talk about annuities in the context of retirement, but the math involved translates into pretty much every area of finance so pay attention. The words annuity and life annuity will be used interchangeably depending on context. Get ready to bite off more than most of us can chew, myself included.</summary></entry><entry><title type="html">Index investing: because average is better than most</title><link href="http://localhost:4000/index-investing/" rel="alternate" type="text/html" title="Index investing: because average is better than most" /><published>2013-03-11T16:00:23-04:00</published><updated>2013-03-11T16:00:23-04:00</updated><id>http://localhost:4000/index-investing</id><content type="html" xml:base="http://localhost:4000/index-investing/">&lt;p&gt;I’ve met quite a few people who complain that their ‘investors’ or mutual funds lose their money all the time. Some of them use this as justification to just blow all their money on boats and going out for lunch every couple of days. Bad call bros. Your investor may be making terrible choices (which you have allowed) but more than likely you can fix the problem, get in control and stop being such a fatalist about your financial future by switching to index investing. Of all the potential reasons why your investment situation is sucking, there are two that are most likely the problem for you:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Your investor or mutual fund is picking stocks that suck&lt;/li&gt;
-  &lt;li&gt;You’re paying insane MERs.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Index investing is the way to beat half of the money investing in the stock market, &lt;em&gt;guaranteed&lt;/em&gt; ! Seriously.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;index-investing-stops-bad-stock-picks-bybuyingeverything&quot;&gt;Index investing stops bad stock picks by buying everything&lt;/h3&gt;
-
-&lt;p&gt;An index is a set of rules that rarely change and clearly define a collection of assets regardless of how well or poorly the market performs. Got that? No? Here’s an example. There’s a well-known index called the S&amp;amp;P 500 that you may have heard of. The clearly defined rules that is uses are simple: it contains the 500 largest companies by market capitalization from the NYSE or NASDAQ stock exchanges. Actually it’s not that simple, but for the sake of argument it’s close enough. The index is weighted by market capitalization as well which means that if company X has a market cap 3 times as much as company Y, then the index moves 3 times as much for company X’s share price changes as for company Y’s share price changes. This is key because it means the tiny weak companies whose stock prices swing wildly aren’t nearly as well represented as the big strong ones.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-index-investing&quot;&gt;What is index investing?&lt;/h3&gt;
-
-&lt;p&gt;Index investing is the process of buying an index. The thing is you can’t actually buy an index because it’s just a set of rules, so to “buy the index” you have to buy all of the things that make up the index to mirror its performance. If you’re loaded you could individually buy each stock or asset that makes up the index in the proper amounts based on weighting. But most of us aren’t loaded so we buy pieces of a big pie that has already done that buying and weighting for us. These are almost always mutual funds or ETFs (exchange traded funds). The performance of these tracks the index fairly well usually, and their MERs are &lt;em&gt;very low&lt;/em&gt; because the people investing the money don’t have to work very hard since they’re just following the index rules. Of course shopping around will get you the lowest MER since there’s always a mutual fund company wanting to fleece you for the most they can.&lt;/p&gt;
-
-&lt;h3 id=&quot;why-is-index-investing-so-great&quot;&gt;Why is index investing so great?&lt;/h3&gt;
-
-&lt;p&gt;Imagine there are three investors. One investor throws her money into an index and the other two don’t. How the index investor will perform this year is a foregone conclusion: she’ll match the index. How about the other two? Well, they’re trying to &lt;em&gt;beat&lt;/em&gt; the index. They want to have a &lt;em&gt;higher return&lt;/em&gt; than the index otherwise they would’ve just bought the index. One guy does beat the index! The other one comes up short by &lt;em&gt;exactly&lt;/em&gt; the same amount as the first guy beat it. Why? Well let’s make it even simpler. When someone buys an equity, they’re buying it from someone else who is selling it in the hopes that it will go higher. But the guy selling it thinks it has topped-out otherwise he wouldn’t be selling it! In fact mathematically speaking the same amount of money that people earn beating the index has to be lost by people trailing the index on a continual basis. It’s basically a zero-sum game. The index is average, the 50th percentile. This is one case in life where being average is pretty great because it’s dependable.&lt;/p&gt;
-
-&lt;h3 id=&quot;diversity-is-easy-with-indexes-too&quot;&gt;Diversity is easy with indexes too&lt;/h3&gt;
-
-&lt;p&gt;Buying indexes around the world is a cinch. If you want to buy Canada you can buy a Canadian index like the TSX 60. If you want to buy the US you could buy the S&amp;amp;P 500. If you want to buy emerging markets, you could buy the FTSE Emerging markets index. Basically it’s really easy to get a piece of all the pies and be globally average.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-that-management-expense-ratio-mer-thing&quot;&gt;What is that management expense ratio (MER) thing?&lt;/h3&gt;
-
-&lt;p&gt;At least part of the problem with not making good money is the MER or management expense ratio. This insidious number which shows up on the prospectus for whatever the heck you’re investing in is of &lt;em&gt;ultra&lt;/em&gt; importance. In basic terms the MER is the amount of the total value of a mutual fund or ETF that is used for managing that fund in a given year and is expressed as a percentage. For example if a fund has $50 million in it and it cost $1 million to run it (pay the fund manager(s) and their expenses) during the 2012 fiscal year, then the MER for 2012 is 2%. Here’s the thing. Most MERs are higher than they have to be. According to Investor Economics, the  &lt;em&gt;average&lt;/em&gt; MER of a Canadian mutual fund in 2006 was 2.2%. That means that if the average fund gained 2.2%, then the average investor would pocket 0%. Nothing. Some of you are probably thinking “yeah but Dean my investor is awesome and totally justifies the MER”. Maybe, but you’re lucky. About one in a thousand mutual funds beat the S&amp;amp;P 500 over the long term, and you can buy the S&amp;amp;P 500 index through any number of ETFs and mutual funds with &lt;em&gt;incredibly low&lt;/em&gt; MERs.&lt;/p&gt;
-
-&lt;h3 id=&quot;balance-that-portfolio&quot;&gt;Balance that portfolio&lt;/h3&gt;
-
-&lt;p&gt;Unless you have a good reason, it’s usually smart to keep your portfolio balanced. If one holding goes up, buy more of the other so they’re balanced. That way you’ll average their performance over time.&lt;/p&gt;
-
-&lt;h3 id=&quot;buy-regularly&quot;&gt;Buy regularly&lt;/h3&gt;
-
-&lt;p&gt;Dollar cost averaging is the process of investing the same amount of money on a regular basis, preferably really often. As the value of your mutual fund or index (or stock or any other financial instrument) goes up or down, the actual number of units you buy changes. You actually end up buying more when they’re cheaper and less when they’re more expensive. In this way, you average our your cost basis.&lt;/p&gt;
-
-&lt;h3 id=&quot;hold-my-hand-i-need-help&quot;&gt;Hold my hand, I need help!&lt;/h3&gt;
-
-&lt;p&gt;Ok. Get yourself a &lt;em&gt;cheap&lt;/em&gt; place to invest. I use &lt;a href=&quot;http://questrade.com/?refid=irhnjfvn&quot;&gt;Questrade&lt;/a&gt; because they don’t charge ANY commission when you buy ETFs. This is a huge deal, they’re the only organization in Canada at the time of this writing that does this. That means I never pay fees to buy, only to sell. Then research what you want to buy. Might I suggest indexes? Here are a few index-tracking ETFs to look at. I’m glossing over these with few details because I think you should read about them yourself.&lt;/p&gt;
-
-&lt;h4 id=&quot;some-index-tracking-etfs-worth-checking-out&quot;&gt;Some index-tracking ETFs worth checking out&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Institution&lt;/th&gt;
-      &lt;th&gt;S&amp;amp;P TSX 60&lt;/th&gt;
-      &lt;th&gt;S&amp;amp;P 500&lt;/th&gt;
-      &lt;th&gt;Emerging Markets&lt;/th&gt;
-      &lt;th&gt;Europe &amp;amp; Asia&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Vanguard ETFs (USD)&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;VTI&lt;/td&gt;
-      &lt;td&gt;VWO&lt;/td&gt;
-      &lt;td&gt;VEA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iShares ETFs (CAD)&lt;/td&gt;
-      &lt;td&gt;XIU&lt;/td&gt;
-      &lt;td&gt;XSP&lt;/td&gt;
-      &lt;td&gt;XEM&lt;/td&gt;
-      &lt;td&gt;XIN&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;I’m mentioning ETFs because they’re usually even cheaper than mutual funds, but you’re welcome to check out mutuals too. All the major banks in Canada have index-tracking mutual funds with (relatively) low MERs. Anyway, hit up &lt;a href=&quot;http://questrade.com/?refid=irhnjfvn&quot;&gt;Questrade&lt;/a&gt; and open an account for free. If you don’t have a &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; or &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; yet, they’ll open one for you. If you’ve maxed both of those out already lucky you; just get a non-registered account. Happy investing!&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="average" /><category term="bonds" /><category term="index" /><category term="investing" /><category term="management expense ratio" /><category term="mer" /><category term="money" /><category term="mutual fund" /><category term="retirement" /><category term="rrsp" /><category term="stocks" /><category term="tfsa" /><summary type="html">I’ve met quite a few people who complain that their ‘investors’ or mutual funds lose their money all the time. Some of them use this as justification to just blow all their money on boats and going out for lunch every couple of days. Bad call bros. Your investor may be making terrible choices (which you have allowed) but more than likely you can fix the problem, get in control and stop being such a fatalist about your financial future by switching to index investing. Of all the potential reasons why your investment situation is sucking, there are two that are most likely the problem for you: Your investor or mutual fund is picking stocks that suck You’re paying insane MERs. Index investing is the way to beat half of the money investing in the stock market, guaranteed ! Seriously.</summary></entry></feed>
+&lt;p&gt;You have to decide whether or not it’s worth it to buy an annuity. Dependability has some serious advantages. That being said, it’s probably not a good idea to use all of your savings to buy an annuity. For example, say in retirement you need to make a big purchase. The working you would get a loan and then pay it off, with interest. The retired you who has a pile of cash can just pay cash for that big purchase and pay &lt;em&gt;no interest&lt;/em&gt;! But if you have an annuity instead of a big pile of cash you’ll probably need a loan, with interest. There are literally hundreds of scenarios where an annuity could work against you if you don’t have another pool of cash in retirement. That is the cost of dependability.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="annuity" /><category term="earning" /><category term="finance" /><category term="income" /><category term="payments" /><category term="planning" /><category term="present" /><category term="retirement" /><category term="tax" /><category term="valuation" /><category term="value" /><summary type="html">The time-value of money is the principle that money today has a different value than money tomorrow. At the centre of this concept is the annuity and its formula, which I will not derive or prove here because I’m the only one who will find it interesting. An annuity is a set of fixed payments that are made over a specified period of time. I’m going to focus on a specific type of annuity here: a life annuity. A life annuity is an insurance policy sold by an insurance company that pays a (usually monthly) payment to the buyer until the buyer (or the buyer’s surviving partner in some cases) dies. Sometimes you just want to be able to know how much money you’re going to have in the future and the life annuity is one way to do that. Life annuities can seem expensive if you’re not used to seeing the numbers. The high price is the price of certainty. I’m going to talk about annuities in the context of retirement, but the math involved translates into pretty much every area of finance so pay attention. The words annuity and life annuity will be used interchangeably depending on context. Get ready to bite off more than most of us can chew, myself included.</summary></entry></feed>
