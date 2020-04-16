@@ -26,7 +26,7 @@ Match Group administrators
       AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
 ```
 
-Once those lines are commented and you've restarted the OpenSSH server, your keys will work. I recommend you read the above link, however, to ensure that you're familiar with why the decision was made in the default configuration. It's realted to [UAC][uac].
+Once those lines are commented and you've restarted the OpenSSH server, your keys will work. I recommend you read the above link, however, to ensure that you're familiar with why the decision was made in the default configuration. It's related to [UAC][uac].
 
 There's one more thing though, and that's the permissions of the `.ssh` folder and the `authorized_keys` file in it. You must set them precisely as follows: `SYSTEM` and the user must have full permissions, with no other entries in the ACL. Just two entries for both the containing .ssh folder and all contents. That's it! Now you've got passwordless OpenSSH on Windows.
 
