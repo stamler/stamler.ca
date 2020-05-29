@@ -27,6 +27,8 @@ Since owners (and Tesla) would profit by lending their car to the network, Tesla
 
 It's unlikely that Tesla will sell self-driving to the public at a low price once it is finished. It will be a feature that will cost several times the price of the car. The car just becomes the hardware necessary to ship the software, which is the real money maker.
 
-Uber, Lyft, GM, Ford, Chrysler, VW Group, Toyota, Honda, Hyundai: none are safe.
+An incredible property of this business model is that the capex and maintenance costs associated with the hardware are entirely externalized to vehicle buyers, making profit very high on software.
+
+Uber, Lyft, GM, Ford, Chrysler, VW Group, Toyota, Honda, Hyundai— none are safe in the scenario where Tesla delivers autonomy.
 
 [autopilot-UI]: {{ "/assets/autopilot-UI.png" | absolute_url }} "Image from Tesla press kit"
