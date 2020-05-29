@@ -17,6 +17,7 @@ author: Dean Stamler
 excerpt_separator: <!--more-->
 ---
 ![Autopilot UI][autopilot-UI]
+
 If Tesla fails to deliver autonomy they just make advanced electric cars, grid storage, and solar panels. If Tesla delivers autonomy almost everyone in transportation could be decimated.
 <!--more-->
 Tesla makes a profit on each vehicle they sell and the cost of each vehicle continues to decrease, widening the margin. At some point in the near future the sale price of a vehicle, including profit, will match that of internal combustion vehicles. When this happens, Tesla could actually choose to sell cars at a lower margin, effectively undercutting every other car manufacturer, and yet make more money per unit by selling access to the self-driving capability to the public as part of the Tesla network. Since owners (and Tesla) would profit by lending their car to the network, Teslas would be cheaper still, yet the margins would continue to grow for the company. In effect, the increased utilization inherent in car sharing would drastically reduce both car ownership and the cost of owning the car, providing the owner shares. Tesla is the only company close to achieving this outcome and poised to take an increasingly large piece of global transportation profits while undermining all competitors.
