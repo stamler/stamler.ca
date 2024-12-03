@@ -1,741 +1,500 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-11T14:50:06-04:00</updated><id>http://localhost:4000/</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">The Canadian Housing Market Needs Negative Price Pressure</title><link href="http://localhost:4000/housing-price-policy/" rel="alternate" type="text/html" title="The Canadian Housing Market Needs Negative Price Pressure" /><published>2019-03-25T11:00:00-04:00</published><updated>2019-03-25T11:00:00-04:00</updated><id>http://localhost:4000/housing-price-policy</id><content type="html" xml:base="http://localhost:4000/housing-price-policy/">&lt;p&gt;&lt;em&gt;A shortened version of this piece appears as a letter in the &lt;a href=&quot;https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/&quot;&gt;March 25, 2019&lt;/a&gt; edition of The Globe and Mail&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-03T12:48:28-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">// stamler</title><subtitle>clever ideas</subtitle><entry><title type="html">If Tesla Nails Autonomy</title><link href="http://localhost:4000/If-Tesla-Nails-Autonomy/" rel="alternate" type="text/html" title="If Tesla Nails Autonomy" /><published>2020-05-29T13:00:56-04:00</published><updated>2020-05-29T13:00:56-04:00</updated><id>http://localhost:4000/If-Tesla-Nails-Autonomy</id><content type="html" xml:base="http://localhost:4000/If-Tesla-Nails-Autonomy/"><![CDATA[<p><img src="http://localhost:4000/assets/autopilot-UI.png" alt="Autopilot UI" title="Image from Tesla press kit" /></p>
 
-&lt;p&gt;One of the things Canadians need right now is negative pressure on the cost of housing. This can be achieved through any number of policies that increase available housing supply. Funding the construction of new co-operative housing, expanding the scope of public housing, and taxing second properties or vacant properties are all market-driven policy interventions which can be used to achieve the goal of applying negative pressure on the cost of housing within the existing market by increasing supply.&lt;/p&gt;
+<p>If Tesla fails to deliver autonomy they just make advanced electric cars, grid storage, and solar panels. If Tesla delivers autonomy almost everyone in transportation could be decimated.
+<!--more--></p>
 
-&lt;p&gt;By comparison, the Liberal government has proposed, in their upcoming budget, a policy which will apply positive pressure to the cost of housing. It will sustain or increase prices in the market, possibly even inflating a housing price bubble. The Liberal plan involves using the CMHC, a crown corporation, to purchase up to 10% equity in homes purchased by first-time buyers. When these buyers sell their homes they would be required to pay back that amount (with or without interest or capital appreciation hasn’t been specified). By increasing the number of buyers who qualify for financing, this policy will increase housing demand and drive price growth. It will also expose the CMHC to additional risk by forcing them to bring an announced $1.25B on to their balance sheet which at some point could require a write down if housing prices fall.&lt;/p&gt;
+<p>Tesla makes a profit on each vehicle they sell and the cost of each vehicle continues to decrease, widening the margin. At some point in the near future the sale price of a vehicle, including profit, will match that of internal combustion vehicles. When this happens, Tesla could actually choose to sell cars at a lower margin, effectively undercutting every other car manufacturer, and yet make more money per unit by selling access to the self-driving capability to the public as part of the Tesla network.</p>
 
-&lt;p&gt;A further questionable component of this policy is the successor. Some future government will declare the policy either unsustainable (defund it or allow the initial allocation to be depleted) or in need of expansion. Both options are fraught with peril. Should the policy be declared unsustainable a shock to the housing market would be realized in the sudden shrinking of the demand side. Should it be declared in need of expansion the price of housing would continue to rise, causing the CMHC to own an increasing amount of the (expensive) Canadian housing stock. This may seem analogous to the expansion of public housing which I mentioned earlier, but it isn’t. If public and co-operative housing were expanded the costs of the exercise would be at the control of the CMHC and economies of scale could be realized. In the Liberal policy, the already hot housing market determines the prices the CMHC has to pay for equity in the national housing stock.&lt;/p&gt;
+<p>Since owners (and Tesla) would profit by lending their car to the network, Teslas would be cheaper still, yet the margins would continue to grow for the company. In effect, the increased utilization inherent in car sharing would drastically reduce both car ownership and the cost of owning the car, providing the owner shares. Tesla is the only company close to achieving this outcome and poised to take an increasingly large piece of global transportation profits while undermining all competitors.</p>
 
-&lt;p&gt;The Liberal plan is a short-term solution which does long term damage. It doesn’t address the reason housing is expensive — lack of supply — and instead raises the prices for everyone. In doing so it will tie up an increasing amount of capital in housing and reduce the velocity of money throughout the economy.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="housing" /><category term="prices" /><category term="markets" /><category term="affordability" /><summary type="html">The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.</summary></entry><entry><title type="html">AWS Storage Gateway and NTFS permissions for SMB sharing</title><link href="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/" rel="alternate" type="text/html" title="AWS Storage Gateway and NTFS permissions for SMB sharing" /><published>2018-09-01T12:49:00-04:00</published><updated>2018-09-01T12:49:00-04:00</updated><id>http://localhost:4000/AWS%20Storage%20Gateway%20and%20NTFS%20permissions</id><content type="html" xml:base="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/">&lt;p&gt;TL;DR &lt;em&gt;RID portion of Windows SID + 66666 = POSIX ID assigned by Storage Gateway&lt;/em&gt;&lt;/p&gt;
+<p>It’s unlikely that Tesla will sell self-driving to the public at a low price once it is finished. It will be a feature that will cost several times the price of the car. The car just becomes the hardware necessary to ship the software, which is the real money maker.</p>
 
-&lt;p&gt;&lt;a href=&quot;https://aws.amazon.com/storagegateway/&quot;&gt;AWS Storage Gateway&lt;/a&gt; for Files is a front-end for &lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;, delivered as a VM appliance, that exposes either an NFS or an SMB file share. This exposed share is cached at the storage gateway (the VM) so that subsequent hits to the share pull cached data rather than S3, minimizing requests. It also invisibly uploads and files written to the share to blobs on S3. This is particularly useful for storing archival data, however S3 itself doesn’t have any mechanism for storing granular user/group/everybody permissions. Each object in an S3 bucket can follow that bucket’s permissions, but these are not exposed to the exported share. Instead, metadata attached to each S3 object is the definitive authority of permissions exported in the file share, whether NFS or SMB.&lt;/p&gt;
+<p>An incredible property of this business model is that the capex and maintenance costs associated with the hardware are entirely externalized to vehicle buyers, making profit very high on software.</p>
 
-&lt;p&gt;On write, the following metadata is added to each BLOB.&lt;/p&gt;
+<p>Uber, Lyft, GM, Ford, Chrysler, VW Group, Toyota, Honda, Hyundai— none are safe in the scenario where Tesla delivers autonomy.</p>]]></content><author><name>Dean Stamler</name></author><category term="Transportation" /><category term="autonomy" /><category term="transportation" /><category term="ev" /><summary type="html"><![CDATA[If Tesla fails to deliver autonomy they just make advanced electric cars, grid storage, and solar panels. If Tesla delivers autonomy almost everyone in transportation could be decimated.]]></summary></entry><entry><title type="html">Passwordless OpenSSH on Windows 10 and Server 2019</title><link href="http://localhost:4000/openssh-windows/" rel="alternate" type="text/html" title="Passwordless OpenSSH on Windows 10 and Server 2019" /><published>2020-04-16T13:00:56-04:00</published><updated>2020-04-16T13:00:56-04:00</updated><id>http://localhost:4000/openssh-windows</id><content type="html" xml:base="http://localhost:4000/openssh-windows/"><![CDATA[<p>Windows 10 version 1809 and Windows Server 2019 can both install OpenSSH as a <a href="https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse">supported feature</a> using both PowerShell or the GUI.
+<!--more--></p>
 
-&lt;ul&gt;
-  &lt;li&gt;x-amz-meta-file-group (posix-style gid)&lt;/li&gt;
-  &lt;li&gt;x-amz-meta-file-owner (posix-style uid)&lt;/li&gt;
-  &lt;li&gt;x-amz-meta-file-permissions (posix-style permissions correlating to uid, gid, and Everybody)&lt;/li&gt;
-&lt;/ul&gt;
+<p>Of course there are some quirks. The first is that while most users would expect to have their <code class="language-plaintext highlighter-rouge">authorized_keys</code> in <code class="language-plaintext highlighter-rouge">C:\Users\%u\.ssh\authorized_keys</code>, this isn’t the case for users in the Administrators group, including Domain Admins. For these users, the default <code class="language-plaintext highlighter-rouge">sshd_config</code> expects all admins to share an <code class="language-plaintext highlighter-rouge">authorized_keys</code> file called <code class="language-plaintext highlighter-rouge">administrators_authorized_keys</code> found in <code class="language-plaintext highlighter-rouge">C:\ProgramData\ssh\</code>. The rationale is explained <a href="https://github.com/PowerShell/Win32-OpenSSH/issues/1324">here</a> (and other places I’m sure). This causes unexpected behaviour in configuring Windows for OpenSSH management. Fixing this is easy. Simply edit <code class="language-plaintext highlighter-rouge">C:\ProgramData\ssh\sshd_config</code> and comment out the following lines:</p>
 
-&lt;h3 id=&quot;mapping-sid-to-posix-for-aws-gateway&quot;&gt;Mapping SID to Posix for AWS Gateway&lt;/h3&gt;
+<pre><code class="language-ascii">Match Group administrators
+      AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
+</code></pre>
 
-&lt;p&gt;So how does the storage gateway assign these permissions to S3 blobs when the files are written to the gateway? To undertand the answer to this question, we look to the way that Windows &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/desktop/secmgmt/mapping-posix-identifiers&quot;&gt;maps POSIX identifiers&lt;/a&gt;.&lt;/p&gt;
+<p>Once those lines are commented and you’ve restarted the OpenSSH server, your keys will work. I recommend you read the above link, however, to ensure that you’re familiar with why the decision was made in the default configuration. It’s related to <a href="https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works">UAC</a>.</p>
 
-&lt;p&gt;Storage Gateway assigns group and user values by using the SID in a Windows environment added to an offset. After testing, I discovered that &lt;strong&gt;Storage Gateway uses an offset of 66666&lt;/strong&gt; to the RID part of the SID of an object to get a mapped POSIX ID which is stored as metadata on the S3 bucket.&lt;/p&gt;
+<p>There’s one more thing though, and that’s the permissions of the <code class="language-plaintext highlighter-rouge">.ssh</code> folder and the <code class="language-plaintext highlighter-rouge">authorized_keys</code> file in it. You must set them precisely as follows: <code class="language-plaintext highlighter-rouge">SYSTEM</code> and the user must have full permissions, with no other entries in the ACL. Just two entries for both the containing .ssh folder and all contents. That’s it! Now you’ve got passwordless OpenSSH on Windows.</p>]]></content><author><name>Dean Stamler</name></author><category term="IT" /><category term="authentication" /><category term="windows" /><category term="openssh" /><summary type="html"><![CDATA[Windows 10 version 1809 and Windows Server 2019 can both install OpenSSH as a supported feature using both PowerShell or the GUI.]]></summary></entry><entry><title type="html">The Canadian Housing Market Needs Negative Price Pressure</title><link href="http://localhost:4000/housing-price-policy/" rel="alternate" type="text/html" title="The Canadian Housing Market Needs Negative Price Pressure" /><published>2019-03-25T11:00:00-04:00</published><updated>2019-03-25T11:00:00-04:00</updated><id>http://localhost:4000/housing-price-policy</id><content type="html" xml:base="http://localhost:4000/housing-price-policy/"><![CDATA[<p><em>A shortened version of this piece appears as a letter in the <a href="https://www.theglobeandmail.com/opinion/letters/article-march-25-budget-calculations-2019-plus-other-letters-to-the-editor/">March 25, 2019</a> edition of The Globe and Mail</em></p>
 
-&lt;p&gt;For example, if a domain user has an SID of S-1-5-21-&amp;lt;domainSID&amp;gt;-513 this would map to 67179 as the POSIX ID.&lt;/p&gt;
+<p>One of the things Canadians need right now is negative pressure on the cost of housing. This can be achieved through any number of policies that increase available housing supply. Funding the construction of new co-operative housing, expanding the scope of public housing, and taxing second properties or vacant properties are all market-driven policy interventions which can be used to achieve the goal of applying negative pressure on the cost of housing within the existing market by increasing supply.</p>
 
-&lt;p&gt;Please note that not all Posix ID translations make use of a TrustedDomain object per the above article. The following table shows SIDs that are mapped using well-known offset values.&lt;/p&gt;
+<p>By comparison, the Liberal government has proposed, in their upcoming budget, a policy which will apply positive pressure to the cost of housing. It will sustain or increase prices in the market, possibly even inflating a housing price bubble. The Liberal plan involves using the CMHC, a crown corporation, to purchase up to 10% equity in homes purchased by first-time buyers. When these buyers sell their homes they would be required to pay back that amount (with or without interest or capital appreciation hasn’t been specified). By increasing the number of buyers who qualify for financing, this policy will increase housing demand and drive price growth. It will also expose the CMHC to additional risk by forcing them to bring an announced $1.25B on to their balance sheet which at some point could require a write down if housing prices fall.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Source&lt;/th&gt;
-      &lt;th&gt;POSIX ID offset&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;SIDs from the built-in domain&lt;/td&gt;
-      &lt;td&gt;0x20000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;SIDs from the account domain&lt;/td&gt;
-      &lt;td&gt;0x30000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;SIDs from the primary domain (on Workstations only)&lt;/td&gt;
-      &lt;td&gt;0x40000&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Dean Stamler</name></author><category term="aws" /><category term="ntfs" /><category term="permissions" /><category term="smb" /><category term="file sharing" /><summary type="html">AWS Storage Gateway can expose an S3 bucket as an SMB share, but permissions behaviour can be confusing. Here's an explanation.</summary></entry><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/">&lt;!-- https://forum.synology.com/enu/viewtopic.php?t=126166 --&gt;
-&lt;p&gt;Synology does not enable password-less ssh by default on their NAS devices. Here’s how to do it yourself in DSM v6.0.&lt;/p&gt;
+<p>A further questionable component of this policy is the successor. Some future government will declare the policy either unsustainable (defund it or allow the initial allocation to be depleted) or in need of expansion. Both options are fraught with peril. Should the policy be declared unsustainable a shock to the housing market would be realized in the sudden shrinking of the demand side. Should it be declared in need of expansion the price of housing would continue to rise, causing the CMHC to own an increasing amount of the (expensive) Canadian housing stock. This may seem analogous to the expansion of public housing which I mentioned earlier, but it isn’t. If public and co-operative housing were expanded the costs of the exercise would be at the control of the CMHC and economies of scale could be realized. In the Liberal policy, the already hot housing market determines the prices the CMHC has to pay for equity in the national housing stock.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Enable User Home in the Synology web UI Control Panel.
-&lt;img src=&quot;http://localhost:4000/assets/synology-passwordless-ssh/user-home.png&quot; alt=&quot;User Home&quot; title=&quot;Ensure the 'User Home' option is enabled&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Enable SSH. You should enable telnet right now as well as you may need it later. Just make sure to disable telnet after you’re done setting up passwordless ssh so you don’t accidentally connect with a non-secure channel in a non-exceptional circumstance.
-&lt;img src=&quot;http://localhost:4000/assets/synology-passwordless-ssh/ssh.png&quot; alt=&quot;ssh&quot; title=&quot;Ensure SSH services is enabled&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Choose a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;username&amp;gt;&lt;/code&gt; in the administrators group. You can use a non-admin user but you’ll need to manually edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/passwd&lt;/code&gt; to give them shell access (replace &lt;code class=&quot;highlighter-rouge&quot;&gt;/sbin/nologin&lt;/code&gt; with &lt;code class=&quot;highlighter-rouge&quot;&gt;/bin/sh&lt;/code&gt;) and this edit may not survive a reboot or update.&lt;/li&gt;
-  &lt;li&gt;From a client computer login as admin via ssh then set permissions on the user directory so the SSH daemon doesn’t reject the configuration.
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh admin@&amp;lt;synology_ip&amp;gt;
-chmod 755 /volume&amp;lt;volume_number&amp;gt;/homes/&amp;lt;username&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Close the &lt;code class=&quot;highlighter-rouge&quot;&gt;admin&lt;/code&gt; ssh session then login as the user chosen in step 3.
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh &amp;lt;username&amp;gt;@&amp;lt;synology_ip&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create the ssh folder and authorized_keys file with proper permissions. If you haven’t already, generate a local ssh key on the NAS for this user.
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mkdir ~/.ssh
+<p>The Liberal plan is a short-term solution which does long term damage. It doesn’t address the reason housing is expensive — lack of supply — and instead raises the prices for everyone. In doing so it will tie up an increasing amount of capital in housing and reduce the velocity of money throughout the economy.</p>]]></content><author><name>Dean Stamler</name></author><category term="Policy" /><category term="housing" /><category term="prices" /><category term="markets" /><category term="affordability" /><summary type="html"><![CDATA[The Liberal government's new strategy of taking equity in the private homes of first time buyers will have problematic long-term consequences.]]></summary></entry><entry><title type="html">AWS Storage Gateway and NTFS permissions for SMB sharing</title><link href="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/" rel="alternate" type="text/html" title="AWS Storage Gateway and NTFS permissions for SMB sharing" /><published>2018-09-01T12:49:00-04:00</published><updated>2018-09-01T12:49:00-04:00</updated><id>http://localhost:4000/AWS%20Storage%20Gateway%20and%20NTFS%20permissions</id><content type="html" xml:base="http://localhost:4000/AWS-Storage-Gateway-and-NTFS-permissions/"><![CDATA[<p>TL;DR <em>RID portion of Windows SID + 66666 = POSIX ID assigned by Storage Gateway</em></p>
+
+<p><a href="https://aws.amazon.com/storagegateway/">AWS Storage Gateway</a> for Files is a front-end for <a href="https://aws.amazon.com/s3/">Amazon S3</a>, delivered as a VM appliance, that exposes either an NFS or an SMB file share. This exposed share is cached at the storage gateway (the VM) so that subsequent hits to the share pull cached data rather than S3, minimizing requests. It also invisibly uploads and files written to the share to blobs on S3. This is particularly useful for storing archival data, however S3 itself doesn’t have any mechanism for storing granular user/group/everybody permissions. Each object in an S3 bucket can follow that bucket’s permissions, but these are not exposed to the exported share. Instead, metadata attached to each S3 object is the definitive authority of permissions exported in the file share, whether NFS or SMB.</p>
+
+<p>On write, the following metadata is added to each BLOB.</p>
+
+<ul>
+  <li>x-amz-meta-file-group (posix-style gid)</li>
+  <li>x-amz-meta-file-owner (posix-style uid)</li>
+  <li>x-amz-meta-file-permissions (posix-style permissions correlating to uid, gid, and Everybody)</li>
+</ul>
+
+<h3 id="mapping-sid-to-posix-for-aws-gateway">Mapping SID to Posix for AWS Gateway</h3>
+
+<p>So how does the storage gateway assign these permissions to S3 blobs when the files are written to the gateway? To undertand the answer to this question, we look to the way that Windows <a href="https://docs.microsoft.com/en-us/windows/desktop/secmgmt/mapping-posix-identifiers">maps POSIX identifiers</a>.</p>
+
+<p>Storage Gateway assigns group and user values by using the SID in a Windows environment added to an offset. After testing, I discovered that <strong>Storage Gateway uses an offset of 66666</strong> to the RID part of the SID of an object to get a mapped POSIX ID which is stored as metadata on the S3 bucket.</p>
+
+<p>For example, if a domain user has an SID of S-1-5-21-&lt;domainSID&gt;-513 this would map to 67179 as the POSIX ID.</p>
+
+<p>Please note that not all Posix ID translations make use of a TrustedDomain object per the above article. The following table shows SIDs that are mapped using well-known offset values.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>POSIX ID offset</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SIDs from the built-in domain</td>
+      <td>0x20000</td>
+    </tr>
+    <tr>
+      <td>SIDs from the account domain</td>
+      <td>0x30000</td>
+    </tr>
+    <tr>
+      <td>SIDs from the primary domain (on Workstations only)</td>
+      <td>0x40000</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Dean Stamler</name></author><category term="IT" /><category term="aws" /><category term="ntfs" /><category term="permissions" /><category term="smb" /><category term="file sharing" /><summary type="html"><![CDATA[AWS Storage Gateway can expose an S3 bucket as an SMB share, but permissions behaviour can be confusing. Here's an explanation.]]></summary></entry><entry><title type="html">Enable Password-less SSH on Synology DSM 6</title><link href="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/" rel="alternate" type="text/html" title="Enable Password-less SSH on Synology DSM 6" /><published>2018-05-06T12:49:00-04:00</published><updated>2018-05-06T12:49:00-04:00</updated><id>http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6</id><content type="html" xml:base="http://localhost:4000/enable-passwordless-ssh-on-synology-dsm6/"><![CDATA[<!-- https://forum.synology.com/enu/viewtopic.php?t=126166 -->
+<p>Synology does not enable password-less ssh by default on their NAS devices. Here’s how to do it yourself in DSM v6.0.</p>
+
+<ol>
+  <li>Enable User Home in the Synology web UI Control Panel.
+<img src="http://localhost:4000/assets/synology-passwordless-ssh/user-home.png" alt="User Home" title="Ensure the 'User Home' option is enabled" /></li>
+  <li>Enable SSH. You should enable telnet right now as well as you may need it later. Just make sure to disable telnet after you’re done setting up passwordless ssh so you don’t accidentally connect with a non-secure channel in a non-exceptional circumstance.
+<img src="http://localhost:4000/assets/synology-passwordless-ssh/ssh.png" alt="ssh" title="Ensure SSH services is enabled" /></li>
+  <li>Choose a <code class="language-plaintext highlighter-rouge">&lt;username&gt;</code> in the administrators group. You can use a non-admin user but you’ll need to manually edit <code class="language-plaintext highlighter-rouge">/etc/passwd</code> to give them shell access (replace <code class="language-plaintext highlighter-rouge">/sbin/nologin</code> with <code class="language-plaintext highlighter-rouge">/bin/sh</code>) and this edit may not survive a reboot or update.</li>
+  <li>From a client computer login as admin via ssh then set permissions on the user directory so the SSH daemon doesn’t reject the configuration.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh admin@&lt;synology_ip&gt;
+chmod 755 /volume&lt;volume_number&gt;/homes/&lt;username&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Close the <code class="language-plaintext highlighter-rouge">admin</code> ssh session then login as the user chosen in step 3.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh &lt;username&gt;@&lt;synology_ip&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>Create the ssh folder and authorized_keys file with proper permissions. If you haven’t already, generate a local ssh key on the NAS for this user.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mkdir ~/.ssh
 chmod 0700 ~/.ssh
 touch ~/.ssh/authorized_keys
 chmod 0644 ~/.ssh/authorized_keys
 ssh-keygen (accept defaults)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Backup the existing sshd_config 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak --verbose
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Edit the ssd daemon configuration &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo vi /etc/ssh/sshd_config&lt;/code&gt; and ensure these properties are set and uncommented.
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PubkeyAuthentication yes
+</code></pre></div>    </div>
+  </li>
+  <li>Backup the existing sshd_config 
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak --verbose
+</code></pre></div>    </div>
+  </li>
+  <li>Edit the ssd daemon configuration <code class="language-plaintext highlighter-rouge">sudo vi /etc/ssh/sshd_config</code> and ensure these properties are set and uncommented.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PubkeyAuthentication yes
 AuthorizedKeysFile .ssh/authorized_keys
 ChallengeResponseAuthentication no
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Restart sshd then end the session. If you can’t get in after this step you messed up the config in step 8 so telnet in (make sure telnet is enabled the same place as SSH in Step 2)and restore the backup. If you use macOS like me and you’re on High Sierra you’ll note Apple removed telnet. Instead use &lt;code class=&quot;highlighter-rouge&quot;&gt;nc -ct &amp;lt;synology_ip&amp;gt; 23&lt;/code&gt; &lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;Sometimes the service restart can fail when performed over ssh even if the config is fine. In this case, run the restart command from telnet again.&lt;/em&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo synoservicectl --restart sshd
+</code></pre></div>    </div>
+  </li>
+  <li>Restart sshd then end the session. If you can’t get in after this step you messed up the config in step 8 so telnet in (make sure telnet is enabled the same place as SSH in Step 2)and restore the backup. If you use macOS like me and you’re on High Sierra you’ll note Apple removed telnet. Instead use <code class="language-plaintext highlighter-rouge">nc -ct &lt;synology_ip&gt; 23</code> <strong>NOTE:</strong> <em>Sometimes the service restart can fail when performed over ssh even if the config is fine. In this case, run the restart command from telnet again.</em>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo synoservicectl --restart sshd
 exit
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;On the client computer copy do &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh-keygen&lt;/code&gt; then copy the local public key to the NAS &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh-copy-id -i ~/.ssh/id_rsa.pub -p &amp;lt;port_number&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;synology_ip&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Test it! &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh -p &amp;lt;port_number&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;synology_ip&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Dean Stamler</name></author><category term="nas" /><category term="ssh" /><category term="passwordless" /><summary type="html">Synology does not enable password-less ssh by default on their NAS devices. Here's how to do it yourself in DSM v6.0.</summary></entry><entry><title type="html">The Memorial Link</title><link href="http://localhost:4000/the-memorial-link/" rel="alternate" type="text/html" title="The Memorial Link" /><published>2016-12-05T13:29:11-05:00</published><updated>2016-12-05T13:29:11-05:00</updated><id>http://localhost:4000/the-memorial-link</id><content type="html" xml:base="http://localhost:4000/the-memorial-link/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/memorial-link/the-memorial-link.png&quot; alt=&quot;The Memorial Link&quot; title=&quot;Typical proposed cross-section of The Memorial Link&quot; /&gt;&lt;/p&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>On the client computer copy do <code class="language-plaintext highlighter-rouge">ssh-keygen</code> then copy the local public key to the NAS <code class="language-plaintext highlighter-rouge">ssh-copy-id -i ~/.ssh/id_rsa.pub -p &lt;port_number&gt; &lt;username&gt;@&lt;synology_ip&gt;</code></li>
+  <li>Test it! <code class="language-plaintext highlighter-rouge">ssh -p &lt;port_number&gt; &lt;username&gt;@&lt;synology_ip&gt;</code></li>
+</ol>]]></content><author><name>Dean Stamler</name></author><category term="IT" /><category term="nas" /><category term="ssh" /><category term="passwordless" /><summary type="html"><![CDATA[Synology does not enable password-less ssh by default on their NAS devices. Here's how to do it yourself in DSM v6.0.]]></summary></entry><entry><title type="html">The Memorial Link</title><link href="http://localhost:4000/the-memorial-link/" rel="alternate" type="text/html" title="The Memorial Link" /><published>2016-12-05T13:29:11-05:00</published><updated>2016-12-05T13:29:11-05:00</updated><id>http://localhost:4000/the-memorial-link</id><content type="html" xml:base="http://localhost:4000/the-memorial-link/"><![CDATA[<p><img src="http://localhost:4000/assets/memorial-link/the-memorial-link.png" alt="The Memorial Link" title="Typical proposed cross-section of The Memorial Link" /></p>
 
-&lt;p&gt;It’s hard to believe that the &lt;a href=&quot;https://www.stamler.ca/bike-lanes-tbay/&quot;&gt;last time&lt;/a&gt; I wrote about bike lanes was almost 3 years ago. At that time I highlighted &lt;em&gt;the&lt;/em&gt; major deficiency in the way we support cycling in Thunder Bay — specifically the lack of protection from cars. I went on to endorse what I called “the missing link” which were a series of cycle corridors (a grid) along busy streets in Thunder Bay to allow people to quickly transit the city on two wheels.  A lot has happened in those 3 years. For one, some friends and I fully baked my proposal into a movement to create Thunder Bay’s first real cycle track called &lt;a href=&quot;https://www.change.org/p/thunder-bay-city-council-engineering-department-of-the-city-of-thunder-bay-build-the-memorial-link-a-safe-and-separated-bike-route-along-memorial-ave-and-may-st&quot;&gt;The Memorial Link&lt;/a&gt;. First we &lt;a href=&quot;http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-cyclists-petition-for-memorial-ave-bike-route-1.2604412&quot;&gt;ran a petition&lt;/a&gt;. We went to council and &lt;a href=&quot;http://www.cbc.ca/news/canada/thunder-bay/memorial-ave-bike-lane-petition-headed-to-city-council-1.3223894&quot;&gt;gave a&lt;/a&gt; &lt;a href=&quot;http://localhost:4000/assets/memorial-link/2015-09-14-COW-agenda.pdf&quot;&gt;deputation&lt;/a&gt;, presenting photos, educating councillors about bicycle separation and asking for three specific things: that council add the May-Memorial corridor to the Active Transportation Plan, request that administration study cycle tracks in upcoming Transportation Master Plan, and direct administration to develop a complete streets policy as a part of the same plan. We even explained it in a way people could understand— The Memorial Link &lt;a href=&quot;http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-examining-separated-bike-lane-on-memorial-avenue-1.3228659&quot;&gt;will get bicycles off the road&lt;/a&gt;. We got some &lt;a href=&quot;http://cyclingmagazine.ca/sections/news/five-kilometre-bike-route-proposed-in-thunder-bay-ontario-to-be-studied-reports/&quot;&gt;national coverage&lt;/a&gt; by the cycling community which is nice but our target audience wasn’t and isn’t cyclists. It’s everyone.
-&lt;!--more--&gt;&lt;/p&gt;
+<p>It’s hard to believe that the <a href="https://www.stamler.ca/bike-lanes-tbay/">last time</a> I wrote about bike lanes was almost 3 years ago. At that time I highlighted <em>the</em> major deficiency in the way we support cycling in Thunder Bay — specifically the lack of protection from cars. I went on to endorse what I called “the missing link” which were a series of cycle corridors (a grid) along busy streets in Thunder Bay to allow people to quickly transit the city on two wheels.  A lot has happened in those 3 years. For one, some friends and I fully baked my proposal into a movement to create Thunder Bay’s first real cycle track called <a href="https://www.change.org/p/thunder-bay-city-council-engineering-department-of-the-city-of-thunder-bay-build-the-memorial-link-a-safe-and-separated-bike-route-along-memorial-ave-and-may-st">The Memorial Link</a>. First we <a href="http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-cyclists-petition-for-memorial-ave-bike-route-1.2604412">ran a petition</a>. We went to council and <a href="http://www.cbc.ca/news/canada/thunder-bay/memorial-ave-bike-lane-petition-headed-to-city-council-1.3223894">gave a</a> <a href="http://localhost:4000/assets/memorial-link/2015-09-14-COW-agenda.pdf">deputation</a>, presenting photos, educating councillors about bicycle separation and asking for three specific things: that council add the May-Memorial corridor to the Active Transportation Plan, request that administration study cycle tracks in upcoming Transportation Master Plan, and direct administration to develop a complete streets policy as a part of the same plan. We even explained it in a way people could understand— The Memorial Link <a href="http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-examining-separated-bike-lane-on-memorial-avenue-1.3228659">will get bicycles off the road</a>. We got some <a href="http://cyclingmagazine.ca/sections/news/five-kilometre-bike-route-proposed-in-thunder-bay-ontario-to-be-studied-reports/">national coverage</a> by the cycling community which is nice but our target audience wasn’t and isn’t cyclists. It’s everyone.
+<!--more--></p>
 
-&lt;p&gt;Some items in that list of requests to council are in the process of being done. The City’s &lt;a href=&quot;https://cfapps.thunderbay.ca/TenderDocs/12330/2-2016%20Transportion%20Master%20Plan%20-%20RFP%20Doc.pdf&quot;&gt;Terms of Reference&lt;/a&gt; for the upcoming &lt;a href=&quot;http://thunderbaytmp.ca&quot;&gt;Transportation Master Plan&lt;/a&gt; include studying North/South cycling corridors (page 20) and language in the same document mentions development of a complete streets framework or policy. There’s no discussion about cycle tracks which are proven &lt;a href=&quot;http://www.nyc.gov/html/dot/downloads/pdf/2012_ppw_trb2012.pdf&quot;&gt;to induce&lt;/a&gt; &lt;a href=&quot;http://www.calgary.ca/Transportation/TP/Pages/Planning/Transportation-Data/Central-Business-District-Cordon-Count.aspx&quot;&gt;demand&lt;/a&gt; for cycling and the city has built infrastructure since that, for barely more money, could’ve been a cycle track (Vickers St is an easy example).&lt;/p&gt;
+<p>Some items in that list of requests to council are in the process of being done. The City’s <a href="https://cfapps.thunderbay.ca/TenderDocs/12330/2-2016%20Transportion%20Master%20Plan%20-%20RFP%20Doc.pdf">Terms of Reference</a> for the upcoming <a href="http://thunderbaytmp.ca">Transportation Master Plan</a> include studying North/South cycling corridors (page 20) and language in the same document mentions development of a complete streets framework or policy. There’s no discussion about cycle tracks which are proven <a href="http://www.nyc.gov/html/dot/downloads/pdf/2012_ppw_trb2012.pdf">to induce</a> <a href="http://www.calgary.ca/Transportation/TP/Pages/Planning/Transportation-Data/Central-Business-District-Cordon-Count.aspx">demand</a> for cycling and the city has built infrastructure since that, for barely more money, could’ve been a cycle track (Vickers St is an easy example).</p>
 
-&lt;p&gt;Prior to our deputation we secured almost 1200 signatures in an online &lt;a href=&quot;https://www.change.org/p/thunder-bay-city-council-engineering-department-of-the-city-of-thunder-bay-build-the-memorial-link-a-safe-and-separated-bike-route-along-memorial-ave-and-may-st&quot;&gt;petition&lt;/a&gt; and certified almost 900 signatures with the city clerk in a pen-and-paper petition (required by the city to be officially recognized). These signatures were presented to council. After that deputation we didn’t sit on our hands either. We contacted the Lakehead University Engineering Department and arranged to have a study done of the feasibility of the Memorial Link by a team of fourth-year students. Their completed study basically said “yes, we can do it”. But don’t take my word for it, &lt;a href=&quot;http://localhost:4000/assets/memorial-link/The-Memorial-Link-Carnegie-Grabowski-Ierullo-2016.pdf&quot;&gt;read it yourself&lt;/a&gt;. We spoke with the Thunder Bay Chamber of Commerce and &lt;a href=&quot;http://localhost:4000/assets/memorial-link/TBCC-Memorial-Link-support.pdf&quot;&gt;got an endorsement&lt;/a&gt; for The Memorial Link because the business community understands that accessibility by bicycle &lt;a href=&quot;http://localhost:4000/assets/memorial-link/Ottawa-Economic-Benefits-of-Segregated-Bike-Lanes.pdf&quot;&gt;makes economic sense&lt;/a&gt;. We’ve actively worked to become stakeholders in the consultation process for the Transportation Master Plan. We’ve appeared many times in the media working to educate the public about our proposal and are participating in &lt;a href=&quot;http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-core-revitalization-1.3762626&quot;&gt;more discussions&lt;/a&gt; than just bikes. Finally on &lt;a href=&quot;http://localhost:4000/assets/memorial-link/2016-12-05-COW-Agenda.pdf&quot;&gt;December 5&lt;/a&gt; city council will hear from the Engineering division that there is no technical reason that the Memorial Link can’t be built. Specifically the memorandum states that &lt;strong&gt;“a generous amount of space is available to implement this type of facility”&lt;/strong&gt; and that &lt;strong&gt;“with the proper planning, design and education, none of [the issues mentioned in the report] are insurmountable”.&lt;/strong&gt; Incidentally the issues mentioned in the report (like &lt;a href=&quot;https://bicycledutch.wordpress.com/2016/01/12/cycletracks-and-commercial-driveways/&quot;&gt;driveways&lt;/a&gt;) all have straightforward engineering solutions.&lt;/p&gt;
+<p>Prior to our deputation we secured almost 1200 signatures in an online <a href="https://www.change.org/p/thunder-bay-city-council-engineering-department-of-the-city-of-thunder-bay-build-the-memorial-link-a-safe-and-separated-bike-route-along-memorial-ave-and-may-st">petition</a> and certified almost 900 signatures with the city clerk in a pen-and-paper petition (required by the city to be officially recognized). These signatures were presented to council. After that deputation we didn’t sit on our hands either. We contacted the Lakehead University Engineering Department and arranged to have a study done of the feasibility of the Memorial Link by a team of fourth-year students. Their completed study basically said “yes, we can do it”. But don’t take my word for it, <a href="http://localhost:4000/assets/memorial-link/The-Memorial-Link-Carnegie-Grabowski-Ierullo-2016.pdf">read it yourself</a>. We spoke with the Thunder Bay Chamber of Commerce and <a href="http://localhost:4000/assets/memorial-link/TBCC-Memorial-Link-support.pdf">got an endorsement</a> for The Memorial Link because the business community understands that accessibility by bicycle <a href="http://localhost:4000/assets/memorial-link/Ottawa-Economic-Benefits-of-Segregated-Bike-Lanes.pdf">makes economic sense</a>. We’ve actively worked to become stakeholders in the consultation process for the Transportation Master Plan. We’ve appeared many times in the media working to educate the public about our proposal and are participating in <a href="http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-core-revitalization-1.3762626">more discussions</a> than just bikes. Finally on <a href="http://localhost:4000/assets/memorial-link/2016-12-05-COW-Agenda.pdf">December 5</a> city council will hear from the Engineering division that there is no technical reason that the Memorial Link can’t be built. Specifically the memorandum states that <strong>“a generous amount of space is available to implement this type of facility”</strong> and that <strong>“with the proper planning, design and education, none of [the issues mentioned in the report] are insurmountable”.</strong> Incidentally the issues mentioned in the report (like <a href="https://bicycledutch.wordpress.com/2016/01/12/cycletracks-and-commercial-driveways/">driveways</a>) all have straightforward engineering solutions.</p>
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/memorial-link/driveway2.jpg&quot; alt=&quot;Cycle Track / Driveway design&quot; title=&quot;Driveways don't have to be a big deal for cycle track design. The important considerations are to make sure there's a visual continuity in the cycle track and that the elevation doesn't change.&quot; /&gt;&lt;/p&gt;
+<p><img src="http://localhost:4000/assets/memorial-link/driveway2.jpg" alt="Cycle Track / Driveway design" title="Driveways don't have to be a big deal for cycle track design. The important considerations are to make sure there's a visual continuity in the cycle track and that the elevation doesn't change." /></p>
 
-&lt;p&gt;It’s just political will and money standing between us and a safer more livable Thunder Bay, the latter of which is either available now or about to be &lt;a href=&quot;http://localhost:4000/assets/memorial-link/climate-change-cycling-letter-20161118.pdf&quot;&gt;available from other levels of government&lt;/a&gt; specifically for projects like this. Of course without a shovel-ready design we’re unable to take advantage of that money.&lt;/p&gt;
+<p>It’s just political will and money standing between us and a safer more livable Thunder Bay, the latter of which is either available now or about to be <a href="http://localhost:4000/assets/memorial-link/climate-change-cycling-letter-20161118.pdf">available from other levels of government</a> specifically for projects like this. Of course without a shovel-ready design we’re unable to take advantage of that money.</p>
 
-&lt;p&gt;Unfortunately this report will also punt the Memorial Link to the Transportation Master Plan process. Here’s the thing— it’s not our proposal anymore. Every day people I’ve never met talk to me about The Memorial Link. It has taken on its own life. It’s the only proposed cycle corridor with a public conversation around it and signatures of supporters, not to mention statements of support. It’s the only corridor with endorsements. It’s the only corridor that passes businesses. It’s the shortest route between the downtown cores. And there are No. Insurmountable. Issues.&lt;/p&gt;
+<p>Unfortunately this report will also punt the Memorial Link to the Transportation Master Plan process. Here’s the thing— it’s not our proposal anymore. Every day people I’ve never met talk to me about The Memorial Link. It has taken on its own life. It’s the only proposed cycle corridor with a public conversation around it and signatures of supporters, not to mention statements of support. It’s the only corridor with endorsements. It’s the only corridor that passes businesses. It’s the shortest route between the downtown cores. And there are No. Insurmountable. Issues.</p>
 
-&lt;p&gt;&lt;strong&gt;What is the Memorial Link?&lt;/strong&gt;&lt;/p&gt;
+<p><strong>What is the Memorial Link?</strong></p>
 
-&lt;p&gt;The Memorial Link is a proposed 5 km physically protected lane for bicycles and active transportation along Memorial Ave through the heart of Thunder Bay. It would start at Paterson Park (the corner of May St and Miles St) in the south core and run along May St and Memorial Ave all the way to John St at Algoma.&lt;/p&gt;
+<p>The Memorial Link is a proposed 5 km physically protected lane for bicycles and active transportation along Memorial Ave through the heart of Thunder Bay. It would start at Paterson Park (the corner of May St and Miles St) in the south core and run along May St and Memorial Ave all the way to John St at Algoma.</p>
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/memorial-link/memorial-link-route.jpg&quot; alt=&quot;The Memorial Link Route&quot; title=&quot;The Memorial Link Route&quot; /&gt;&lt;/p&gt;
+<p><img src="http://localhost:4000/assets/memorial-link/memorial-link-route.jpg" alt="The Memorial Link Route" title="The Memorial Link Route" /></p>
 
-&lt;p&gt;On both ends roads are narrow enough and traffic low enough that it’s already quite safe and comfortable for average people to bike, but between those two locations traffic volumes and speeds are treacherous despite the fact that the connection between both locations is a convenient, flat, and straight line. The key feature of the Memorial Link is physical separation on the busy parts. While some parts of the path can be buffered bike lanes (double pained edge-lines with green markings at intersections and conflict points for example along May St south of Northern Ave) at least 3.5km of the route should have bicycles up on the boulevard in a dedicated space that cars cannot physically enter. The bikeway would have a consistent grade and colour through driveways to clearly identify right-of-way. Intersections would, over time, be reconfigured to allow safe riding through them. Construction could be incremental as has been done in many Canadian cities like Ottawa, Vancouver, Calgary, Victoria, Winnipeg, and now Edmonton. Even car-mecca &lt;a href=&quot;http://la.streetsblog.org/2014/05/22/sweet-new-protected-bikeway-on-beautiful-rosemead-blvd-in-temple-city/&quot;&gt;Los Angeles is retrofitting cycle tracks&lt;/a&gt; on to busy streets.&lt;/p&gt;
+<p>On both ends roads are narrow enough and traffic low enough that it’s already quite safe and comfortable for average people to bike, but between those two locations traffic volumes and speeds are treacherous despite the fact that the connection between both locations is a convenient, flat, and straight line. The key feature of the Memorial Link is physical separation on the busy parts. While some parts of the path can be buffered bike lanes (double pained edge-lines with green markings at intersections and conflict points for example along May St south of Northern Ave) at least 3.5km of the route should have bicycles up on the boulevard in a dedicated space that cars cannot physically enter. The bikeway would have a consistent grade and colour through driveways to clearly identify right-of-way. Intersections would, over time, be reconfigured to allow safe riding through them. Construction could be incremental as has been done in many Canadian cities like Ottawa, Vancouver, Calgary, Victoria, Winnipeg, and now Edmonton. Even car-mecca <a href="http://la.streetsblog.org/2014/05/22/sweet-new-protected-bikeway-on-beautiful-rosemead-blvd-in-temple-city/">Los Angeles is retrofitting cycle tracks</a> on to busy streets.</p>
 
-&lt;p&gt;&lt;strong&gt;Why build the Memorial Link&lt;/strong&gt;&lt;/p&gt;
+<p><strong>Why build the Memorial Link</strong></p>
 
-&lt;p&gt;People bike on Memorial Avenue right now. This may seem crazy if you don’t do it (because it is) but that won’t stop it from happening. People need to get places and they take the fastest / simplest route possible.&lt;/p&gt;
+<p>People bike on Memorial Avenue right now. This may seem crazy if you don’t do it (because it is) but that won’t stop it from happening. People need to get places and they take the fastest / simplest route possible.</p>
 
-&lt;p&gt;[gallery ids=”605,594,592,590” type=”slideshow”]&lt;/p&gt;
+<p>[gallery ids=”605,594,592,590” type=”slideshow”]</p>
 
-&lt;p&gt;It seems crazy to me that in 2016 I have to explain to people why we need good bike infrastructure but I’ll humour everyone and do it again. Here are some highlights.&lt;/p&gt;
+<p>It seems crazy to me that in 2016 I have to explain to people why we need good bike infrastructure but I’ll humour everyone and do it again. Here are some highlights.</p>
 
-&lt;p&gt;We need to get bikes off the road. Drivers can be distracted or careless, sure, but this isn’t the heart of the issue. They’re operating multi-ton metal projectiles right next to children biking to school. This is insane. But we’ve also built the urban environment to make us drive everywhere. Cars need to be tamed. We’ve given them every last bloody inch of space in our city. Want to know why people don’t walk or bike? It’s because we’ve made it unsafe and uncomfortable. Getting bikes off the road makes the results of driver inattentiveness less harmful. It also makes biking more comfortable.&lt;/p&gt;
+<p>We need to get bikes off the road. Drivers can be distracted or careless, sure, but this isn’t the heart of the issue. They’re operating multi-ton metal projectiles right next to children biking to school. This is insane. But we’ve also built the urban environment to make us drive everywhere. Cars need to be tamed. We’ve given them every last bloody inch of space in our city. Want to know why people don’t walk or bike? It’s because we’ve made it unsafe and uncomfortable. Getting bikes off the road makes the results of driver inattentiveness less harmful. It also makes biking more comfortable.</p>
 
-&lt;p&gt;Right now anybody without a driver’s license pays for their transportation with time. Transit headways are 30 minutes meaning there’s an immediate tax of 30 minutes on every trip. Children can’t cross town with their parents on a bike. Seniors can’t get around without a car. People too poor to drive can’t get around. People wealthy enough to drive don’t have a choice.&lt;/p&gt;
+<p>Right now anybody without a driver’s license pays for their transportation with time. Transit headways are 30 minutes meaning there’s an immediate tax of 30 minutes on every trip. Children can’t cross town with their parents on a bike. Seniors can’t get around without a car. People too poor to drive can’t get around. People wealthy enough to drive don’t have a choice.</p>
 
-&lt;p&gt;A great argument in favour of the Memorial Link is the personal finance argument. The &lt;a href=&quot;http://caa.ca/car_costs/&quot;&gt;CAA says the average cost&lt;/a&gt; of owning and operating a compact car in Canada is $9000/yr. Experts say &lt;a href=&quot;https://www.ted.com/talks/jeff_speck_the_walkable_city/transcript?language=en&quot;&gt;85% of the cost of a car leaves the local economy&lt;/a&gt;. That means every car in Thunder Bay causes, on average, at least $7650/yr to leave the local economy. For an average household with 1.5 cars that’s almost $11500/yr. If we could reduce car ownership by only 5% that would represent at least $23M/yr of additional money in the local economy. You’re not going to reduce car ownership unless people have options. The data bears this out. Several studies have shown that people on bikes &lt;a href=&quot;http://localhost:4000/assets/memorial-link/Ottawa-Economic-Benefits-of-Segregated-Bike-Lanes.pdf&quot;&gt;spend more money&lt;/a&gt; per month shopping than people driving cars.&lt;/p&gt;
+<p>A great argument in favour of the Memorial Link is the personal finance argument. The <a href="http://caa.ca/car_costs/">CAA says the average cost</a> of owning and operating a compact car in Canada is $9000/yr. Experts say <a href="https://www.ted.com/talks/jeff_speck_the_walkable_city/transcript?language=en">85% of the cost of a car leaves the local economy</a>. That means every car in Thunder Bay causes, on average, at least $7650/yr to leave the local economy. For an average household with 1.5 cars that’s almost $11500/yr. If we could reduce car ownership by only 5% that would represent at least $23M/yr of additional money in the local economy. You’re not going to reduce car ownership unless people have options. The data bears this out. Several studies have shown that people on bikes <a href="http://localhost:4000/assets/memorial-link/Ottawa-Economic-Benefits-of-Segregated-Bike-Lanes.pdf">spend more money</a> per month shopping than people driving cars.</p>
 
-&lt;p&gt;There are other great reasons to get us biking too like the fact that Thunder Bayers are &lt;a href=&quot;http://www.statcan.gc.ca/pub/82-624-x/2014001/article/11922-eng.htm#a3&quot;&gt;more obese&lt;/a&gt; than the average Canadian.&lt;/p&gt;
+<p>There are other great reasons to get us biking too like the fact that Thunder Bayers are <a href="http://www.statcan.gc.ca/pub/82-624-x/2014001/article/11922-eng.htm#a3">more obese</a> than the average Canadian.</p>
 
-&lt;p&gt;&lt;strong&gt;How much will it cost&lt;/strong&gt;&lt;/p&gt;
+<p><strong>How much will it cost</strong></p>
 
-&lt;p&gt;For starters curbs cost about $200 per metre in Thunder Bay according to the engineering division. So if we were to just rebuild every curb on the 3.5 km stretch from Northern to Algoma that would run $1.4M. On top of that would be the cost of repaving the asphalt on both sides of the reconstructed curb which could run another $1.5-2.0M. Re-striping would be another cost. Non-beaded thermoplastic costs $3.50/m installed on the high end, or $20/m for a 5-lane road with buffered paint lanes. Only part of the route would include painted lanes (the May segment) so it’s fair to say the cost of additional markings would be “free” in this calculation. That works out to $100,000 in markings. We’ll be generous and say $250k. So now at the high end we’re at $3.75M to cycle track 70% and buffer 30% of the route to completion. There are other considerations, specifically intersection and driveway treatments. There could plausibly be another 1000 m of curb reconstruction at driveways and intersections to maintain a constant grade. Further thermoplastic treatment for visibility at intersections and driveways has a high installation cost. It’s fair to say an additional $500k could be required bringing us to a high-water mark of $4.25M. And that’s assuming we’re willing to eat into the existing road-bed. Otherwise we need to budget for moving utilities on the boulevard in some areas which could add another $1M to $2M bringing us to a &lt;em&gt;high mark of $6.25M and potentially much less&lt;/em&gt;. The thing is I haven’t even considered the fact that there are lots of places along the route where the proper infrastructure is essentially already built. There are very wide paved boulevards on at least 1 km of each side of the street already where a simple resurfacing and stripe job is all that is needed. This saves more than $500k in curbing and paint. So it’s safe to say using the above numbers that we can build a very good implementation of the Memorial Link for under $6M. Please consider that the city has already spent $4M on studying the Events Centre. Or that the recent reconstruction of Balmoral St (phase 1) had an engineering flaw in the design (drainage) that resulted in a $2.7M cost overrun. Six million dollars for a piece of transportation infrastructure 5km long is peanuts compared to many of the things we spend money on. Bike infrastructure is cheap. But we can build it for way cheaper if we’re willing to do what Montreal does and build buffered lanes with bollards. There are many paths forward.&lt;/p&gt;
+<p>For starters curbs cost about $200 per metre in Thunder Bay according to the engineering division. So if we were to just rebuild every curb on the 3.5 km stretch from Northern to Algoma that would run $1.4M. On top of that would be the cost of repaving the asphalt on both sides of the reconstructed curb which could run another $1.5-2.0M. Re-striping would be another cost. Non-beaded thermoplastic costs $3.50/m installed on the high end, or $20/m for a 5-lane road with buffered paint lanes. Only part of the route would include painted lanes (the May segment) so it’s fair to say the cost of additional markings would be “free” in this calculation. That works out to $100,000 in markings. We’ll be generous and say $250k. So now at the high end we’re at $3.75M to cycle track 70% and buffer 30% of the route to completion. There are other considerations, specifically intersection and driveway treatments. There could plausibly be another 1000 m of curb reconstruction at driveways and intersections to maintain a constant grade. Further thermoplastic treatment for visibility at intersections and driveways has a high installation cost. It’s fair to say an additional $500k could be required bringing us to a high-water mark of $4.25M. And that’s assuming we’re willing to eat into the existing road-bed. Otherwise we need to budget for moving utilities on the boulevard in some areas which could add another $1M to $2M bringing us to a <em>high mark of $6.25M and potentially much less</em>. The thing is I haven’t even considered the fact that there are lots of places along the route where the proper infrastructure is essentially already built. There are very wide paved boulevards on at least 1 km of each side of the street already where a simple resurfacing and stripe job is all that is needed. This saves more than $500k in curbing and paint. So it’s safe to say using the above numbers that we can build a very good implementation of the Memorial Link for under $6M. Please consider that the city has already spent $4M on studying the Events Centre. Or that the recent reconstruction of Balmoral St (phase 1) had an engineering flaw in the design (drainage) that resulted in a $2.7M cost overrun. Six million dollars for a piece of transportation infrastructure 5km long is peanuts compared to many of the things we spend money on. Bike infrastructure is cheap. But we can build it for way cheaper if we’re willing to do what Montreal does and build buffered lanes with bollards. There are many paths forward.</p>
 
-&lt;p&gt;Here’s the thing though. We don’t have to guess how much it will cost because we’re not the first ones to do this. Calgary decided to pilot a 5.5km bike network in 2014. This is about 10% longer than the Memorial Link proposal. They budgeted $7.1M. They completed it for $1.35M under budget at $5.75M. Downtown bike traffic increased 70% and by almost all metrics it’s &lt;a href=&quot;http://www.cbc.ca/news/canada/calgary/calgary-cycle-track-network-final-report-pilot-project-1.3876746&quot;&gt;exceeding expectations&lt;/a&gt;. Next year &lt;a href=&quot;http://edmontonjournal.com/news/local-news/edmonton-council-committee-votes-to-fast-track-cycle-tracks-let-cyclists-roll-through-stop-signs&quot;&gt;Edmonton&lt;/a&gt; will be piloting a 7.1 km cycle track network downtown. They’re projecting a cost of $7.5M. &lt;a href=&quot;http://www.victoria.ca/EN/main/community/cycling.html&quot;&gt;Victoria&lt;/a&gt; is going to build 5.4 km of cycle track for completion in 2018. It’s not being done as a pilot with flexible bollards so the cost is higher, more in-line with my estimations above. But it’s still only $7.75M, just slightly higher per km than my estimation.&lt;/p&gt;
+<p>Here’s the thing though. We don’t have to guess how much it will cost because we’re not the first ones to do this. Calgary decided to pilot a 5.5km bike network in 2014. This is about 10% longer than the Memorial Link proposal. They budgeted $7.1M. They completed it for $1.35M under budget at $5.75M. Downtown bike traffic increased 70% and by almost all metrics it’s <a href="http://www.cbc.ca/news/canada/calgary/calgary-cycle-track-network-final-report-pilot-project-1.3876746">exceeding expectations</a>. Next year <a href="http://edmontonjournal.com/news/local-news/edmonton-council-committee-votes-to-fast-track-cycle-tracks-let-cyclists-roll-through-stop-signs">Edmonton</a> will be piloting a 7.1 km cycle track network downtown. They’re projecting a cost of $7.5M. <a href="http://www.victoria.ca/EN/main/community/cycling.html">Victoria</a> is going to build 5.4 km of cycle track for completion in 2018. It’s not being done as a pilot with flexible bollards so the cost is higher, more in-line with my estimations above. But it’s still only $7.75M, just slightly higher per km than my estimation.</p>
 
-&lt;p&gt;That’s just 3 examples. Thousands of cities have built cycle tracks to get bikes off of the road and make biking a real transportation option and the costs have been very reasonable. And I’m not even going into the socio-economic benefits here, just construction costs.&lt;/p&gt;
+<p>That’s just 3 examples. Thousands of cities have built cycle tracks to get bikes off of the road and make biking a real transportation option and the costs have been very reasonable. And I’m not even going into the socio-economic benefits here, just construction costs.</p>
 
-&lt;p&gt;&lt;strong&gt;It’s only the first step&lt;/strong&gt;&lt;/p&gt;
+<p><strong>It’s only the first step</strong></p>
 
-&lt;p&gt;Oliver Road, Central Avenue, The Harbour Expressway, The Waterfront trail (currently at least 10 years away), enhancements to Beverly St, these are all safe protected bike routes that are needed. What normal people really need to be able to ride bikes is to not have to pre-plan a route in fear before they consider getting on a bike. The Memorial Link is ground zero. It’s step one in a minimum grid of safe accessible bike routes designed not for spandex-wearing middle-aged men training for a race but for average humans doing average things. The exact people who don’t ride right now because they’re afraid and don’t have extra time to become “cyclists” are the ones who will benefit from this.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="bicycle" /><category term="bike" /><category term="Thunder Bay" /><summary type="html">The Memorial Link is a proposed 5 km physically protected lane for bicycles and active transportation along Memorial Ave through the heart of Thunder Bay.</summary></entry><entry><title type="html">SkyBus #tbay - A Gondola lift for the Waterfront</title><link href="http://localhost:4000/skybus-tbay/" rel="alternate" type="text/html" title="SkyBus #tbay - A Gondola lift for the Waterfront" /><published>2015-11-20T08:00:18-05:00</published><updated>2015-11-20T08:00:18-05:00</updated><id>http://localhost:4000/skybus-tbay</id><content type="html" xml:base="http://localhost:4000/skybus-tbay/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/cable-car-switzerland.jpg&quot; alt=&quot;Cable cars work well in the snow&quot; title=&quot;Image by https://www.flickr.com/photos/e-coli/&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;were-building-more-parking&quot;&gt;We’re building more parking!&lt;/h3&gt;
-&lt;p&gt;I’ve been following the development of the &lt;a href=&quot;http://www.thunderbay.ca/City_Government/News_and_Strategic_Initiatives/Waterfront_Development/Phase_2.htm&quot;&gt;Waterfront&lt;/a&gt; Phase 2 plans with keen interest. Friends of mine know I have a chip on my shoulder about parking in Thunder Bay— specifically we have too much of it. Data supports me on this. According to the Ontario Municipal Benchmarking Initiative we have &lt;a href=&quot;http://www.ombi.ca/wp-content/uploads/Parking3.pdf&quot;&gt;more parking spaces per capita&lt;/a&gt; than any other city in Ontario. We can’t stop paving paradise. It’s just one more piece of evidence underscoring that we have a car (actually pickup truck) addiction in this city and it continually erodes our livability. So needless to say when I learned that the Phase 2 plan called for the turning of acres of lakeshore parkland into hundreds more parking spaces that will remain empty the vast majority of the time I once again dropped my metaphorical burrito in disgust.&lt;/p&gt;
+<p>Oliver Road, Central Avenue, The Harbour Expressway, The Waterfront trail (currently at least 10 years away), enhancements to Beverly St, these are all safe protected bike routes that are needed. What normal people really need to be able to ride bikes is to not have to pre-plan a route in fear before they consider getting on a bike. The Memorial Link is ground zero. It’s step one in a minimum grid of safe accessible bike routes designed not for spandex-wearing middle-aged men training for a race but for average humans doing average things. The exact people who don’t ride right now because they’re afraid and don’t have extra time to become “cyclists” are the ones who will benefit from this.</p>]]></content><author><name>Dean Stamler</name></author><category term="Bicycle" /><category term="bicycle" /><category term="bike" /><category term="Thunder Bay" /><summary type="html"><![CDATA[The Memorial Link is a proposed 5 km physically protected lane for bicycles and active transportation along Memorial Ave through the heart of Thunder Bay.]]></summary></entry><entry><title type="html">SkyBus #tbay - A Gondola lift for the Waterfront</title><link href="http://localhost:4000/skybus-tbay/" rel="alternate" type="text/html" title="SkyBus #tbay - A Gondola lift for the Waterfront" /><published>2015-11-20T08:00:18-05:00</published><updated>2015-11-20T08:00:18-05:00</updated><id>http://localhost:4000/skybus-tbay</id><content type="html" xml:base="http://localhost:4000/skybus-tbay/"><![CDATA[<p><img src="http://localhost:4000/assets/cable-car-switzerland.jpg" alt="Cable cars work well in the snow" title="Image by https://www.flickr.com/photos/e-coli/" /></p>
+<h3 id="were-building-more-parking">We’re building more parking!</h3>
+<p>I’ve been following the development of the <a href="http://www.thunderbay.ca/City_Government/News_and_Strategic_Initiatives/Waterfront_Development/Phase_2.htm">Waterfront</a> Phase 2 plans with keen interest. Friends of mine know I have a chip on my shoulder about parking in Thunder Bay— specifically we have too much of it. Data supports me on this. According to the Ontario Municipal Benchmarking Initiative we have <a href="http://www.ombi.ca/wp-content/uploads/Parking3.pdf">more parking spaces per capita</a> than any other city in Ontario. We can’t stop paving paradise. It’s just one more piece of evidence underscoring that we have a car (actually pickup truck) addiction in this city and it continually erodes our livability. So needless to say when I learned that the Phase 2 plan called for the turning of acres of lakeshore parkland into hundreds more parking spaces that will remain empty the vast majority of the time I once again dropped my metaphorical burrito in disgust.</p>
 
-&lt;p&gt;As I’ve said thousands of times before this city needs to build pretty much anything but car infrastructure. Our &lt;a href=&quot;http://www.ombi.ca/wp-content/uploads/Roads3.pdf&quot;&gt;road utilization is remarkably low&lt;/a&gt; and our parking lots sit empty and rob municipal coffers of tax revenue because they’re non productive. And ugly. All we need to do is think outside the box. So here’s one way to do that for Marina Park.
-&lt;!--more--&gt;&lt;/p&gt;
+<p>As I’ve said thousands of times before this city needs to build pretty much anything but car infrastructure. Our <a href="http://www.ombi.ca/wp-content/uploads/Roads3.pdf">road utilization is remarkably low</a> and our parking lots sit empty and rob municipal coffers of tax revenue because they’re non productive. And ugly. All we need to do is think outside the box. So here’s one way to do that for Marina Park.
+<!--more--></p>
 
-&lt;h3 id=&quot;analysis-of-the-problem&quot;&gt;Analysis of the problem&lt;/h3&gt;
-&lt;p&gt;Phase 2 is separated from the rest of the city by a sea of train tracks and a high-speed four-lane road. The only way in will be the existing entrances in the north and, eventually, a potential new road at Central Avenue. &lt;img src=&quot;http://localhost:4000/assets/gondola-map.png&quot; alt=&quot;Downtown Port Arthur&quot; title=&quot;Downtown Port Arthur (I still call it that)&quot; /&gt; The consultants have given the most common answer to the problem: make people drive in and provide plenty of parking. This is a recipe for even more cars which is putrid.&lt;/p&gt;
+<h3 id="analysis-of-the-problem">Analysis of the problem</h3>
+<p>Phase 2 is separated from the rest of the city by a sea of train tracks and a high-speed four-lane road. The only way in will be the existing entrances in the north and, eventually, a potential new road at Central Avenue. <img src="http://localhost:4000/assets/gondola-map.png" alt="Downtown Port Arthur" title="Downtown Port Arthur (I still call it that)" /> The consultants have given the most common answer to the problem: make people drive in and provide plenty of parking. This is a recipe for even more cars which is putrid.</p>
 
-&lt;h3 id=&quot;a-better-solution&quot;&gt;A better solution&lt;/h3&gt;
+<h3 id="a-better-solution">A better solution</h3>
 
-&lt;p&gt;Gondola lifts are relatively cheap. They can cross railway tracks or roads or rivers with ease. They can climb hills just as easily as they go in a straight line. They’re silent, run 24 hours per day without drivers in all weather, afford riders privacy and personal safety and can scale capacity up or down quickly. They run on renewable electricity. &lt;img src=&quot;http://localhost:4000/assets/walking-map.png&quot; alt=&quot;Walking to the Marina&quot; title=&quot;Maybe 4 people will walk this route once and then drive the next time.&quot; /&gt; Oh and they attract tourists and offer beautiful views galore. Let’s build a gondola from Hillcrest Park to the epicentre of Marina Park Phase 2 with a single stop at Bay and Algoma.&lt;/p&gt;
+<p>Gondola lifts are relatively cheap. They can cross railway tracks or roads or rivers with ease. They can climb hills just as easily as they go in a straight line. They’re silent, run 24 hours per day without drivers in all weather, afford riders privacy and personal safety and can scale capacity up or down quickly. They run on renewable electricity. <img src="http://localhost:4000/assets/walking-map.png" alt="Walking to the Marina" title="Maybe 4 people will walk this route once and then drive the next time." /> Oh and they attract tourists and offer beautiful views galore. Let’s build a gondola from Hillcrest Park to the epicentre of Marina Park Phase 2 with a single stop at Bay and Algoma.</p>
 
-&lt;h3 id=&quot;benefits-for-everyone&quot;&gt;Benefits for everyone&lt;/h3&gt;
+<h3 id="benefits-for-everyone">Benefits for everyone</h3>
 
-&lt;p&gt;The thousand of people living in and around Mariday park could walk to Hillcrest park and take a 3 minute ride to Bay/Algoma or a &lt;em&gt;5 minute ride to Marina Park 24 hours per day 365 days per year&lt;/em&gt;. Tourists staying at the waterfront could walk to the terminal and take a 2 minute Gondola to Bay and Algoma to patronize the local businesses. Talk about an economic shot in the arm. Parents could take kids to the Marina without worrying about bus schedules or routes. It’s direct, fast and kids get a sweet view in a private space.&lt;/p&gt;
+<p>The thousand of people living in and around Mariday park could walk to Hillcrest park and take a 3 minute ride to Bay/Algoma or a <em>5 minute ride to Marina Park 24 hours per day 365 days per year</em>. Tourists staying at the waterfront could walk to the terminal and take a 2 minute Gondola to Bay and Algoma to patronize the local businesses. Talk about an economic shot in the arm. Parents could take kids to the Marina without worrying about bus schedules or routes. It’s direct, fast and kids get a sweet view in a private space.</p>
 
-&lt;p&gt;Want to make it even better? When Thunder Bay finally gets bike share we can put share points at each station (3) so that people can start or end their trips on bikes instead of on foot if they so desire. The cost to ride the gondola should be the same as riding the bus— it should be treated like a regular part of the city’s transit network. Gondola fare could be waived for riders who have reservations at the planned nordic Spa or restaurants. Or fares could be waived on Canada day to eliminate congestion.&lt;/p&gt;
+<p>Want to make it even better? When Thunder Bay finally gets bike share we can put share points at each station (3) so that people can start or end their trips on bikes instead of on foot if they so desire. The cost to ride the gondola should be the same as riding the bus— it should be treated like a regular part of the city’s transit network. Gondola fare could be waived for riders who have reservations at the planned nordic Spa or restaurants. Or fares could be waived on Canada day to eliminate congestion.</p>
 
-&lt;p&gt;It would run maybe a 10th the cost of an Event Centre. Maybe. If it goes over budget lots. And everybody who can ride a bus can use it every day of the year if they want. And running costs are very low (electricity). It will carry more people than a bus on a people per direction per hour basis.&lt;/p&gt;
+<p>It would run maybe a 10th the cost of an Event Centre. Maybe. If it goes over budget lots. And everybody who can ride a bus can use it every day of the year if they want. And running costs are very low (electricity). It will carry more people than a bus on a people per direction per hour basis.</p>
 
-&lt;p&gt;The possibilities are endless. But we won’t get there if we keep paving paradise and putting up parking lots.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><summary type="html">We’re building more parking! I’ve been following the development of the Waterfront Phase 2 plans with keen interest. Friends of mine know I have a chip on my shoulder about parking in Thunder Bay— specifically we have too much of it. Data supports me on this. According to the Ontario Municipal Benchmarking Initiative we have more parking spaces per capita than any other city in Ontario. We can’t stop paving paradise. It’s just one more piece of evidence underscoring that we have a car (actually pickup truck) addiction in this city and it continually erodes our livability. So needless to say when I learned that the Phase 2 plan called for the turning of acres of lakeshore parkland into hundreds more parking spaces that will remain empty the vast majority of the time I once again dropped my metaphorical burrito in disgust. As I’ve said thousands of times before this city needs to build pretty much anything but car infrastructure. Our road utilization is remarkably low and our parking lots sit empty and rob municipal coffers of tax revenue because they’re non productive. And ugly. All we need to do is think outside the box. So here’s one way to do that for Marina Park.</summary></entry><entry><title type="html">The state of bike lanes in Thunder Bay</title><link href="http://localhost:4000/bike-lanes-tbay/" rel="alternate" type="text/html" title="The state of bike lanes in Thunder Bay" /><published>2013-12-27T23:45:58-05:00</published><updated>2013-12-27T23:45:58-05:00</updated><id>http://localhost:4000/bike-lanes-tbay</id><content type="html" xml:base="http://localhost:4000/bike-lanes-tbay/">&lt;h3 id=&quot;context-is-everything&quot;&gt;Context is everything&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/winter-copenhagen.jpg&quot; alt=&quot;Winter biking in Copenhagen&quot; title=&quot;Winter biking in Copenhagen is normal, and that thing on the side of the lane is counting cyclists.&quot; /&gt;&lt;/p&gt;
+<p>The possibilities are endless. But we won’t get there if we keep paving paradise and putting up parking lots.</p>]]></content><author><name>Dean Stamler</name></author><category term="Transit" /><summary type="html"><![CDATA[We’re building more parking! I’ve been following the development of the Waterfront Phase 2 plans with keen interest. Friends of mine know I have a chip on my shoulder about parking in Thunder Bay— specifically we have too much of it. Data supports me on this. According to the Ontario Municipal Benchmarking Initiative we have more parking spaces per capita than any other city in Ontario. We can’t stop paving paradise. It’s just one more piece of evidence underscoring that we have a car (actually pickup truck) addiction in this city and it continually erodes our livability. So needless to say when I learned that the Phase 2 plan called for the turning of acres of lakeshore parkland into hundreds more parking spaces that will remain empty the vast majority of the time I once again dropped my metaphorical burrito in disgust. As I’ve said thousands of times before this city needs to build pretty much anything but car infrastructure. Our road utilization is remarkably low and our parking lots sit empty and rob municipal coffers of tax revenue because they’re non productive. And ugly. All we need to do is think outside the box. So here’s one way to do that for Marina Park.]]></summary></entry><entry><title type="html">The state of bike lanes in Thunder Bay</title><link href="http://localhost:4000/bike-lanes-tbay/" rel="alternate" type="text/html" title="The state of bike lanes in Thunder Bay" /><published>2013-12-27T23:45:58-05:00</published><updated>2013-12-27T23:45:58-05:00</updated><id>http://localhost:4000/bike-lanes-tbay</id><content type="html" xml:base="http://localhost:4000/bike-lanes-tbay/"><![CDATA[<h3 id="context-is-everything">Context is everything</h3>
+<p><img src="http://localhost:4000/assets/winter-copenhagen.jpg" alt="Winter biking in Copenhagen" title="Winter biking in Copenhagen is normal, and that thing on the side of the lane is counting cyclists." /></p>
 
-&lt;p&gt;For all but one of my 32 years, I’ve called Thunder Bay home.  But within the last decade I’ve spent at least 7 months in various countries that aren’t in North America.  Prior to this my sentiments about home were very much fond and affirming but that all changed a few years ago when I picked up a copy of “&lt;a href=&quot;https://web.archive.org/web/20111209134642/http://www.lonelyplanet.com/canada/ontario/thunder-bay&quot;&gt;Lonely Planet&lt;/a&gt; Canada” and read the section about Thunder Bay.
-&lt;!--more--&gt;&lt;/p&gt;
+<p>For all but one of my 32 years, I’ve called Thunder Bay home.  But within the last decade I’ve spent at least 7 months in various countries that aren’t in North America.  Prior to this my sentiments about home were very much fond and affirming but that all changed a few years ago when I picked up a copy of “<a href="https://web.archive.org/web/20111209134642/http://www.lonelyplanet.com/canada/ontario/thunder-bay">Lonely Planet</a> Canada” and read the section about Thunder Bay.
+<!--more--></p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;First impressions of Thunder Bay can be a little jarring. After hours of driving between an ethereal coastline and majestic forests, the concrete collection of industrial relics feels quite out of place. The two distinct downtown cores act like polar magnets repelling attempts at gentrification. However, below the gritty surface, expansive Thunder Bay has a warm small-town vibe. The city itself doesn’t offer heaps of attractions, but it makes for an excellent base to explore the nearby historical and natural sites.&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>First impressions of Thunder Bay can be a little jarring. After hours of driving between an ethereal coastline and majestic forests, the concrete collection of industrial relics feels quite out of place. The two distinct downtown cores act like polar magnets repelling attempts at gentrification. However, below the gritty surface, expansive Thunder Bay has a warm small-town vibe. The city itself doesn’t offer heaps of attractions, but it makes for an excellent base to explore the nearby historical and natural sites.</p>
+</blockquote>
 
-&lt;p&gt;Basically, a globally recognized travel guide advises its readers to use Thunder Bay only as a base to see what’s around it because the city is otherwise an ugly pile of crap.  And in some contexts it’s hard to argue with the assessment they’ve given.  I made a joke on twitter a few days ago&lt;/p&gt;
+<p>Basically, a globally recognized travel guide advises its readers to use Thunder Bay only as a base to see what’s around it because the city is otherwise an ugly pile of crap.  And in some contexts it’s hard to argue with the assessment they’ve given.  I made a joke on twitter a few days ago</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;We need a “views from Thunder Bay restaurants tumblr w/ pics of aesthetic atrocities caused by lack of regs &amp;amp; car-centric city planning.&lt;/p&gt;
+<blockquote>
+  <p>We need a “views from Thunder Bay restaurants tumblr w/ pics of aesthetic atrocities caused by lack of regs &amp; car-centric city planning.</p>
 
-  &lt;p&gt;— Dean Stamler (@dstamler) December 22, 2013&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>— Dean Stamler (@dstamler) December 22, 2013</p>
+</blockquote>
 
-&lt;p&gt;and I think this plainly makes the case of Thunder Bay being designed for cars.&lt;/p&gt;
+<p>and I think this plainly makes the case of Thunder Bay being designed for cars.</p>
 
-&lt;p&gt;Now it seems a day doesn’t go by where I recall travel experiences and say “I wish it was like that here.”  There is no greater example of this than my visits to Copenhagen, Århus and Amsterdam (in no particular order).  These cities are among the most liveable I have ever visited for the simple reason that people get around without cars.  Few things are more empowering than being able to enjoy your city without the need for a car, and planners of these cities enable that in the most profound way: by embracing the bicycle.&lt;/p&gt;
+<p>Now it seems a day doesn’t go by where I recall travel experiences and say “I wish it was like that here.”  There is no greater example of this than my visits to Copenhagen, Århus and Amsterdam (in no particular order).  These cities are among the most liveable I have ever visited for the simple reason that people get around without cars.  Few things are more empowering than being able to enjoy your city without the need for a car, and planners of these cities enable that in the most profound way: by embracing the bicycle.</p>
 
-&lt;p&gt;You see the bicycle, to quote &lt;a href=&quot;http://www.mrmoneymustache.com/2012/05/07/what-do-you-mean-you-dont-have-a-bike/&quot;&gt;Mr. Money Mustache&lt;/a&gt;, is an automatic life-balancing machine.  It keeps you healthy and fit, slows you down just enough so you have more fun in the city, costs infinitely less in tax dollars to provide infrastructure for than the car, is free to park pretty much wherever you please.  You can &lt;a href=&quot;https://www.google.ca/search?tbm=isch&amp;amp;q=cargo+bike&amp;amp;oq=cargo+bike&quot;&gt;carry pretty much anything&lt;/a&gt; in one too, contrary to the beliefs of many people.&lt;/p&gt;
+<p>You see the bicycle, to quote <a href="http://www.mrmoneymustache.com/2012/05/07/what-do-you-mean-you-dont-have-a-bike/">Mr. Money Mustache</a>, is an automatic life-balancing machine.  It keeps you healthy and fit, slows you down just enough so you have more fun in the city, costs infinitely less in tax dollars to provide infrastructure for than the car, is free to park pretty much wherever you please.  You can <a href="https://www.google.ca/search?tbm=isch&amp;q=cargo+bike&amp;oq=cargo+bike">carry pretty much anything</a> in one too, contrary to the beliefs of many people.</p>
 
-&lt;p&gt;In urban and regional planning, &lt;em&gt;mode share&lt;/em&gt; is the term used to describe the portion of travelers who use a particular type of transportation.  Copenhagen, Århus and Amsterdam each have bicycle mode share &lt;a href=&quot;http://en.wikipedia.org/wiki/Modal_share&quot;&gt;numbers of well over 25%&lt;/a&gt; which means that more than 1 in 4 trips are made by bicycle. Walking mode share is between 4% and 10%.&lt;/p&gt;
+<p>In urban and regional planning, <em>mode share</em> is the term used to describe the portion of travelers who use a particular type of transportation.  Copenhagen, Århus and Amsterdam each have bicycle mode share <a href="http://en.wikipedia.org/wiki/Modal_share">numbers of well over 25%</a> which means that more than 1 in 4 trips are made by bicycle. Walking mode share is between 4% and 10%.</p>
 
-&lt;h3 id=&quot;a-rude-awakening&quot;&gt;A rude awakening&lt;/h3&gt;
+<h3 id="a-rude-awakening">A rude awakening</h3>
 
-&lt;p&gt;Two years ago when I woke up to bike lanes painted on the road in front of my house on North Vickers St, I decided it was time to stop dreaming and attempt to start living a car-lite lifestyle and now I can no longer deny that that the car is simply not the best way to get around cities.&lt;/p&gt;
+<p>Two years ago when I woke up to bike lanes painted on the road in front of my house on North Vickers St, I decided it was time to stop dreaming and attempt to start living a car-lite lifestyle and now I can no longer deny that that the car is simply not the best way to get around cities.</p>
 
-&lt;p&gt;My office was next to the swing bridge on the Kaministiquia river and I quickly discovered the bike ride was approximately 7.5 km which is about 24 minutes at a relaxing and leisurely pace.  This compared favourably to my 12-minute car commute, costing me only an additional 24 minutes per day.&lt;/p&gt;
+<p>My office was next to the swing bridge on the Kaministiquia river and I quickly discovered the bike ride was approximately 7.5 km which is about 24 minutes at a relaxing and leisurely pace.  This compared favourably to my 12-minute car commute, costing me only an additional 24 minutes per day.</p>
 
-&lt;p&gt;The issues came when I started actually riding my bike.  Drivers are largely unaware of cyclists and some of them are openly hostile.  Then there are the bike lanes.  I’m glad they’re there and I’m very thankful to the administration for beginning good work, but do they &lt;em&gt;ever&lt;/em&gt; need work.  I’m sick and tired of justifying the lanes on Victoria Avenue to pretty much everyone including my peers who I assumed would be in approximately the right age group to be sympathetic.  Drivers don’t know how to handle this area even after two seasons, and I can’t blame them.  These lanes are terrible.  Walsh street only works sometimes because of lower traffic.  Cars fly down Vickers, and once you’re south of the fire station things get very tricky.  I have to hand it to Ken Shields who successfully lobbied the city to install a culvert to connect Winnipeg Ave to the dog park at the end of Carrick St.  He fought long and hard for that, but it’s only a very small part of the infrastructure needed to safely traverse from the North core to the South core by bike.&lt;/p&gt;
+<p>The issues came when I started actually riding my bike.  Drivers are largely unaware of cyclists and some of them are openly hostile.  Then there are the bike lanes.  I’m glad they’re there and I’m very thankful to the administration for beginning good work, but do they <em>ever</em> need work.  I’m sick and tired of justifying the lanes on Victoria Avenue to pretty much everyone including my peers who I assumed would be in approximately the right age group to be sympathetic.  Drivers don’t know how to handle this area even after two seasons, and I can’t blame them.  These lanes are terrible.  Walsh street only works sometimes because of lower traffic.  Cars fly down Vickers, and once you’re south of the fire station things get very tricky.  I have to hand it to Ken Shields who successfully lobbied the city to install a culvert to connect Winnipeg Ave to the dog park at the end of Carrick St.  He fought long and hard for that, but it’s only a very small part of the infrastructure needed to safely traverse from the North core to the South core by bike.</p>
 
-&lt;h3 id=&quot;demographics&quot;&gt;Demographics&lt;/h3&gt;
+<h3 id="demographics">Demographics</h3>
 
-&lt;p&gt;Then there’s the issue of who’s actually riding a bike.  It’s men.  If you don’t believe me or want to call me sexist, go and count.  I wouldn’t have had the courage necessary to ride on these new lanes if I didn’t have a few year’s experience with a motorcycle license.  I understand what a blocking position is and (perhaps foolishly) have the &lt;em&gt;confidence&lt;/em&gt; to bike with the cars when the bike lane ends.  But women and children apparently don’t and I’m not the only one saying that.  Just read &lt;a href=&quot;https://web.archive.org/web/20121107102725/http://www.economist.com/node/21556970&quot;&gt;The Economist&lt;/a&gt;.  Apparently &lt;a href=&quot;https://www.economist.com/blogs/economist-explains/2013/12/economist-explains-12&quot;&gt;this is an issue&lt;/a&gt; in most cities with low mode share.&lt;/p&gt;
+<p>Then there’s the issue of who’s actually riding a bike.  It’s men.  If you don’t believe me or want to call me sexist, go and count.  I wouldn’t have had the courage necessary to ride on these new lanes if I didn’t have a few year’s experience with a motorcycle license.  I understand what a blocking position is and (perhaps foolishly) have the <em>confidence</em> to bike with the cars when the bike lane ends.  But women and children apparently don’t and I’m not the only one saying that.  Just read <a href="https://web.archive.org/web/20121107102725/http://www.economist.com/node/21556970">The Economist</a>.  Apparently <a href="https://www.economist.com/blogs/economist-explains/2013/12/economist-explains-12">this is an issue</a> in most cities with low mode share.</p>
 
-&lt;p&gt;In fact The Economist &lt;a href=&quot;https://www.economist.com/blogs/democracyinamerica/2013/11/cycling-v-cars&quot;&gt;has been&lt;/a&gt; &lt;a href=&quot;https://web.archive.org/web/20140828163153/http://www.economist.com/blogs/democracyinamerica/2013/12/cycling-new-york&quot;&gt;publishing&lt;/a&gt; &lt;a href=&quot;https://web.archive.org/web/20141018024733/http://www.economist.com/news/britain/21590590-cycling-britain-not-always-dangerousbut-it-could-be-much-safer-wheel-problem&quot;&gt;a lot about&lt;/a&gt; &lt;a href=&quot;https://web.archive.org/web/20131231060443/http://www.economist.com/blogs/prospero/2013/04/business-networking&quot;&gt;bikes in cities&lt;/a&gt; lately.  It’s totally a thing.&lt;/p&gt;
+<p>In fact The Economist <a href="https://www.economist.com/blogs/democracyinamerica/2013/11/cycling-v-cars">has been</a> <a href="https://web.archive.org/web/20140828163153/http://www.economist.com/blogs/democracyinamerica/2013/12/cycling-new-york">publishing</a> <a href="https://web.archive.org/web/20141018024733/http://www.economist.com/news/britain/21590590-cycling-britain-not-always-dangerousbut-it-could-be-much-safer-wheel-problem">a lot about</a> <a href="https://web.archive.org/web/20131231060443/http://www.economist.com/blogs/prospero/2013/04/business-networking">bikes in cities</a> lately.  It’s totally a thing.</p>
 
-&lt;p&gt;There are other reasons to make Thunder Bay better for bikes, like the fact that a significant portion of the population doesn’t drive.  Cities that are good for biking also evolve into cities that are good for walking and good for riding transit.  Thunder Bay has a large population of elderly people who don’t drive.  Further, &lt;a href=&quot;http://www2.macleans.ca/2012/06/05/for-todays-youth-cars-no-longer-represent-freedom/&quot;&gt;young people are delaying&lt;/a&gt; or even skipping driving licenses altogether these days.&lt;/p&gt;
+<p>There are other reasons to make Thunder Bay better for bikes, like the fact that a significant portion of the population doesn’t drive.  Cities that are good for biking also evolve into cities that are good for walking and good for riding transit.  Thunder Bay has a large population of elderly people who don’t drive.  Further, <a href="http://www2.macleans.ca/2012/06/05/for-todays-youth-cars-no-longer-represent-freedom/">young people are delaying</a> or even skipping driving licenses altogether these days.</p>
 
-&lt;h3 id=&quot;a-new-plan&quot;&gt;A new plan&lt;/h3&gt;
+<h3 id="a-new-plan">A new plan</h3>
 
-&lt;p&gt;If Thunder Bay wants to reap the benefits that cycling brings to cities then some changes have to happen now.  The current infrastructure is not beyond repair, it’s just half-baked.  I suspect this is a result of having only a few people actively promoting bicycle infrastructure.  In light of this, I’ve hacked together a (very) small group of (somewhat) like minded people and we’re going to lobby the city to make lanes safer, more useful and more abundant.  I have dreams about Thunder Bay hitting a mode share of more than 10% for bikes in the summer months, and I’m going to outline exactly what can be done to get Thunder Bay back on the right track with regard to bike lanes.  Drivers need clear direction, bike lanes need &lt;a href=&quot;http://en.wikipedia.org/wiki/Segregated_cycle_facilities&quot;&gt;enough protection&lt;/a&gt; that kids can use them, and the &lt;a href=&quot;http://connectivecorridor.syr.edu/bike-lanes-create-great-return-on-infrastructure-investment/&quot;&gt;infrastructure will&lt;/a&gt; &lt;a href=&quot;http://gas2.org/2011/01/18/building-bike-lanes-creates-twice-as-many-jobs-as-road-repairs/&quot;&gt;actually pay&lt;/a&gt; &lt;a href=&quot;https://www.researchgate.net/publication/242744386_Value_for_Money_An_Economic_Assessment_of_Investment_in_Walking_and_Cycling&quot;&gt;for itself&lt;/a&gt;.  A slightly &lt;a href=&quot;http://www.theatlantic.com/health/archive/2011/08/walking-is-healthy-so-why-isnt-it-safer/243858/&quot;&gt;related article&lt;/a&gt; for good measure.&lt;/p&gt;
+<p>If Thunder Bay wants to reap the benefits that cycling brings to cities then some changes have to happen now.  The current infrastructure is not beyond repair, it’s just half-baked.  I suspect this is a result of having only a few people actively promoting bicycle infrastructure.  In light of this, I’ve hacked together a (very) small group of (somewhat) like minded people and we’re going to lobby the city to make lanes safer, more useful and more abundant.  I have dreams about Thunder Bay hitting a mode share of more than 10% for bikes in the summer months, and I’m going to outline exactly what can be done to get Thunder Bay back on the right track with regard to bike lanes.  Drivers need clear direction, bike lanes need <a href="http://en.wikipedia.org/wiki/Segregated_cycle_facilities">enough protection</a> that kids can use them, and the <a href="http://connectivecorridor.syr.edu/bike-lanes-create-great-return-on-infrastructure-investment/">infrastructure will</a> <a href="http://gas2.org/2011/01/18/building-bike-lanes-creates-twice-as-many-jobs-as-road-repairs/">actually pay</a> <a href="https://www.researchgate.net/publication/242744386_Value_for_Money_An_Economic_Assessment_of_Investment_in_Walking_and_Cycling">for itself</a>.  A slightly <a href="http://www.theatlantic.com/health/archive/2011/08/walking-is-healthy-so-why-isnt-it-safer/243858/">related article</a> for good measure.</p>
 
-&lt;p&gt;So without further ado, here are the top issues that need to change to improve bike infrastructure and increase active-transportation mode-share in Thunder Bay.  Get these nailed and we’ll all be happier, healthier, safer, and richer.&lt;/p&gt;
+<p>So without further ado, here are the top issues that need to change to improve bike infrastructure and increase active-transportation mode-share in Thunder Bay.  Get these nailed and we’ll all be happier, healthier, safer, and richer.</p>
 
-&lt;h4 id=&quot;1-on-lanes-with-on-street-car-parking-bike-lanes-currently-have-cars-on-both-sides&quot;&gt;1. On lanes with on-street car parking, bike lanes currently have &lt;em&gt;cars on both sides&lt;/em&gt;.&lt;/h4&gt;
-&lt;p&gt;This is the single biggest flaw in our current bike lane implementation because cars &lt;em&gt;must&lt;/em&gt; drive in the bike lane to park, bikes are susceptible to the “door prize” where car doors open into the lane, &lt;em&gt;AND&lt;/em&gt; bikes cannot easily access the shops and businesses where they want to go.  Further, bikes cannot control intersections when they’re stopped at red smart lights since they are not large enough to set off the sensors.&lt;/p&gt;
+<h4 id="1-on-lanes-with-on-street-car-parking-bike-lanes-currently-have-cars-on-both-sides">1. On lanes with on-street car parking, bike lanes currently have <em>cars on both sides</em>.</h4>
+<p>This is the single biggest flaw in our current bike lane implementation because cars <em>must</em> drive in the bike lane to park, bikes are susceptible to the “door prize” where car doors open into the lane, <em>AND</em> bikes cannot easily access the shops and businesses where they want to go.  Further, bikes cannot control intersections when they’re stopped at red smart lights since they are not large enough to set off the sensors.</p>
 
-&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; Paint the bike lanes immediately next to the curb and cover them with green paint, then paint a no-car buffer zone, then allow car parking.  This is what happens in most of Europe and is considered best practices.  Most cities around the world with high bicycle mode share use this method.&lt;/p&gt;
+<p><strong>Solution:</strong> Paint the bike lanes immediately next to the curb and cover them with green paint, then paint a no-car buffer zone, then allow car parking.  This is what happens in most of Europe and is considered best practices.  Most cities around the world with high bicycle mode share use this method.</p>
 
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; This change will make bike travel significantly faster than cars for short runs because it facilitates door-to-door movement and no stopping is required for right hand turns because bicycles have protected right-hand turns regardless of streetlight state. It also allows cyclists easy access to intersection controls (which should face the bike lanes).  Travel by bike will also become significantly safer since parked cars act as a buffer between high-speed car traffic and the buffer-zone prevents doors from opening into the bike lane.  Cars would also be unable to cut the corner into bike lanes on turns since bike lanes can be painted around the corner.  Finally, this is very cheap to implement only requiring more paint than existing lanes.&lt;/p&gt;
+<p><strong>Benefits:</strong> This change will make bike travel significantly faster than cars for short runs because it facilitates door-to-door movement and no stopping is required for right hand turns because bicycles have protected right-hand turns regardless of streetlight state. It also allows cyclists easy access to intersection controls (which should face the bike lanes).  Travel by bike will also become significantly safer since parked cars act as a buffer between high-speed car traffic and the buffer-zone prevents doors from opening into the bike lane.  Cars would also be unable to cut the corner into bike lanes on turns since bike lanes can be painted around the corner.  Finally, this is very cheap to implement only requiring more paint than existing lanes.</p>
 
-&lt;h4 id=&quot;2-on-lanes-without-on-street-car-parking-bike-lanes-are-currently-not-protected&quot;&gt;2. On lanes without on-street car parking, bike lanes are currently not protected&lt;/h4&gt;
-&lt;p&gt;Streets without on-street parking tend to have fast-moving car traffic.  Simply painting white lines on the street does not inspire confidence for citizen cyclists on these routes and will do little if anything to increase bicycle mode share.&lt;/p&gt;
+<h4 id="2-on-lanes-without-on-street-car-parking-bike-lanes-are-currently-not-protected">2. On lanes without on-street car parking, bike lanes are currently not protected</h4>
+<p>Streets without on-street parking tend to have fast-moving car traffic.  Simply painting white lines on the street does not inspire confidence for citizen cyclists on these routes and will do little if anything to increase bicycle mode share.</p>
 
-&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; Paint the entire bike lane green, and use inexpensive physical dividers on the edges between traffic.  Concrete parking curbs are small, modular and cheap and can be placed every 10 to 20 metres along the line between car traffic and bicycle traffic.  A several kilometre street can be installed in a couple of days by a simple crew as well.  Ottawa’s Laurier bike lane uses this.&lt;/p&gt;
+<p><strong>Solution:</strong> Paint the entire bike lane green, and use inexpensive physical dividers on the edges between traffic.  Concrete parking curbs are small, modular and cheap and can be placed every 10 to 20 metres along the line between car traffic and bicycle traffic.  A several kilometre street can be installed in a couple of days by a simple crew as well.  Ottawa’s Laurier bike lane uses this.</p>
 
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; The incentive for cars to stay out of bike lanes is great when there is a curb: they will become severely damaged if they drive over the curb.  There is a very clearly delineated area for bikes and cars and confusion will be significantly reduced.  Safety confidence is highly increased for citizen cyclists, increasing bicycle mode share.&lt;/p&gt;
+<p><strong>Benefits:</strong> The incentive for cars to stay out of bike lanes is great when there is a curb: they will become severely damaged if they drive over the curb.  There is a very clearly delineated area for bikes and cars and confusion will be significantly reduced.  Safety confidence is highly increased for citizen cyclists, increasing bicycle mode share.</p>
 
-&lt;h4 id=&quot;3-sharrows--shared-lane-markings-are-a-bad-idea&quot;&gt;3. Sharrows / Shared-lane markings are a bad idea&lt;/h4&gt;
-&lt;p&gt;Once they actually think about it, nobody likes shared-lane markings, or sharrows, except possibly veteran cyclists who don’t actually like them but perceive them as being good because it strokes their ego.  Sharrows frustrate drivers because they slow the speed of car traffic, they frustrate cyclists because they are forced to ride among cars with a wide speed difference, and they do little if anything to increase bicycle mode share.  They are cheap and give the impression of caring about cyclists, but that’s it.  The only reasonable use of sharrows is on quiet side streets (certainly NOT Oliver Road!), and for this reason there is a better solution. Sharrows have another serious problem: they imply to motorists that streets without sharrows are only for cars, which is not true. In this way they mislead drivers.&lt;/p&gt;
+<h4 id="3-sharrows--shared-lane-markings-are-a-bad-idea">3. Sharrows / Shared-lane markings are a bad idea</h4>
+<p>Once they actually think about it, nobody likes shared-lane markings, or sharrows, except possibly veteran cyclists who don’t actually like them but perceive them as being good because it strokes their ego.  Sharrows frustrate drivers because they slow the speed of car traffic, they frustrate cyclists because they are forced to ride among cars with a wide speed difference, and they do little if anything to increase bicycle mode share.  They are cheap and give the impression of caring about cyclists, but that’s it.  The only reasonable use of sharrows is on quiet side streets (certainly NOT Oliver Road!), and for this reason there is a better solution. Sharrows have another serious problem: they imply to motorists that streets without sharrows are only for cars, which is not true. In this way they mislead drivers.</p>
 
-&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; Reduce speed limits.  The only places that can reasonably use sharrows are quiet side streets so a much more elegant solution that keeps motorists and cyclists in harmony is to simply reduce the speed limit to around 30 km/h.  This can be done explicitly with speed-limit signs or implicitly through traffic-calming techniques such as reducing visibility for cars, speed bumps (only for cars), diagonal diverters for car traffic which allow bicycle transit in any direction, etc. Another even better solution for ultimate liveability is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Woonerf&quot;&gt;woonerf&lt;/a&gt;.&lt;/p&gt;
+<p><strong>Solution:</strong> Reduce speed limits.  The only places that can reasonably use sharrows are quiet side streets so a much more elegant solution that keeps motorists and cyclists in harmony is to simply reduce the speed limit to around 30 km/h.  This can be done explicitly with speed-limit signs or implicitly through traffic-calming techniques such as reducing visibility for cars, speed bumps (only for cars), diagonal diverters for car traffic which allow bicycle transit in any direction, etc. Another even better solution for ultimate liveability is the <a href="http://en.wikipedia.org/wiki/Woonerf">woonerf</a>.</p>
 
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Cars and bicycles end up traveling at similar speeds, and the implementation of lower speed limits is very cheap.  Further, quite neighbourhoods are often full of children and reducing speed limits reduces pedestrian fatalities by allowing cars to stop within shorter distances.  Car traffic also becomes more quiet.&lt;/p&gt;
+<p><strong>Benefits:</strong> Cars and bicycles end up traveling at similar speeds, and the implementation of lower speed limits is very cheap.  Further, quite neighbourhoods are often full of children and reducing speed limits reduces pedestrian fatalities by allowing cars to stop within shorter distances.  Car traffic also becomes more quiet.</p>
 
-&lt;h4 id=&quot;4-the-missing-link&quot;&gt;4. The missing link&lt;/h4&gt;
-&lt;p&gt;It is currently impossible to get from the North to the South of the city without driving in heavy car traffic unless you travel far away from the lake and through the college and university campuses.  The issue with this is that it’s not where people want to go.&lt;/p&gt;
+<h4 id="4-the-missing-link">4. The missing link</h4>
+<p>It is currently impossible to get from the North to the South of the city without driving in heavy car traffic unless you travel far away from the lake and through the college and university campuses.  The issue with this is that it’s not where people want to go.</p>
 
-&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; We need a safe, protected north-south bicycle corridor along both Memorial Avenue and Water/Fort William Road/Simpson/Arthur St.&lt;/p&gt;
+<p><strong>Solution:</strong> We need a safe, protected north-south bicycle corridor along both Memorial Avenue and Water/Fort William Road/Simpson/Arthur St.</p>
 
-&lt;h3 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;/h3&gt;
-&lt;p&gt;We should absolutely prioritize plowing bike lanes and sidewalks OVER roads in the winter.  This may come as a surprise to many of us who are fair-weather cyclists, but for a significant cohort of people in Thunder Bay driving a car isn’t an option.  I see cyclists up and down Vickers St where I live year round, and I would definitely consider riding in the winter if I knew I had a safe option.  It’s cheaper to own a winter-beater bike than a set of snow tires by a long shot.&lt;/p&gt;
+<h3 id="miscellaneous">Miscellaneous</h3>
+<p>We should absolutely prioritize plowing bike lanes and sidewalks OVER roads in the winter.  This may come as a surprise to many of us who are fair-weather cyclists, but for a significant cohort of people in Thunder Bay driving a car isn’t an option.  I see cyclists up and down Vickers St where I live year round, and I would definitely consider riding in the winter if I knew I had a safe option.  It’s cheaper to own a winter-beater bike than a set of snow tires by a long shot.</p>
 
-&lt;h3 id=&quot;epilogue&quot;&gt;Epilogue&lt;/h3&gt;
-&lt;p&gt;I still drive my car on a regular basis.  It’s the middle of winter and I’m not doing winter biking yet even though I know that many many Canadians are.  Cyclists have passed my house on Vickers street every day this month too.  I don’t hate drivers or cars, I am a driver.  But I am also a citizen cyclist, enlightened enough to have listened to the facts and realized that there is another, better way to get around a city most of the time.&lt;/p&gt;
+<h3 id="epilogue">Epilogue</h3>
+<p>I still drive my car on a regular basis.  It’s the middle of winter and I’m not doing winter biking yet even though I know that many many Canadians are.  Cyclists have passed my house on Vickers street every day this month too.  I don’t hate drivers or cars, I am a driver.  But I am also a citizen cyclist, enlightened enough to have listened to the facts and realized that there is another, better way to get around a city most of the time.</p>
 
-&lt;p&gt;Let’s all work together to make Thunder Bay beautiful by making it easy to bike around.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="bicycle" /><category term="infrastructure" /><category term="mode share" /><category term="municipal" /><category term="tax" /><category term="Thunder Bay" /><category term="transit" /><summary type="html">Context is everything For all but one of my 32 years, I’ve called Thunder Bay home. But within the last decade I’ve spent at least 7 months in various countries that aren’t in North America. Prior to this my sentiments about home were very much fond and affirming but that all changed a few years ago when I picked up a copy of “Lonely Planet Canada” and read the section about Thunder Bay.</summary></entry><entry><title type="html">How to choose a car (the mostly-rational way)</title><link href="http://localhost:4000/choose-a-car/" rel="alternate" type="text/html" title="How to choose a car (the mostly-rational way)" /><published>2013-04-05T16:50:54-04:00</published><updated>2013-04-05T16:50:54-04:00</updated><id>http://localhost:4000/choose-a-car</id><content type="html" xml:base="http://localhost:4000/choose-a-car/">&lt;p&gt;There comes a time when you need a car (or two, but almost certainly not three). If your car-liking muscle exceeds the power of your money-saving muscle, this isn’t a post for you so stop reading. But if you think you might be able to make a purchase based solely on rational thought within the context of &lt;a href=&quot;http://www.stamler.ca/net-worth/&quot;&gt;spending the lowest amount of money&lt;/a&gt; without dying in a horrible car accident, read on and I’ll tell you how to choose a car. Also, if you think you might like to just hear what I have to say and then make a decision, I’m down with that.&lt;/p&gt;
+<p>Let’s all work together to make Thunder Bay beautiful by making it easy to bike around.</p>]]></content><author><name>Dean Stamler</name></author><category term="Bicycle" /><category term="Public Policy" /><category term="Transit" /><category term="bicycle" /><category term="infrastructure" /><category term="mode share" /><category term="municipal" /><category term="tax" /><category term="Thunder Bay" /><category term="transit" /><summary type="html"><![CDATA[Context is everything For all but one of my 32 years, I’ve called Thunder Bay home. But within the last decade I’ve spent at least 7 months in various countries that aren’t in North America. Prior to this my sentiments about home were very much fond and affirming but that all changed a few years ago when I picked up a copy of “Lonely Planet Canada” and read the section about Thunder Bay.]]></summary></entry><entry><title type="html">How to choose a car (the mostly-rational way)</title><link href="http://localhost:4000/choose-a-car/" rel="alternate" type="text/html" title="How to choose a car (the mostly-rational way)" /><published>2013-04-05T16:50:54-04:00</published><updated>2013-04-05T16:50:54-04:00</updated><id>http://localhost:4000/choose-a-car</id><content type="html" xml:base="http://localhost:4000/choose-a-car/"><![CDATA[<p>There comes a time when you need a car (or two, but almost certainly not three). If your car-liking muscle exceeds the power of your money-saving muscle, this isn’t a post for you so stop reading. But if you think you might be able to make a purchase based solely on rational thought within the context of <a href="http://www.stamler.ca/net-worth/">spending the lowest amount of money</a> without dying in a horrible car accident, read on and I’ll tell you how to choose a car. Also, if you think you might like to just hear what I have to say and then make a decision, I’m down with that.</p>
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/2011-hyundai-sonata.jpg&quot; alt=&quot;I used to own a 2011 Hyundai Sonata&quot; title=&quot;When I owned a car, it was a 2011 Hyundai Sonata&quot; /&gt;&lt;/p&gt;
+<p><img src="http://localhost:4000/assets/2011-hyundai-sonata.jpg" alt="I used to own a 2011 Hyundai Sonata" title="When I owned a car, it was a 2011 Hyundai Sonata" /></p>
 
-&lt;h3 id=&quot;do-i-need-to-choose-a-car&quot;&gt;Do I need to choose a car?&lt;/h3&gt;
+<h3 id="do-i-need-to-choose-a-car">Do I need to choose a car?</h3>
 
-&lt;p&gt;The absolute best car you can buy from a financial standpoint is a &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt;. “But that’s not a car”, you say. Oh right. But if you can ride the bus without strenuous effort, or walk, that is way cheaper. Be honest with yourself: you don’t need a car to get 2 km to work unless work involves hauling dozens of kilograms of random crap to and from your job in the snow every day. Even then you &lt;a href=&quot;http://yubabikes.com/&quot;&gt;may be able&lt;/a&gt; &lt;a href=&quot;http://bakfiets.nl/eng/&quot;&gt;to get away with&lt;/a&gt; &lt;a href=&quot;http://www.babboecargobike.com/&quot;&gt;a cargo bike&lt;/a&gt;. Bicycles are a good option. In the warmer months I like to ride my bike to work on days I’m not working from home. It’s 7km one way and takes about 20 minutes. It’s a great way to unwind and get time to think and it saves money. Quite a bit actually.
-&lt;!--more--&gt;&lt;/p&gt;
+<p>The absolute best car you can buy from a financial standpoint is a <a href="http://www.stamler.ca/tfsa/">TFSA</a>. “But that’s not a car”, you say. Oh right. But if you can ride the bus without strenuous effort, or walk, that is way cheaper. Be honest with yourself: you don’t need a car to get 2 km to work unless work involves hauling dozens of kilograms of random crap to and from your job in the snow every day. Even then you <a href="http://yubabikes.com/">may be able</a> <a href="http://bakfiets.nl/eng/">to get away with</a> <a href="http://www.babboecargobike.com/">a cargo bike</a>. Bicycles are a good option. In the warmer months I like to ride my bike to work on days I’m not working from home. It’s 7km one way and takes about 20 minutes. It’s a great way to unwind and get time to think and it saves money. Quite a bit actually.
+<!--more--></p>
 
-&lt;h3 id=&quot;so-you-need-a-car&quot;&gt;So you need a car&lt;/h3&gt;
+<h3 id="so-you-need-a-car">So you need a car</h3>
 
-&lt;p&gt;You’ve established that you absolutely need a car. There are three things that make a car cost money— capital cost, maintenance and operating expenses. These can be expanded into five simple bullet points for simplicity.&lt;/p&gt;
+<p>You’ve established that you absolutely need a car. There are three things that make a car cost money— capital cost, maintenance and operating expenses. These can be expanded into five simple bullet points for simplicity.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;How much does the car cost to buy?&lt;/li&gt;
-  &lt;li&gt;How well does the car hold value?&lt;/li&gt;
-  &lt;li&gt;How much fuel does the car use and how much do I (or should I) drive?&lt;/li&gt;
-  &lt;li&gt;How much does the car cost to maintain?&lt;/li&gt;
-  &lt;li&gt;How much does the car cost to insure?&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>How much does the car cost to buy?</li>
+  <li>How well does the car hold value?</li>
+  <li>How much fuel does the car use and how much do I (or should I) drive?</li>
+  <li>How much does the car cost to maintain?</li>
+  <li>How much does the car cost to insure?</li>
+</ol>
 
-&lt;p&gt;To choose a car, you should ideally calculate all of these things and put as much research as possible to get accurate information.&lt;/p&gt;
+<p>To choose a car, you should ideally calculate all of these things and put as much research as possible to get accurate information.</p>
 
-&lt;h3 id=&quot;capital-cost&quot;&gt;Capital Cost&lt;/h3&gt;
+<h3 id="capital-cost">Capital Cost</h3>
 
-&lt;p&gt;Getting the price of a car is easy: ask the seller. The problem is that what you do with that number matters. There are several ways that you can actually buy a car and each method has implications to the buy and sell prices.&lt;/p&gt;
+<p>Getting the price of a car is easy: ask the seller. The problem is that what you do with that number matters. There are several ways that you can actually buy a car and each method has implications to the buy and sell prices.</p>
 
-&lt;h4 id=&quot;ways-to-pay-for-a-car-not-including-taxes-fees-and-rebates&quot;&gt;Ways to pay for a car (not including taxes, fees and rebates)&lt;/h4&gt;
+<h4 id="ways-to-pay-for-a-car-not-including-taxes-fees-and-rebates">Ways to pay for a car (not including taxes, fees and rebates)</h4>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Payment type&lt;/th&gt;
-      &lt;th&gt;buy price&lt;/th&gt;
-      &lt;th&gt;sell price&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Cash&lt;/td&gt;
-      &lt;td&gt;Sticker price&lt;/td&gt;
-      &lt;td&gt;residual value&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Loan from dealer or bank&lt;/td&gt;
-      &lt;td&gt;Sticker price + interest&lt;/td&gt;
-      &lt;td&gt;residual value&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lease and return&lt;/td&gt;
-      &lt;td&gt;Sticker price + interest - residual value&lt;/td&gt;
-      &lt;td&gt;$0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lease and buy&lt;/td&gt;
-      &lt;td&gt;Sticker price + interest + buyout&lt;/td&gt;
-      &lt;td&gt;residual value&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;In the table above, I wrote “interest” a bunch of times. This is an &lt;a href=&quot;http://www.stamler.ca/annuity/&quot;&gt;annuity&lt;/a&gt; calculation. You can &lt;a href=&quot;http://www.stamler.ca/annuity/&quot;&gt;figure it out pretty easily&lt;/a&gt; without actually having to talk to a banker. Then you have to figure out roughly how long you plan to own the car for and what it will be worth at the end. This is called the residual value. If you’re leasing the car then planning to return it you already know how long you’ll have it and what your residual will be ($0) so just multiply the payments by the number of months you’ll have it. If you plan on driving it into the ground the residual value will be $0 as well. The biggest reason not to do this is that the cost of maintenance at the end of a car’s life is staggering. Another reason not to do this is that the reliability of a very old car (i.e. a car worth trashing for $0) is terrible. If you’re going to have an unreliable car there’s probably no point in having a car at all. Here’s a little hint about the capital cost of a car: it’s not as important as you think. Cars are money pits because they have to run and be maintained. The total amount you pay to drive a car is often significantly more than the difference between what you paid to buy it and what you receive to sell it at the end.&lt;/p&gt;
-
-&lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
-
-&lt;p&gt;Oil changes, tires, brakes, the list goes on and on. Anything and everything can go wrong with a car. Guessing this number is hard, but there are some reliable places to look for hard data about how much the car can cost to maintain. If it’s a new car you’re looking for, ask the dealer to provide you with a maintenance schedule and approximate costs. Another good place to look is &lt;a href=&quot;http://www.consumerreports.org/&quot;&gt;Consumer Reports&lt;/a&gt;. They’ve been aggregating car data for a long time and are arguably the best place to see how reliable a car actually is rather than asking friends who will give you anecdotal evidence at best.&lt;/p&gt;
-
-&lt;h3 id=&quot;insurance&quot;&gt;Insurance&lt;/h3&gt;
-
-&lt;p&gt;Call your insurance company or use a website like Kanetix to get a quote. You need to know much it costs to insure a car before buying it.&lt;/p&gt;
-
-&lt;h3 id=&quot;fuel&quot;&gt;Fuel&lt;/h3&gt;
-
-&lt;p&gt;This is a massive variable because it requires you to both figure out approximately how much you will be driving and to know the fuel economy of the vehicle you’re looking at. If you already own a car, there’s a decent likelihood that you’ll be driving roughly the same amount on your new car so that’s a place to start. For fuel economy, use the American website &lt;a href=&quot;http://fueleconomy.gov/&quot;&gt;fueleconomy.gov&lt;/a&gt; and NOT the &lt;a href=&quot;http://oee.nrcan.gc.ca/transportation/tools/fuelratings/ratings-search.cfm&quot;&gt;Canadian website&lt;/a&gt;. The USA has a new fuel economy testing methodology that is much more accurate than the Canadian one. Numbers on that site are often quoted in miles per US gallon. Canada uses a different gallon, and you can approximate the Canadian MPG by multiplying the US MPG by 1.2. Better yet, &lt;a href=&quot;http://fueleconomy.gov/&quot;&gt;fueleconomy.gov&lt;/a&gt; allows you to see the units in l/100km which is the standard unit in Canada. Note again that these numbers will not match the dealer window sticker. Like I said, the Canadian numbers aren’t terribly accurate. Harsh winters also really affect fuel consumption. If you do a lot of stop-and-go city driving in the winter, you could see your fuel usage skyrocket. Mine does!&lt;/p&gt;
-
-&lt;h3 id=&quot;electric-cars&quot;&gt;Electric cars&lt;/h3&gt;
-
-&lt;p&gt;Electric cars are awesome. They have no fuel tank, muffler, catalytic converter or transmission and their motors have one moving part so typical maintenance involves rotating the tires. In addition, they are very efficient (often over 90% vs under 20% for an internal combustion engine). Electricity is much cheaper than gasoline in the quantities used by cars. There’s always the question of range (how far you can go on a charge) and charging time. Here are a few considerations about electric cars:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;They cost more to buy&lt;/li&gt;
-  &lt;li&gt;They cost less to run&lt;/li&gt;
-  &lt;li&gt;They have limited range&lt;/li&gt;
-  &lt;li&gt;You probably will rarely need to exceed that limited range&lt;/li&gt;
-  &lt;li&gt;The money you save on gas can be used to rent another car for road trips&lt;/li&gt;
-  &lt;li&gt;They’re significantly better for the environment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you’re considering an electric car it’s very helpful to make a list of all the places you’d need to drive and the frequency that you make these trips to figure out the range issue. My research suggests that you can take the manufacturer’s range claims (often given in miles) and take them in kilometres at par. For example, if the manufacturer says the car has a range of 100 miles, it probably has a conservative range of around 100 km in the Canadian winter in city driving. Your mileage may vary… tremendously.&lt;/p&gt;
-
-&lt;h3 id=&quot;run-the-numbers&quot;&gt;Run the numbers&lt;/h3&gt;
-
-&lt;p&gt;Below I’ve embedded a spreadsheet that I whipped up. It shows the type of comparison that you should be making when you’re choosing a car. Please don’t take my numbers too literally. For example, I didn’t call my insurer to ask how much it would cost to insure a Tesla Model S, even though I really want one. I guessed. Sorry. Maintenance is roughly equivalent for the gas-powered cars and lower for the electric ones. Higher for the Tesla since it costs twice as much (I’m assuming). See what I mean about not taking my numbers literally? My goal here isn’t to tell you what to buy, but to show you how to figure it out for yourself.&lt;/p&gt;
-
-&lt;h4 id=&quot;example-of-cost-comparison-over-10-years&quot;&gt;Example of cost comparison over 10 years&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Car&lt;/th&gt;
-      &lt;th&gt;Hyundai Sonata Limited&lt;/th&gt;
-      &lt;th&gt;Tesla Model S (60 kWh)&lt;/th&gt;
-      &lt;th&gt;Toyota RAV4 4WD 2.5&lt;/th&gt;
-      &lt;th&gt;Nissan Versa&lt;/th&gt;
-      &lt;th&gt;Nissan LEAF&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Purchase price w/ taxes, fees, financing &amp;amp; rebates&lt;/td&gt;
-      &lt;td&gt;$37,000.00&lt;/td&gt;
-      &lt;td&gt;$91,000.00&lt;/td&gt;
-      &lt;td&gt;$33,000.00&lt;/td&gt;
-      &lt;td&gt;$22,000.00&lt;/td&gt;
-      &lt;td&gt;$43,000.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Residual value&lt;/td&gt;
-      &lt;td&gt;$7,000.00&lt;/td&gt;
-      &lt;td&gt;$14,000.00&lt;/td&gt;
-      &lt;td&gt;$9,000.00&lt;/td&gt;
-      &lt;td&gt;$4,000.00&lt;/td&gt;
-      &lt;td&gt;$4,000.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fuel / 100 km&lt;/td&gt;
-      &lt;td&gt;11 l&lt;/td&gt;
-      &lt;td&gt;24 kWh&lt;/td&gt;
-      &lt;td&gt;12 l&lt;/td&gt;
-      &lt;td&gt;9 l&lt;/td&gt;
-      &lt;td&gt;23 kWh&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual insurance&lt;/td&gt;
-      &lt;td&gt;$1,575.00&lt;/td&gt;
-      &lt;td&gt;$1,800.00&lt;/td&gt;
-      &lt;td&gt;$1,500.00&lt;/td&gt;
-      &lt;td&gt;$1,350.00&lt;/td&gt;
-      &lt;td&gt;$1,500.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annual maintenance&lt;/td&gt;
-      &lt;td&gt;500.00&lt;/td&gt;
-      &lt;td&gt;$600.00&lt;/td&gt;
-      &lt;td&gt;$500.00&lt;/td&gt;
-      &lt;td&gt;$500.00&lt;/td&gt;
-      &lt;td&gt;$400.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total capital cost&lt;/td&gt;
-      &lt;td&gt;$30,000.00&lt;/td&gt;
-      &lt;td&gt;$77,000.00&lt;/td&gt;
-      &lt;td&gt;$24,000.00&lt;/td&gt;
-      &lt;td&gt;$18,000.00&lt;/td&gt;
-      &lt;td&gt;$39,000.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total fuel cost&lt;/td&gt;
-      &lt;td&gt;$22,275.00&lt;/td&gt;
-      &lt;td&gt;$3,960.00&lt;/td&gt;
-      &lt;td&gt;$24,300.00&lt;/td&gt;
-      &lt;td&gt;$18,225.00&lt;/td&gt;
-      &lt;td&gt;$3,795.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total insurance cost&lt;/td&gt;
-      &lt;td&gt;$15,750.00&lt;/td&gt;
-      &lt;td&gt;$18,000.00&lt;/td&gt;
-      &lt;td&gt;$15,000.00&lt;/td&gt;
-      &lt;td&gt;$13,500.00&lt;/td&gt;
-      &lt;td&gt;$15,000.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total maintenance cost&lt;/td&gt;
-      &lt;td&gt;$5,000.00&lt;/td&gt;
-      &lt;td&gt;$6,000.00&lt;/td&gt;
-      &lt;td&gt;$5,000.00&lt;/td&gt;
-      &lt;td&gt;$5,000.00&lt;/td&gt;
-      &lt;td&gt;$4,000.00&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Monthly cost&lt;/td&gt;
-      &lt;td&gt;$608.54&lt;/td&gt;
-      &lt;td&gt;$874.67&lt;/td&gt;
-      &lt;td&gt;$569.17&lt;/td&gt;
-      &lt;td&gt;$456.04&lt;/td&gt;
-      &lt;td&gt;$514.96&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;em&gt;* This table assumes fuel price of $1.35/l and $0.11/kWh and annual driving distance of 15,000 km. The numbers used here are for example only and are not necessarily indicative of real market prices or actual maintenance charges.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There are a few take-aways from this table. The most expensive car is $875/month and the cheapest is $456/month, a difference of less than 2x. This is despite the fact that the actual sticker price of the expensive one is over 4x higher than the cheapest one. That’s why I said earlier that the sticker price of a car isn’t nearly as important as you might think.&lt;/p&gt;
-
-&lt;h3 id=&quot;cars-yeah&quot;&gt;Cars, yeah!&lt;/h3&gt;
-
-&lt;p&gt;There’s definitely a value to having a car you like since you’re going to save a lot of money by driving it for a long time. When I bought my car, I picked leather seats and a sun roof. Was that financially prudent? No. Do I still like my car two years in? Yes. Will it help me keep my car longer? Probably. But I’m not fooling myself about it holding its value any better: premium cars tend to depreciate faster than cheaper ones. Hopefully this gets you started on the right foot when you’re ready to buy a car. Remember, the cheapest car is no car!&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="bicycle" /><category term="bike" /><category term="buy" /><category term="buying" /><category term="car" /><category term="cars" /><category term="insurance" /><category term="maintenance" /><category term="purchase" /><category term="shopping" /><category term="transit" /><category term="walk" /><category term="walking" /><summary type="html">There comes a time when you need a car (or two, but almost certainly not three). If your car-liking muscle exceeds the power of your money-saving muscle, this isn’t a post for you so stop reading. But if you think you might be able to make a purchase based solely on rational thought within the context of spending the lowest amount of money without dying in a horrible car accident, read on and I’ll tell you how to choose a car. Also, if you think you might like to just hear what I have to say and then make a decision, I’m down with that. Do I need to choose a car? The absolute best car you can buy from a financial standpoint is a TFSA. “But that’s not a car”, you say. Oh right. But if you can ride the bus without strenuous effort, or walk, that is way cheaper. Be honest with yourself: you don’t need a car to get 2 km to work unless work involves hauling dozens of kilograms of random crap to and from your job in the snow every day. Even then you may be able to get away with a cargo bike. Bicycles are a good option. In the warmer months I like to ride my bike to work on days I’m not working from home. It’s 7km one way and takes about 20 minutes. It’s a great way to unwind and get time to think and it saves money. Quite a bit actually.</summary></entry><entry><title type="html">Rainy day funds: don’t save for an emergency</title><link href="http://localhost:4000/rainy-day-fund/" rel="alternate" type="text/html" title="Rainy day funds: don't save for an emergency" /><published>2013-03-30T14:46:53-04:00</published><updated>2013-03-30T14:46:53-04:00</updated><id>http://localhost:4000/rainy-day-fund</id><content type="html" xml:base="http://localhost:4000/rainy-day-fund/">&lt;p&gt;Almost every financial planner will tell you that you should set aside money for a rainy day. It’s like a golden rule that you must have a rainy day fund. Some advisors say 3 months income, others 6 months. Some even say a year’s income should be stored in cash or cash-like savings just in case you lose your job, have a massive car repair bill, a dead fridge, or you suddenly need to go on a trip to Belize.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/cash-umbrella.jpg&quot; alt=&quot;saving for a rainy day&quot; title=&quot;On some sunny spring days, it rains money. By leaving an upside-down umbrella outside, you can create a rainy day fund.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fortunately I’m not a financial planner so I can say whatever I want and I’m going to tell you that unless you’re in a very special circumstance you shouldn’t have a rainy day fund.&lt;/p&gt;
-
-&lt;h3 id=&quot;rainy-day-funds-enable-random-trips-to-belize&quot;&gt;Rainy day funds enable random trips to Belize&lt;/h3&gt;
-
-&lt;p&gt;I’m sure you noticed that one of the emergencies I just rattled off was kind of different. To paraphrase high-quality children’s television, it just wasn’t the same as the others. Look, I’ve got nothing against Belize but the first thing you have to realize about yourself is that when given a large quantity of cash you’re very likely to spend it either on a big stupid purchase or many small stupid purchases. Maybe you’re the one person who absolutely won’t under any circumstance succumb to the immense pressure of a lump of cash equal to several months of income. Don’t lie to yourself, you’re probably not. You’re probably thinking “Dean it’s my savings, I can do what I want.” Sure. Just don’t lie to yourself about your real motives— call it savings for a random trip to Belize, not an rainy day fund.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;where-should-i-put-that-money-instead&quot;&gt;Where should I put that money instead?&lt;/h3&gt;
-
-&lt;p&gt;Put that rainy day fund money on debt. Mortgage, student loans, car loans with a rate more than 0%, credit cards, whatever. We’ve already established that the over-arching financial goal of a person is to maximize their net worth. &lt;a href=&quot;http://www.stamler.ca/net-worth/&quot;&gt;I’ve given you some steps to do that&lt;/a&gt;. This is just another one: the interest you’ll earn on that sum of money in liquid short-term savings is less than the interest you’ll pay on the debt you owe. If you owe anything (including unused &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; and &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; contributions) pay that off before you go saving cash for dead washing machines or theoretical job loss. You’ll earn a higher after-tax rate and increase your net worth faster.&lt;/p&gt;
-
-&lt;h3 id=&quot;put-yourself-in-a-place-where-emergency-cash-is-available-when-you-need-it&quot;&gt;Put yourself in a place where emergency cash is available when you need it&lt;/h3&gt;
-
-&lt;p&gt;The thing about the society we live in is that credit is cheap and plentiful. Lines of credit are great power with great responsibility and this is one circumstance where a line of credit is a great idea. Get a line of credit at the best rate you can find, preferably one a limit of two or three months income. Then leave it at a $0 balance for a rainy day— a REAL rainy day. If you already have a line of credit and it’s maxed out, pay that off as priority number one.&lt;/p&gt;
-
-&lt;h3 id=&quot;isnt-that-the-same-thing-as-saving-an-rainy-day-fund&quot;&gt;Isn’t that the same thing as saving an rainy day fund?&lt;/h3&gt;
-
-&lt;p&gt;Why is a line of credit a better idea than a positive cash balance? You will not treat them the same way. Sometimes you have to socially engineer your financial life to protect your money from yourself and this is a perfect example. You’re more likely to not use the money to buy stupid things if it will put you directly into debt than if it would just decimate a positive balance. The thing is, decimating that positive balance is putting you into debt just as badly because all other things being equal you’re actually paying more interest on your debt than you’d earn in the cash account, remember? And you’re for sure paying that interest as opposed to possibly paying that interest in the event of an emergency.&lt;/p&gt;
-
-&lt;h3 id=&quot;unemployment&quot;&gt;Unemployment&lt;/h3&gt;
-
-&lt;p&gt;Job loss sucks, I understand. Many if not all of us will experience some period of unemployment at some point in our lives. I’m not advocating going into debt when you lose your job, either. Fortunately in Canada we have quite a good employment insurance system. If you’re already living within your means (saving a lot of money for retirement, paying off your mortgage quickly, owing little or no debt that isn’t being accelerated), then you can stand to dial back the mortgage payments, axe the savings and subsist on pogey for a bit while you search for a new job. And if you do get more debt in the process, you’ll be better off having paid it off more aggressively and starting your unemployment with less burden than having a pile of cash that will largely be used to service existing debt.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-exception&quot;&gt;The exception&lt;/h3&gt;
-
-&lt;p&gt;Your car and house are paid for. Your &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; and &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; are maxed. You have no debt to speak of and you’re living within your means. Congratulations, you are a candidate for a rainy day fund. But in this case, why? You’ll earn more money investing it than keeping it in cash. And the alternative, blowing it on a sweet trip to Belize, is a lot more fun. Both seem like good options for you at this point.&lt;/p&gt;
-
-&lt;h3 id=&quot;man-youre-stingy&quot;&gt;Man, you’re stingy!&lt;/h3&gt;
-
-&lt;p&gt;No, I’m honest and you should be too. I’m not saying don’t go on trips or have fun. I’m saying that having a rainy day fund as a structural part of your finances is generally a lame idea.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="account" /><category term="emergency" /><category term="fund" /><category term="interest" /><category term="net worth" /><category term="rainy day" /><category term="savings" /><summary type="html">Almost every financial planner will tell you that you should set aside money for a rainy day. It’s like a golden rule that you must have a rainy day fund. Some advisors say 3 months income, others 6 months. Some even say a year’s income should be stored in cash or cash-like savings just in case you lose your job, have a massive car repair bill, a dead fridge, or you suddenly need to go on a trip to Belize. Fortunately I’m not a financial planner so I can say whatever I want and I’m going to tell you that unless you’re in a very special circumstance you shouldn’t have a rainy day fund. Rainy day funds enable random trips to Belize I’m sure you noticed that one of the emergencies I just rattled off was kind of different. To paraphrase high-quality children’s television, it just wasn’t the same as the others. Look, I’ve got nothing against Belize but the first thing you have to realize about yourself is that when given a large quantity of cash you’re very likely to spend it either on a big stupid purchase or many small stupid purchases. Maybe you’re the one person who absolutely won’t under any circumstance succumb to the immense pressure of a lump of cash equal to several months of income. Don’t lie to yourself, you’re probably not. You’re probably thinking “Dean it’s my savings, I can do what I want.” Sure. Just don’t lie to yourself about your real motives— call it savings for a random trip to Belize, not an rainy day fund.</summary></entry><entry><title type="html">Pensions: a nuanced retirement tool (update)</title><link href="http://localhost:4000/pension/" rel="alternate" type="text/html" title="Pensions: a nuanced retirement tool (update)" /><published>2013-03-24T17:29:37-04:00</published><updated>2013-03-24T17:29:37-04:00</updated><id>http://localhost:4000/pension</id><content type="html" xml:base="http://localhost:4000/pension/">&lt;p&gt;Ahhh, pensions.  They can be your ticket to financial freedom.  In the best of cases, having a pension is like having a job for the rest of your life without working.  In other cases employees view their pensions as silver-bullet solutions to retirement and ignore their financial responsibilities.  Sadly many people don’t pay any attention to their pensions or the place a pension holds in their financial future until it’s too late to make a difference.  Today I’m going to introduce you to the various types of pensions and how to determine their value.  Along the way I’ll touch on some common questions.  We have lots to talk about so hang in there!&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-a-pension&quot;&gt;What is a pension?&lt;/h3&gt;
-
-&lt;p&gt;A pension is an agreement between the pensioner (beneficiary) and the payer to receive a set amount of money (benefits) on a regular basis, generally following retirement from employment.  Typically pension payments will last until the beneficiary dies.  In some cases, the beneficiary’s surviving spouse or family will continue to receive benefits, possibly at a different rate.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;defined-benefit-db-pensions&quot;&gt;Defined benefit (DB) pensions&lt;/h3&gt;
-
-&lt;p&gt;Pensions can be broadly divided into two groups: those that pay a prescribed amount defined in a set formula (defined benefit pensions, often called DB pension) and those that pay an amount dependent on investment returns and contributions (defined contribution or DC).  A defined benefit pension uses a formula which can be based on many factors including but not limited to salary, years of employment and retirement age.  For example, a common way to calculate a defined benefit pension accounts for the last few years’ income of a beneficiary before retirement and gives a portion of that provided the beneficiary has given enough service.  In a defined benefit pension the pool of money from contributions is in one large portfolio since there is no need to individually track performance.  Benefits are clearly defined in terms other than investment returns.  DB pensions can be funded or unfunded.  A funded plan is one in which a large pool of assets and cash exists and payouts depend at least partly on the growth in value of the pool.  In an unfunded plan, pension benefits are paid directly on a recurring basis by contributions from current employees or the employer and therefore there is no pool of money.  Unfunded pensions are often called pay as you go or PAYGO. Defined benefit pensions are very valuable provided they are being offered by a stable employer or sponsor.  This is because there is no market risk in DB pensions for the beneficiary.&lt;/p&gt;
-
-&lt;h3 id=&quot;defined-contribution-dc-pensions&quot;&gt;Defined contribution (DC) pensions&lt;/h3&gt;
-
-&lt;p&gt;The alternative to the DB pension is the defined contribution pension.  In this scheme, each employee has his or her own pension account.  The amount of pension the employee receives at retirement is directly affected by investment gains and losses and the amount of money the employee contributed to the pension.  Contributions to DC pensions can be either from the employee (usually tax-deferred) or from the employer or both.&lt;/p&gt;
-
-&lt;h3 id=&quot;public-pensions&quot;&gt;Public Pensions&lt;/h3&gt;
-
-&lt;p&gt;Sometimes the state will provide a pension to people over a certain age.  There is a pension in Canada called the &lt;a href=&quot;http://www.servicecanada.gc.ca/eng/isp/cpp/cpptoc.shtml&quot;&gt;CPP&lt;/a&gt; (Canada Pension Plan).  It is a funded public pension with defined benefits based on (capped) wage over the beneficiary’s lifetime.  Benefits are also indexed to inflation which means benefits increase as the value of money decreases.  In Canada there is an additional pension system called &lt;a href=&quot;http://www.servicecanada.gc.ca/eng/isp/oas/oastoc.shtml&quot;&gt;OAS&lt;/a&gt; (old-age security).  OAS kicks in for anyone over 65 years old.  Between 2023 and 2029 this age will gradually change to 67.  OAS is independent of lifetime working income contributions, but it does get clawed back for those who make more money in retirement.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-safe-is-a-pension&quot;&gt;How safe is a pension?&lt;/h3&gt;
-
-&lt;p&gt;The safety of a pension is very complicated because there are so many factors at play.  Good arguments are made that DC pensions are more sustainable than DB pensions because the considerable risk is distributed among all pensioners as opposed to being held by one large entity (the pension manager or employer).  In PAYGO DB pensions, the major risks are the employer’s bankruptcy, financial insolvency or inability to meet benefit payments.  In funded pensions the risks are low investment returns and, less directly, the employer’s financial insolvency.  In DC pensions, the risk is primarily low investment returns.  Public pensions are very large and carefully managed and thus are perceived to be of lower risk, especially funded ones.  The CPP has generally performed well and can be considered a dependable form of income when planning for retirement.&lt;/p&gt;
-
-&lt;h3 id=&quot;tax-implications-for-pensions&quot;&gt;Tax implications for pensions&lt;/h3&gt;
-
-&lt;p&gt;In many countries, Canada included, contributions to a pension plan by the employee are tax-deductible, subject to a limit.  Further, employers almost always contribute to pensions.  Pension income is almost always taxable, though sometimes special considerations are available.  For example, in Canada pension income can be split between married couples (CPP and OAS do not qualify).  Because of these properties, pensions have pretty much the same tax profile as &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;h3 id=&quot;portability-of-pensions&quot;&gt;Portability of pensions&lt;/h3&gt;
-
-&lt;p&gt;What happens to your pension when you take another job with a different employer?  The ability of a pension to translate from one employer to another is the pension’s portability.  In general, DB pensions are much less portable than DC pensions.  This isn’t necessarily a bad thing.  Often a DB pension scheme will let you leave the pension intact when you leave the company and just start collecting benefits at a specified age regardless of where you work.  The portability of a pension also hinges on the pension’s present value at the time of porting.  As with an &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt;, a pension tends to have very little value at the beginning of its life and starts to really bulk up near the end.  You should discuss the portability options of your pension plan with your employer so that you fully understand the implications of leaving the company or organization.&lt;/p&gt;
-
-&lt;h3 id=&quot;pensions-and-rrsps&quot;&gt;Pensions and RRSPs&lt;/h3&gt;
-
-&lt;p&gt;If you contribute to a pension plan your &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt; contribution room will be reduced by the pension adjustment amount which is reported on your T4 slip.  This amount is calculated by your plan administrator or employer.  The pension adjustment is based on an overall maximum contribution limit of 18% of a tax-payer’s earned income up to a defined maximum.  To make this brutally simple, if you have a pension you won’t be able to contribute as much to your RRSP.  That “as much” is the pension adjustment.  To make this even more brutal, re-read that part about the 18% limit.  What this is implying is that a pension can be replicated almost identically with an RRSP provided you save enough since they have the same limits.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-a-pension-actually-worth&quot;&gt;What is a pension actually worth?&lt;/h3&gt;
-
-&lt;p&gt;I have written an extensive article on &lt;a href=&quot;http://www.stamler.ca/annuity/&quot;&gt;annuities&lt;/a&gt; and if you haven’t read it yet, do it now!  Come back once you’re up to date because I’m going to assume you’ve read it moving forward.  Fancy math people (I kind of actually am one) will tell you that one way to calculate the value of your pension is to use the present value of an annuity.  This is the value in one lump sum of your pension on the day you retire.  If you have this amount calculated, you can compare it to many other options but one interesting comparison is the amount of money you’d need to save from a higher-paying but pensionless job to have an equivalent retirement income.&lt;/p&gt;
-
-&lt;p&gt;You’ll recall from my previous &lt;a href=&quot;http://www.stamler.ca/annuity/&quot;&gt;article&lt;/a&gt; that an annuity is a stream of payments that are equal on an annualized basis and last for a set number of years.  In really simple terms, the value of your pension depends on how long you’re going to live after you start collecting and the amount of each benefit payment.  Once you have that info, the actual payment amount and the interest rate, you just plug in the numbers.  Wait! Interest rate??  Haven’t we been through this already? What interest rate?  In this case there are way too many options.  It probably makes the most sense to use the interest rate that you think you could achieve with your money in retirement.  This will be a conservative rate of growth, possibly at or near inflation because you don’t want to lose your savings in retirement.  If you’re the kind of person that would stuff money it in your mattress, use 0% as the rate and just multiply the payment amount by the number of payments so you don’t divide by 0 in the annuity formula.  The basic thing to remember is that higher rates will give you a lower present value because if the rates are high you could use less of the principal for each payment.&lt;/p&gt;
-
-&lt;p&gt;One more curve-ball: inflation.  Some pensions are indexed to inflation which is amazing.  If you’re running the present-value calculation on these you can subtract the expected inflation rate from the interest rate to give you a present value number that factors in the increased costs of living as your retirement progresses.  So if you anticipate the average interest rate to be 3% and inflation to be 2% over the pension benefit period, use a rate of 1% in the present value calculation.&lt;/p&gt;
-
-&lt;p&gt;This really isn’t going to make much sense sense for most of you without an example so let’s bring back Dave from the annuity article.  He has a pension that pays $1000 per month, not indexed to inflation.  If Dave imagines that inflation will be 2% when he retires and that he’ll live for 30 years after retirement, remembering that there are 12 months in a year we can can calculate the present value of Dave’s pension like this:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;-1000 * \frac{1-(1+0.001\overline{6} )^{-360}}{0.001\overline{6}}, n=30 * 12, i=0.02 / 12&lt;/script&gt;
-
-&lt;p&gt;That’s a slight simplification since I assumed the 2% inflation is compounded monthly so it’s not really an annual rate but let’s not get too complex— the answer will be correct within a small margin.  Here’s a table with Dave’s pension valuation at retirement based on various scenarios of how long he may live.  Note that the rates do not factor in inflation, so subtract the expected inflation rate accordingly.  This table was calculated using the PV() function in a spreadsheet because I’m lazy.&lt;/p&gt;
-
-&lt;h4 id=&quot;present-value-of-1000month-pension-by-years-and-expected-nominal-interest-rate&quot;&gt;Present value of $1000/month pension by years and expected nominal interest rate&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Years&lt;/th&gt;
-      &lt;th&gt;1.00%&lt;/th&gt;
-      &lt;th&gt;2.00%&lt;/th&gt;
-      &lt;th&gt;3.00%&lt;/th&gt;
-      &lt;th&gt;4.00%&lt;/th&gt;
-      &lt;th&gt;5.00%&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;$167,085.91&lt;/td&gt;
-      &lt;td&gt;$155,398.05&lt;/td&gt;
-      &lt;td&gt;$144,805.47&lt;/td&gt;
-      &lt;td&gt;$135,192.15&lt;/td&gt;
-      &lt;td&gt;$126,455.24&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt;$217,441.27&lt;/td&gt;
-      &lt;td&gt;$197,674.03&lt;/td&gt;
-      &lt;td&gt;$180,310.91&lt;/td&gt;
-      &lt;td&gt;$165,021.86&lt;/td&gt;
-      &lt;td&gt;$151,525.31&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;25&lt;/td&gt;
-      &lt;td&gt;$265,341.76&lt;/td&gt;
-      &lt;td&gt;$235,930.11&lt;/td&gt;
-      &lt;td&gt;$210,876.45&lt;/td&gt;
-      &lt;td&gt;$189,452.48&lt;/td&gt;
-      &lt;td&gt;$171,060.05&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;30&lt;/td&gt;
-      &lt;td&gt;$310,907.07&lt;/td&gt;
-      &lt;td&gt;$270,548.52&lt;/td&gt;
-      &lt;td&gt;$237,189.38&lt;/td&gt;
-      &lt;td&gt;$209,461.24&lt;/td&gt;
-      &lt;td&gt;$186,281.62&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;35&lt;/td&gt;
-      &lt;td&gt;$354,251.03&lt;/td&gt;
-      &lt;td&gt;$301,875.16&lt;/td&gt;
-      &lt;td&gt;$259,841.37&lt;/td&gt;
-      &lt;td&gt;$225,848.47&lt;/td&gt;
-      &lt;td&gt;$198,142.35&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;40&lt;/td&gt;
-      &lt;td&gt;$395,481.94&lt;/td&gt;
-      &lt;td&gt;$330,223.03&lt;/td&gt;
-      &lt;td&gt;$279,341.76&lt;/td&gt;
-      &lt;td&gt;$239,269.67&lt;/td&gt;
-      &lt;td&gt;$207,384.29&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Now that you know how to calculate what a pension is worth you can shop around for jobs not just based on salary but also pension benefits!&lt;/p&gt;
-
-&lt;h3 id=&quot;employer-matching-is-huge&quot;&gt;Employer matching is huge&lt;/h3&gt;
-
-&lt;p&gt;Almost always at least some part of a pension is funded by the employer.  This is significant because it represents more than you could save on your own.  Find out what the matching policy is.  Often employers who don’t have pension plans per se will offer RRSP matching as an alternative.  This is effectively a DC pension where you could possibly control the investment (&lt;a href=&quot;http://www.stamler.ca/index-investing/&quot;&gt;like indexes maybe&lt;/a&gt;?).  Find out if you have control of investments.&lt;/p&gt;
-
-&lt;h3 id=&quot;frequently-asked-questions&quot;&gt;Frequently Asked Questions&lt;/h3&gt;
-
-&lt;p&gt;Should I contribute to my pension instead of or in addition to an RRSP or &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt;?&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Sometimes you’ll have the option to contribute more to your pension.  Run the numbers on all options and compare them.  There is no one-size fits all answer.  Make sure that the combined cash flows in retirement will be enough to satisfy your expected spending.  If not, save more money, possibly in multiple places.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What if I want to retire early?&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Most pensions have a minimum age for vesting.  If you want to retire earlier you’ll need to cover this gap with additional savings either through an RRSP, TFSA or unregistered money.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Can I do better than a pension with my investments?&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Maybe.  But remember that your employer is likely matching at least part of your pension contributions so there’s an immediate increase&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Should I take CPP early?&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Maybe.  Perhaps I’ll write something about that later.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Should I take CPP early and invest it in my RRSP?&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Let me answer your question with another question.  Do you think you can beat the CPP?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;wrap-up&quot;&gt;Wrap-up&lt;/h3&gt;
-
-&lt;p&gt;Hopefully I’ve made things more clearly rather than more confusing.  If you’ve learned that there are a lot of things to think about regarding pensions, then I’ve done my job.  I strongly believe in doing the math yourself to understand what your pension is worth and if you don’t have a pension to figure out whether or not you should take a job that does.  Above all, remember that a pension is just part of your employment income that you won’t actually receive until later.  It isn’t magic or perfect.&lt;/p&gt;
-
-&lt;h3 id=&quot;update-cpp-reduction-for-private-pensions-and-inflation&quot;&gt;UPDATE: CPP reduction for private pensions and inflation&lt;/h3&gt;
-
-&lt;p&gt;A friend of mine, Derek Lawrence, brought a few things to my attention after I originally published this post that I figured would be helpful in this discussion.  Firstly, many pensions in Canada are integrated with the CPP and reduce payout after age 65 to account for this.  For example, the &lt;a href=&quot;https://www.otpp.com&quot;&gt;Ontario Teacher’s Pension Plan&lt;/a&gt; reduces CPP pension payout after CPP kicks in by about two-thirds of the CPP payout.  For this reason when calculating the present value of a pension payout should be appropriately reduced after age 65, rendering the present value lower.&lt;/p&gt;
-
-&lt;p&gt;Secondly it’s important that you consider inflation when calculating the present value of a pension and required retirement savings.  At 2% inflation, a dollar buys half as much after 35 years.  Fortunately wages generally increase to compensate, but this introduces an interesting curve ball to the savings calculation and to the payment part as well.  Payments should be estimated in inflated dollars if possible, and savings should be made not in absolute dollars but as a percentage of wage.  None of this invalidates the importance of the annuity calculations I included in this post, but these are definitely important considerations.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="annuity" /><category term="contributions" /><category term="employer" /><category term="employment" /><category term="income" /><category term="income tax" /><category term="investing" /><category term="job" /><category term="net worth" /><category term="pension" /><category term="pensions" /><category term="retirement" /><category term="tax" /><summary type="html">Ahhh, pensions. They can be your ticket to financial freedom. In the best of cases, having a pension is like having a job for the rest of your life without working. In other cases employees view their pensions as silver-bullet solutions to retirement and ignore their financial responsibilities. Sadly many people don’t pay any attention to their pensions or the place a pension holds in their financial future until it’s too late to make a difference. Today I’m going to introduce you to the various types of pensions and how to determine their value. Along the way I’ll touch on some common questions. We have lots to talk about so hang in there! What is a pension? A pension is an agreement between the pensioner (beneficiary) and the payer to receive a set amount of money (benefits) on a regular basis, generally following retirement from employment. Typically pension payments will last until the beneficiary dies. In some cases, the beneficiary’s surviving spouse or family will continue to receive benefits, possibly at a different rate.</summary></entry><entry><title type="html">The annuity: dependability has a price</title><link href="http://localhost:4000/annuity/" rel="alternate" type="text/html" title="The annuity: dependability has a price" /><published>2013-03-18T15:00:11-04:00</published><updated>2013-03-18T15:00:11-04:00</updated><id>http://localhost:4000/annuity</id><content type="html" xml:base="http://localhost:4000/annuity/">&lt;p&gt;The time-value of money is the principle that money today has a different value than money tomorrow. At the centre of this concept is the annuity and its formula, which I will not derive or prove here because I’m the only one who will find it interesting. An annuity is a set of fixed payments that are made over a specified period of time. I’m going to focus on a specific type of annuity here: a &lt;em&gt;life annuity&lt;/em&gt;. A life annuity is an insurance policy sold by an insurance company that pays a (usually monthly) payment to the buyer until the buyer (or the buyer’s surviving partner in some cases) dies. Sometimes you just want to be able to know how much money you’re going to have in the future and the life annuity is one way to do that. Life annuities &lt;a href=&quot;http://www.globeinvestor.com/servlet/Page/document/v5/data/rates?pageType=annuity&amp;amp;guarantee_term=0&amp;amp;survey_type=SL&amp;amp;sex=M&amp;amp;fund_type=R&amp;amp;province_of_residence=ON&quot;&gt;can seem expensive&lt;/a&gt; if you’re not used to seeing the numbers. The high price is the price of certainty. I’m going to talk about annuities in the context of retirement, but the math involved translates into pretty much every area of finance so pay attention. The words annuity and life annuity will be used interchangeably depending on context. Get ready to bite off more than most of us can chew, myself included. &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;an-annuity-example&quot;&gt;An annuity example&lt;/h3&gt;
-
-&lt;p&gt;Dave is 60 years old, unmarried, about to retire and has $250,000 in unregistered savings. He wants to have a steady stream of income for the rest of his life. He decides to buy a life annuity. The insurance company offers him $1232 per month for the rest of his life in exchange for the $250,000 payment. When Dave dies, the insurance company is off the hook. If Dave lives until 100 he’s going to receive $591,360 in total over that time (that’s 480 months). If Dave dies at 66 he will have only received $88704, less than he put in. Is the annuity a good deal?&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-an-annuity-really-worth&quot;&gt;What’s an annuity really worth?&lt;/h3&gt;
-
-&lt;p&gt;Good question. It’s probably becoming obvious to you that this could go either way. If you die young and you just bought an annuity, you could get hosed out of all that money in two ways. First, your estate will have nothing to give to possible heirs. Second, you won’t have had access to that pile of money you used to buy the annuity you didn’t use. But what if you live a long time? This is why insurance companies are the ones selling annuities. Actuaries (people who take piles of statistics and crunch the numbers to calculate insurance premiums) have figured out the price to sell you an annuity and still make money. They are betting that &lt;em&gt;you will die early enough that they’ll make a profit&lt;/em&gt;. Will you? Not sure. But the stats say the insurance company will make money. In addition, the insurance company is likely making money on &lt;em&gt;spread&lt;/em&gt;. That is they have calculated a rate that they will pay you that is &lt;em&gt;lower&lt;/em&gt; than the rate they think they can achieve through investing your money. To calculate the present value (PV, the value &lt;em&gt;today&lt;/em&gt;, when you’re making the decision) of an annuity you need to know how long you’re going to live. Once you’ve got that amount, the math is fairly straightforward:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;PV = PMT \times \frac{1-(1+i)^{-n}}{i}&lt;/script&gt;
-
-&lt;p&gt;Where &lt;em&gt;PMT&lt;/em&gt; is the periodic payment, &lt;em&gt;n&lt;/em&gt; is the number of payments (generally months you think you’ll live) and &lt;em&gt;i&lt;/em&gt; is the annual interest rate.&lt;/p&gt;
-
-&lt;p&gt;Wait, what annual interest rate?? Ahhh. That’s the thing. There is a rate that the insurance company selling the annuity assumes they can make money on. That is, they can earn &lt;em&gt;more&lt;/em&gt; money investing your money than what they pay out. So really, you should figure out whether you could &lt;em&gt;reasonably replicate the performance&lt;/em&gt; of the annuity you’re looking to buy to find out if it’s worth it. Perhaps then the best way to find out if an annuity is worth it is to find out what that rate is! Great. Remember algebra? In the above formula, we were calculating the present value. But if we’re buying an annuity we already know the present value. That’s the price the insurance company is selling the annuity for. What we really want to know is &lt;em&gt;i&lt;/em&gt;, the rate the insurance company needs to receive investing your money to break even. Let’s re-arrange the equation to solve for &lt;em&gt;i&lt;/em&gt;! Not happening. This is pretty much impossible because of the derivation of the original equation. I won’t explain the math past that but the general approach to solving for the interest rate of an annuity is to guess and check, usually with a computer. Microsoft Excel will do this for you with the RATE function, for example. Here’s a table using the above example for Dave:&lt;/p&gt;
-
-&lt;h4 id=&quot;break-even-rate-of-interest-for-a-250000-life-annuity-at-1232month&quot;&gt;Break-even rate of interest for a $250,000 life annuity at $1232/month&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Years&lt;/th&gt;
-      &lt;th&gt;Break-even rate (monthly compounding)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;17&lt;/td&gt;
-      &lt;td&gt;0.06%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt;1.72%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;25&lt;/td&gt;
-      &lt;td&gt;3.35%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;30&lt;/td&gt;
-      &lt;td&gt;4.26%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;35&lt;/td&gt;
-      &lt;td&gt;4.81%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;40&lt;/td&gt;
-      &lt;td&gt;5.16%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;45&lt;/td&gt;
-      &lt;td&gt;5.39%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;What does this table mean? Simply put, as long as the insurance company can invest at an annual interest rate greater than the rate in the right hand column, they will make money. So if 60-year old Dave lives to be 85 (25 year annuity), The insurance company has to make at least 3.35% annualized on Dave’s $250,000 premium to break even. Conversely if Dave dies at 77, the insurance company can earn only 0.06% annually on Dave’s premium and still break even. If you’re paying attention, you may have noticed that if Dave dies before 77, the insurance company makes money at rates less than 0%.  That’s quite the hedge. To add to the confusion, there are several different types of annuities. I’ll break them down very concisely here.&lt;/p&gt;
-
-&lt;h4 id=&quot;types-of-annuities&quot;&gt;Types of annuities&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Type&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Life&lt;/td&gt;
-      &lt;td&gt;income for life&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Life plus guarantee of X years&lt;/td&gt;
-      &lt;td&gt;income for life with at least X years of income to your estate if you die before X years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Life plus joint-and-last-survivor&lt;/td&gt;
-      &lt;td&gt;income for life for you and your spouse, payments end when both of you have died&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Indexed life&lt;/td&gt;
-      &lt;td&gt;income for life and payments increase with inflation&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;the-perpetuity-a-special-case&quot;&gt;The perpetuity: a special case&lt;/h3&gt;
-
-&lt;p&gt;Imagine if the money could last &lt;em&gt;forever&lt;/em&gt;! Such a tool exists, my friend. It’s called a perpetuity. In a perpetuity, you pay once and get money forever. As you can imagine, they’re not very popular since people don’t live forever so they’re a huge waste of money. Generally they’re used for things like college and university scholarship endowment funds— a situation where the money can’t run out. The math of a perpetuity is simple: the payment is equal to the premium times the interest rate. Many people who can do math suggest that the best inflation-indexed interest rate is about 4% and thus you can effectively replicate a perpetuity by taking out 4% of your money every year provided your investments roughly track a global index. That means that for every $100,000 you have invested you can take out $4000 per year ($333/month) and &lt;em&gt;never run out of money&lt;/em&gt; because it will all be there when you’re dead. This is good math for the very-early-retirement crowd. Of course if you take out more than that, the money won’t last forever in this model.&lt;/p&gt;
-
-&lt;h3 id=&quot;risk&quot;&gt;Risk&lt;/h3&gt;
-
-&lt;p&gt;The major risk of buying an annuity is that the insurance company will default or go bankrupt. There’s no rate risk, which is the major (and only) appeal.&lt;/p&gt;
-
-&lt;h3 id=&quot;make-your-own-annuity&quot;&gt;Make your own annuity&lt;/h3&gt;
-
-&lt;p&gt;You &lt;em&gt;can&lt;/em&gt; build your own annuity (BYOA)! In fact, that’s the way many people end up structuring their retirement. Basically it involves math. You need to predict what you think you can achieve with your investments (quite a feat in itself), then predict how long you’re going to need money for (good luck with that). Then you just plug in the numbers and BAM! You know exactly what you’ll make. Look, this is highly variable. That’s why it’s so expensive to buy an annuity. I’m not making a recommendation either way, but now you know the information you need to make an educated decision when the time comes. I’m going to talk about pensions shortly so make sure you understand the annuity before reading about pensions because they go hand in hand.&lt;/p&gt;
-
-&lt;h3 id=&quot;implementation-and-taxes&quot;&gt;Implementation and Taxes&lt;/h3&gt;
-
-&lt;p&gt;From a tax perspective life annuity payments are regular income if they’re purchased with registered investments like &lt;a href=&quot;http://www.stamler.ca/rrsp/&quot;&gt;RRSP&lt;/a&gt;s. This makes sense because the buyer never paid tax on the RRSP contributions so it’s all just income. Let’s face it, most of you who will buy annuities will be in the RRSP boat. Buying an annuity in a &lt;a href=&quot;http://www.stamler.ca/tfsa/&quot;&gt;TFSA&lt;/a&gt; isn’t generally recommended since unregistered annuities get preferential tax benefits— you only pay tax on the ‘interest’. Some of you will have lots of unregistered money that you’ll used to buy an annuity. If you’re in this boat, start reading about the tax implications of unregistered annuities yourself. They are more complex and there are a large number of variables.&lt;/p&gt;
-
-&lt;h3 id=&quot;curve-ball&quot;&gt;Curve ball&lt;/h3&gt;
-
-&lt;p&gt;Annuities work both ways.  So far I’ve talked about using a large amount of money to purchase the right to get payments.  But we’re all really familiar with mortgages, car loans and monthly payment plans.  Those are annuities too!  They just work the other way— the bank gives you a lump sum of money then you pay the bank back over a specified number of payments.  When I said annuities are pretty much everywhere in finance I wasn’t kidding.&lt;/p&gt;
-
-&lt;h3 id=&quot;so-should-i-get-a-life-annuity&quot;&gt;So should I get a life annuity?&lt;/h3&gt;
-
-&lt;p&gt;You have to decide whether or not it’s worth it to buy an annuity. Dependability has some serious advantages. That being said, it’s probably not a good idea to use all of your savings to buy an annuity. For example, say in retirement you need to make a big purchase. The working you would get a loan and then pay it off, with interest. The retired you who has a pile of cash can just pay cash for that big purchase and pay &lt;em&gt;no interest&lt;/em&gt;! But if you have an annuity instead of a big pile of cash you’ll probably need a loan, with interest. There are literally hundreds of scenarios where an annuity could work against you if you don’t have another pool of cash in retirement. That is the cost of dependability.&lt;/p&gt;</content><author><name>Dean Stamler</name></author><category term="annuity" /><category term="earning" /><category term="finance" /><category term="income" /><category term="payments" /><category term="planning" /><category term="present" /><category term="retirement" /><category term="tax" /><category term="valuation" /><category term="value" /><summary type="html">The time-value of money is the principle that money today has a different value than money tomorrow. At the centre of this concept is the annuity and its formula, which I will not derive or prove here because I’m the only one who will find it interesting. An annuity is a set of fixed payments that are made over a specified period of time. I’m going to focus on a specific type of annuity here: a life annuity. A life annuity is an insurance policy sold by an insurance company that pays a (usually monthly) payment to the buyer until the buyer (or the buyer’s surviving partner in some cases) dies. Sometimes you just want to be able to know how much money you’re going to have in the future and the life annuity is one way to do that. Life annuities can seem expensive if you’re not used to seeing the numbers. The high price is the price of certainty. I’m going to talk about annuities in the context of retirement, but the math involved translates into pretty much every area of finance so pay attention. The words annuity and life annuity will be used interchangeably depending on context. Get ready to bite off more than most of us can chew, myself included.</summary></entry></feed>
+<table>
+  <thead>
+    <tr>
+      <th>Payment type</th>
+      <th>buy price</th>
+      <th>sell price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cash</td>
+      <td>Sticker price</td>
+      <td>residual value</td>
+    </tr>
+    <tr>
+      <td>Loan from dealer or bank</td>
+      <td>Sticker price + interest</td>
+      <td>residual value</td>
+    </tr>
+    <tr>
+      <td>Lease and return</td>
+      <td>Sticker price + interest - residual value</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+      <td>Lease and buy</td>
+      <td>Sticker price + interest + buyout</td>
+      <td>residual value</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In the table above, I wrote “interest” a bunch of times. This is an <a href="http://www.stamler.ca/annuity/">annuity</a> calculation. You can <a href="http://www.stamler.ca/annuity/">figure it out pretty easily</a> without actually having to talk to a banker. Then you have to figure out roughly how long you plan to own the car for and what it will be worth at the end. This is called the residual value. If you’re leasing the car then planning to return it you already know how long you’ll have it and what your residual will be ($0) so just multiply the payments by the number of months you’ll have it. If you plan on driving it into the ground the residual value will be $0 as well. The biggest reason not to do this is that the cost of maintenance at the end of a car’s life is staggering. Another reason not to do this is that the reliability of a very old car (i.e. a car worth trashing for $0) is terrible. If you’re going to have an unreliable car there’s probably no point in having a car at all. Here’s a little hint about the capital cost of a car: it’s not as important as you think. Cars are money pits because they have to run and be maintained. The total amount you pay to drive a car is often significantly more than the difference between what you paid to buy it and what you receive to sell it at the end.</p>
+
+<h3 id="maintenance">Maintenance</h3>
+
+<p>Oil changes, tires, brakes, the list goes on and on. Anything and everything can go wrong with a car. Guessing this number is hard, but there are some reliable places to look for hard data about how much the car can cost to maintain. If it’s a new car you’re looking for, ask the dealer to provide you with a maintenance schedule and approximate costs. Another good place to look is <a href="http://www.consumerreports.org/">Consumer Reports</a>. They’ve been aggregating car data for a long time and are arguably the best place to see how reliable a car actually is rather than asking friends who will give you anecdotal evidence at best.</p>
+
+<h3 id="insurance">Insurance</h3>
+
+<p>Call your insurance company or use a website like Kanetix to get a quote. You need to know much it costs to insure a car before buying it.</p>
+
+<h3 id="fuel">Fuel</h3>
+
+<p>This is a massive variable because it requires you to both figure out approximately how much you will be driving and to know the fuel economy of the vehicle you’re looking at. If you already own a car, there’s a decent likelihood that you’ll be driving roughly the same amount on your new car so that’s a place to start. For fuel economy, use the American website <a href="http://fueleconomy.gov/">fueleconomy.gov</a> and NOT the <a href="http://oee.nrcan.gc.ca/transportation/tools/fuelratings/ratings-search.cfm">Canadian website</a>. The USA has a new fuel economy testing methodology that is much more accurate than the Canadian one. Numbers on that site are often quoted in miles per US gallon. Canada uses a different gallon, and you can approximate the Canadian MPG by multiplying the US MPG by 1.2. Better yet, <a href="http://fueleconomy.gov/">fueleconomy.gov</a> allows you to see the units in l/100km which is the standard unit in Canada. Note again that these numbers will not match the dealer window sticker. Like I said, the Canadian numbers aren’t terribly accurate. Harsh winters also really affect fuel consumption. If you do a lot of stop-and-go city driving in the winter, you could see your fuel usage skyrocket. Mine does!</p>
+
+<h3 id="electric-cars">Electric cars</h3>
+
+<p>Electric cars are awesome. They have no fuel tank, muffler, catalytic converter or transmission and their motors have one moving part so typical maintenance involves rotating the tires. In addition, they are very efficient (often over 90% vs under 20% for an internal combustion engine). Electricity is much cheaper than gasoline in the quantities used by cars. There’s always the question of range (how far you can go on a charge) and charging time. Here are a few considerations about electric cars:</p>
+
+<ul>
+  <li>They cost more to buy</li>
+  <li>They cost less to run</li>
+  <li>They have limited range</li>
+  <li>You probably will rarely need to exceed that limited range</li>
+  <li>The money you save on gas can be used to rent another car for road trips</li>
+  <li>They’re significantly better for the environment</li>
+</ul>
+
+<p>If you’re considering an electric car it’s very helpful to make a list of all the places you’d need to drive and the frequency that you make these trips to figure out the range issue. My research suggests that you can take the manufacturer’s range claims (often given in miles) and take them in kilometres at par. For example, if the manufacturer says the car has a range of 100 miles, it probably has a conservative range of around 100 km in the Canadian winter in city driving. Your mileage may vary… tremendously.</p>
+
+<h3 id="run-the-numbers">Run the numbers</h3>
+
+<p>Below I’ve embedded a spreadsheet that I whipped up. It shows the type of comparison that you should be making when you’re choosing a car. Please don’t take my numbers too literally. For example, I didn’t call my insurer to ask how much it would cost to insure a Tesla Model S, even though I really want one. I guessed. Sorry. Maintenance is roughly equivalent for the gas-powered cars and lower for the electric ones. Higher for the Tesla since it costs twice as much (I’m assuming). See what I mean about not taking my numbers literally? My goal here isn’t to tell you what to buy, but to show you how to figure it out for yourself.</p>
+
+<h4 id="example-of-cost-comparison-over-10-years">Example of cost comparison over 10 years</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Car</th>
+      <th>Hyundai Sonata Limited</th>
+      <th>Tesla Model S (60 kWh)</th>
+      <th>Toyota RAV4 4WD 2.5</th>
+      <th>Nissan Versa</th>
+      <th>Nissan LEAF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Purchase price w/ taxes, fees, financing &amp; rebates</td>
+      <td>$37,000.00</td>
+      <td>$91,000.00</td>
+      <td>$33,000.00</td>
+      <td>$22,000.00</td>
+      <td>$43,000.00</td>
+    </tr>
+    <tr>
+      <td>Residual value</td>
+      <td>$7,000.00</td>
+      <td>$14,000.00</td>
+      <td>$9,000.00</td>
+      <td>$4,000.00</td>
+      <td>$4,000.00</td>
+    </tr>
+    <tr>
+      <td>Fuel / 100 km</td>
+      <td>11 l</td>
+      <td>24 kWh</td>
+      <td>12 l</td>
+      <td>9 l</td>
+      <td>23 kWh</td>
+    </tr>
+    <tr>
+      <td>Annual insurance</td>
+      <td>$1,575.00</td>
+      <td>$1,800.00</td>
+      <td>$1,500.00</td>
+      <td>$1,350.00</td>
+      <td>$1,500.00</td>
+    </tr>
+    <tr>
+      <td>Annual maintenance</td>
+      <td>500.00</td>
+      <td>$600.00</td>
+      <td>$500.00</td>
+      <td>$500.00</td>
+      <td>$400.00</td>
+    </tr>
+    <tr>
+      <td>Total capital cost</td>
+      <td>$30,000.00</td>
+      <td>$77,000.00</td>
+      <td>$24,000.00</td>
+      <td>$18,000.00</td>
+      <td>$39,000.00</td>
+    </tr>
+    <tr>
+      <td>Total fuel cost</td>
+      <td>$22,275.00</td>
+      <td>$3,960.00</td>
+      <td>$24,300.00</td>
+      <td>$18,225.00</td>
+      <td>$3,795.00</td>
+    </tr>
+    <tr>
+      <td>Total insurance cost</td>
+      <td>$15,750.00</td>
+      <td>$18,000.00</td>
+      <td>$15,000.00</td>
+      <td>$13,500.00</td>
+      <td>$15,000.00</td>
+    </tr>
+    <tr>
+      <td>Total maintenance cost</td>
+      <td>$5,000.00</td>
+      <td>$6,000.00</td>
+      <td>$5,000.00</td>
+      <td>$5,000.00</td>
+      <td>$4,000.00</td>
+    </tr>
+    <tr>
+      <td>Monthly cost</td>
+      <td>$608.54</td>
+      <td>$874.67</td>
+      <td>$569.17</td>
+      <td>$456.04</td>
+      <td>$514.96</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>* This table assumes fuel price of $1.35/l and $0.11/kWh and annual driving distance of 15,000 km. The numbers used here are for example only and are not necessarily indicative of real market prices or actual maintenance charges.</em></p>
+
+<p>There are a few take-aways from this table. The most expensive car is $875/month and the cheapest is $456/month, a difference of less than 2x. This is despite the fact that the actual sticker price of the expensive one is over 4x higher than the cheapest one. That’s why I said earlier that the sticker price of a car isn’t nearly as important as you might think.</p>
+
+<h3 id="cars-yeah">Cars, yeah!</h3>
+
+<p>There’s definitely a value to having a car you like since you’re going to save a lot of money by driving it for a long time. When I bought my car, I picked leather seats and a sun roof. Was that financially prudent? No. Do I still like my car two years in? Yes. Will it help me keep my car longer? Probably. But I’m not fooling myself about it holding its value any better: premium cars tend to depreciate faster than cheaper ones. Hopefully this gets you started on the right foot when you’re ready to buy a car. Remember, the cheapest car is no car!</p>]]></content><author><name>Dean Stamler</name></author><category term="Personal Finance" /><category term="Transit" /><category term="bicycle" /><category term="bike" /><category term="buy" /><category term="buying" /><category term="car" /><category term="cars" /><category term="insurance" /><category term="maintenance" /><category term="purchase" /><category term="shopping" /><category term="transit" /><category term="walk" /><category term="walking" /><summary type="html"><![CDATA[There comes a time when you need a car (or two, but almost certainly not three). If your car-liking muscle exceeds the power of your money-saving muscle, this isn’t a post for you so stop reading. But if you think you might be able to make a purchase based solely on rational thought within the context of spending the lowest amount of money without dying in a horrible car accident, read on and I’ll tell you how to choose a car. Also, if you think you might like to just hear what I have to say and then make a decision, I’m down with that. Do I need to choose a car? The absolute best car you can buy from a financial standpoint is a TFSA. “But that’s not a car”, you say. Oh right. But if you can ride the bus without strenuous effort, or walk, that is way cheaper. Be honest with yourself: you don’t need a car to get 2 km to work unless work involves hauling dozens of kilograms of random crap to and from your job in the snow every day. Even then you may be able to get away with a cargo bike. Bicycles are a good option. In the warmer months I like to ride my bike to work on days I’m not working from home. It’s 7km one way and takes about 20 minutes. It’s a great way to unwind and get time to think and it saves money. Quite a bit actually.]]></summary></entry><entry><title type="html">Rainy day funds: don’t save for an emergency</title><link href="http://localhost:4000/rainy-day-fund/" rel="alternate" type="text/html" title="Rainy day funds: don’t save for an emergency" /><published>2013-03-30T14:46:53-04:00</published><updated>2013-03-30T14:46:53-04:00</updated><id>http://localhost:4000/rainy-day-fund</id><content type="html" xml:base="http://localhost:4000/rainy-day-fund/"><![CDATA[<p>Almost every financial planner will tell you that you should set aside money for a rainy day. It’s like a golden rule that you must have a rainy day fund. Some advisors say 3 months income, others 6 months. Some even say a year’s income should be stored in cash or cash-like savings just in case you lose your job, have a massive car repair bill, a dead fridge, or you suddenly need to go on a trip to Belize.</p>
+
+<p><img src="http://localhost:4000/assets/cash-umbrella.jpg" alt="saving for a rainy day" title="On some sunny spring days, it rains money. By leaving an upside-down umbrella outside, you can create a rainy day fund." /></p>
+
+<p>Fortunately I’m not a financial planner so I can say whatever I want and I’m going to tell you that unless you’re in a very special circumstance you shouldn’t have a rainy day fund.</p>
+
+<h3 id="rainy-day-funds-enable-random-trips-to-belize">Rainy day funds enable random trips to Belize</h3>
+
+<p>I’m sure you noticed that one of the emergencies I just rattled off was kind of different. To paraphrase high-quality children’s television, it just wasn’t the same as the others. Look, I’ve got nothing against Belize but the first thing you have to realize about yourself is that when given a large quantity of cash you’re very likely to spend it either on a big stupid purchase or many small stupid purchases. Maybe you’re the one person who absolutely won’t under any circumstance succumb to the immense pressure of a lump of cash equal to several months of income. Don’t lie to yourself, you’re probably not. You’re probably thinking “Dean it’s my savings, I can do what I want.” Sure. Just don’t lie to yourself about your real motives— call it savings for a random trip to Belize, not an rainy day fund.
+<!--more--></p>
+
+<h3 id="where-should-i-put-that-money-instead">Where should I put that money instead?</h3>
+
+<p>Put that rainy day fund money on debt. Mortgage, student loans, car loans with a rate more than 0%, credit cards, whatever. We’ve already established that the over-arching financial goal of a person is to maximize their net worth. <a href="http://www.stamler.ca/net-worth/">I’ve given you some steps to do that</a>. This is just another one: the interest you’ll earn on that sum of money in liquid short-term savings is less than the interest you’ll pay on the debt you owe. If you owe anything (including unused <a href="http://www.stamler.ca/tfsa/">TFSA</a> and <a href="http://www.stamler.ca/rrsp/">RRSP</a> contributions) pay that off before you go saving cash for dead washing machines or theoretical job loss. You’ll earn a higher after-tax rate and increase your net worth faster.</p>
+
+<h3 id="put-yourself-in-a-place-where-emergency-cash-is-available-when-you-need-it">Put yourself in a place where emergency cash is available when you need it</h3>
+
+<p>The thing about the society we live in is that credit is cheap and plentiful. Lines of credit are great power with great responsibility and this is one circumstance where a line of credit is a great idea. Get a line of credit at the best rate you can find, preferably one a limit of two or three months income. Then leave it at a $0 balance for a rainy day— a REAL rainy day. If you already have a line of credit and it’s maxed out, pay that off as priority number one.</p>
+
+<h3 id="isnt-that-the-same-thing-as-saving-an-rainy-day-fund">Isn’t that the same thing as saving an rainy day fund?</h3>
+
+<p>Why is a line of credit a better idea than a positive cash balance? You will not treat them the same way. Sometimes you have to socially engineer your financial life to protect your money from yourself and this is a perfect example. You’re more likely to not use the money to buy stupid things if it will put you directly into debt than if it would just decimate a positive balance. The thing is, decimating that positive balance is putting you into debt just as badly because all other things being equal you’re actually paying more interest on your debt than you’d earn in the cash account, remember? And you’re for sure paying that interest as opposed to possibly paying that interest in the event of an emergency.</p>
+
+<h3 id="unemployment">Unemployment</h3>
+
+<p>Job loss sucks, I understand. Many if not all of us will experience some period of unemployment at some point in our lives. I’m not advocating going into debt when you lose your job, either. Fortunately in Canada we have quite a good employment insurance system. If you’re already living within your means (saving a lot of money for retirement, paying off your mortgage quickly, owing little or no debt that isn’t being accelerated), then you can stand to dial back the mortgage payments, axe the savings and subsist on pogey for a bit while you search for a new job. And if you do get more debt in the process, you’ll be better off having paid it off more aggressively and starting your unemployment with less burden than having a pile of cash that will largely be used to service existing debt.</p>
+
+<h3 id="the-exception">The exception</h3>
+
+<p>Your car and house are paid for. Your <a href="http://www.stamler.ca/tfsa/">TFSA</a> and <a href="http://www.stamler.ca/rrsp/">RRSP</a> are maxed. You have no debt to speak of and you’re living within your means. Congratulations, you are a candidate for a rainy day fund. But in this case, why? You’ll earn more money investing it than keeping it in cash. And the alternative, blowing it on a sweet trip to Belize, is a lot more fun. Both seem like good options for you at this point.</p>
+
+<h3 id="man-youre-stingy">Man, you’re stingy!</h3>
+
+<p>No, I’m honest and you should be too. I’m not saying don’t go on trips or have fun. I’m saying that having a rainy day fund as a structural part of your finances is generally a lame idea.</p>]]></content><author><name>Dean Stamler</name></author><category term="Personal Finance" /><category term="account" /><category term="emergency" /><category term="fund" /><category term="interest" /><category term="net worth" /><category term="rainy day" /><category term="savings" /><summary type="html"><![CDATA[Almost every financial planner will tell you that you should set aside money for a rainy day. It’s like a golden rule that you must have a rainy day fund. Some advisors say 3 months income, others 6 months. Some even say a year’s income should be stored in cash or cash-like savings just in case you lose your job, have a massive car repair bill, a dead fridge, or you suddenly need to go on a trip to Belize. Fortunately I’m not a financial planner so I can say whatever I want and I’m going to tell you that unless you’re in a very special circumstance you shouldn’t have a rainy day fund. Rainy day funds enable random trips to Belize I’m sure you noticed that one of the emergencies I just rattled off was kind of different. To paraphrase high-quality children’s television, it just wasn’t the same as the others. Look, I’ve got nothing against Belize but the first thing you have to realize about yourself is that when given a large quantity of cash you’re very likely to spend it either on a big stupid purchase or many small stupid purchases. Maybe you’re the one person who absolutely won’t under any circumstance succumb to the immense pressure of a lump of cash equal to several months of income. Don’t lie to yourself, you’re probably not. You’re probably thinking “Dean it’s my savings, I can do what I want.” Sure. Just don’t lie to yourself about your real motives— call it savings for a random trip to Belize, not an rainy day fund.]]></summary></entry></feed>
