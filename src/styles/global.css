@@ -1,7 +1,7 @@
 :root {
   --bg: #f3efe6;
   --bg-strong: #e7dfd1;
-  --panel: rgba(255, 252, 246, 0.82);
+  --panel: #fffcf6;
   --panel-strong: #fffaf2;
   --line: rgba(76, 59, 40, 0.18);
   --line-strong: rgba(76, 59, 40, 0.32);
@@ -9,7 +9,7 @@
   --muted: #66574a;
   --accent: #8f3e22;
   --accent-strong: #5f2510;
-  --shadow: 0 24px 60px rgba(71, 52, 31, 0.09);
+  --shadow: none;
   --content-width: min(72rem, calc(100vw - 2.5rem));
   --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "URW Palladio L",
     Georgia, serif;
@@ -29,9 +29,7 @@ html {
 body {
   margin: 0;
   color: var(--text);
-  background:
-    radial-gradient(circle at top left, rgba(255, 255, 255, 0.72), transparent 30rem),
-    linear-gradient(180deg, #f8f3ea 0%, var(--bg) 45%, #efe6d7 100%);
+  background: var(--bg);
   font-family: var(--serif);
   line-height: 1.65;
 }
@@ -192,7 +190,7 @@ th {
 }
 
 .eyebrow {
-  margin: 0 0 0.65rem;
+  margin: 0 0 1rem;
   font-family: var(--sans);
   font-size: 0.78rem;
   font-weight: 700;
@@ -201,13 +199,6 @@ th {
   color: var(--accent);
 }
 
-.section-heading {
-  display: grid;
-  gap: 0.35rem;
-  margin-bottom: 1.4rem;
-}
-
-.section-heading h2,
 .page-shell__header h1,
 .article-header h1,
 .not-found h1 {
@@ -218,10 +209,6 @@ th {
 }
 
 .home-hero {
-  display: grid;
-  grid-template-columns: 1.7fr 1fr;
-  gap: 2rem;
-  align-items: end;
   margin-bottom: 3rem;
 }
 
@@ -232,31 +219,12 @@ th {
   letter-spacing: -0.05em;
 }
 
-.home-hero__lede,
-.home-hero__meta p,
 .feature-card p,
 .story-card p,
 .archive-list__content p,
 .article-header__dek {
   margin: 0;
   color: var(--muted);
-}
-
-.home-hero__lede {
-  max-width: 34rem;
-  margin-top: 1rem;
-  font-size: 1.1rem;
-}
-
-.home-hero__meta {
-  display: grid;
-  gap: 1rem;
-  padding: 1.25rem;
-  border: 1px solid var(--line);
-  border-radius: 1.3rem;
-  background: var(--panel);
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(10px);
 }
 
 .button-link,
@@ -272,7 +240,7 @@ th {
   padding: 0.85rem 1rem;
   border-radius: 999px;
   color: #fff9f4;
-  background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+  background: var(--accent);
 }
 
 .feature-stack,
@@ -292,8 +260,6 @@ th {
 .not-found {
   border: 1px solid var(--line);
   background: var(--panel);
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(10px);
 }
 
 .feature-card,
@@ -479,7 +445,6 @@ th {
 }
 
 @media (max-width: 900px) {
-  .home-hero,
   .story-grid__items,
   .archive-list__item {
     grid-template-columns: 1fr;
