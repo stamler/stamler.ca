@@ -63,7 +63,8 @@ const jsonLd =
     <meta property="og:url" content={canonicalUrl.toString()} />
     <meta property="og:site_name" content={siteConfig.title} />
     <meta name="twitter:card" content="summary" />
-    <meta name="theme-color" content="#e8d4a2" />
+    <meta name="theme-color" content="#e8d4a2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1c1208" media="(prefers-color-scheme: dark)" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <Analytics />
   </head>

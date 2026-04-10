@@ -445,6 +445,43 @@ th {
   padding: 2rem;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1208;
+    --bg-strong: #2a1c0e;
+    --panel: #251a0c;
+    --panel-strong: #2e2010;
+    --line: rgba(210, 180, 130, 0.15);
+    --line-strong: rgba(210, 180, 130, 0.28);
+    --text: #e8dcc8;
+    --muted: #b09878;
+    --accent: #e8742e;
+    --accent-strong: #f0934e;
+    --blue: #6aadd4;
+  }
+
+  pre {
+    background: #251a0c;
+  }
+
+  code {
+    background: rgba(210, 180, 130, 0.1);
+  }
+
+  table {
+    background: rgba(37, 26, 12, 0.76);
+  }
+
+  .button-link {
+    color: #1c1208;
+  }
+
+  .tag-chip {
+    background: rgba(106, 173, 212, 0.15);
+    color: #6aadd4;
+  }
+}
+
 @media (max-width: 900px) {
   .story-grid__items,
   .archive-list__item {
