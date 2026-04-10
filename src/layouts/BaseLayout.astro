@@ -1,0 +1,80 @@
+---
+import Analytics from '../components/Analytics.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { siteConfig } from '../lib/site';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  pageType?: 'website' | 'article';
+  publishedTime?: string;
+}
+
+const {
+  title,
+  description = siteConfig.description,
+  pageType = 'website',
+  publishedTime
+} = Astro.props;
+
+const pageTitle = title
+  ? `${title} | ${siteConfig.title}`
+  : `${siteConfig.title} | ${siteConfig.description}`;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site ?? siteConfig.url);
+
+const jsonLd =
+  pageType === 'article'
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'BlogPosting',
+        headline: title,
+        description,
+        author: {
+          '@type': 'Person',
+          name: siteConfig.author
+        },
+        datePublished: publishedTime,
+        dateModified: publishedTime,
+        url: canonicalUrl.toString(),
+        mainEntityOfPage: canonicalUrl.toString()
+      }
+    : {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: siteConfig.title,
+        description: siteConfig.description,
+        url: siteConfig.url
+      };
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl.toString()} />
+    <meta property="og:title" content={title ?? siteConfig.title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={pageType} />
+    <meta property="og:url" content={canonicalUrl.toString()} />
+    <meta property="og:site_name" content={siteConfig.title} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" content="#f3efe6" />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    <Analytics />
+  </head>
+
+  <body>
+    <div class="site-shell">
+      <Header />
+      <main class="site-main">
+        <slot />
+      </main>
+      <Footer />
+    </div>
+  </body>
+</html>

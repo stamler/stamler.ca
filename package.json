@@ -1,0 +1,16 @@
+{
+  "name": "stamler-ca",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.18",
+    "astro": "^6.1.5",
+    "yaml": "^2.8.3"
+  }
+}

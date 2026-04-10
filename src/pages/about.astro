@@ -1,0 +1,17 @@
+---
+import AboutContent from '../content/pages/about.md';
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About">
+  <article class="page-shell">
+    <header class="page-shell__header">
+      <p class="eyebrow">About</p>
+      <h1>About Dean Stamler</h1>
+    </header>
+
+    <div class="prose">
+      <AboutContent />
+    </div>
+  </article>
+</BaseLayout>

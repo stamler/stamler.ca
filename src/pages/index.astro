@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDate, getAllPosts, getPostUrl } from '../lib/posts';
+import { siteConfig } from '../lib/site';
+
+const posts = await getAllPosts();
+const [featuredPost, ...remainingPosts] = posts;
+const secondaryPosts = remainingPosts.slice(0, 3);
+const archivePosts = remainingPosts.slice(3);
+---
+
+<BaseLayout>
+  <section class="home-hero">
+    <div class="home-hero__copy">
+      <p class="eyebrow">Essays and notes</p>
+      <h1>Clearer thinking on transit, policy, finance, and technology.</h1>
+      <p class="home-hero__lede">{siteConfig.homeIntro}</p>
+    </div>
+
+    <div class="home-hero__meta">
+      <p>
+        Originally published over a decade of writing, rebuilt in Astro with the archive
+        intact.
+      </p>
+      <a class="button-link" href="/about/">Read the about page</a>
+    </div>
+  </section>
+
+  {
+    featuredPost && (
+      <section class="feature-stack" aria-labelledby="latest-post-heading">
+        <div class="section-heading">
+          <p class="eyebrow">Latest post</p>
+          <h2 id="latest-post-heading">Front page feature</h2>
+        </div>
+
+        <article class="feature-card">
+          <div class="feature-card__meta">
+            <span>{formatDate(featuredPost.data.date)}</span>
+            {featuredPost.data.categories[0] && <span>{featuredPost.data.categories[0]}</span>}
+          </div>
+          <h3>
+            <a href={getPostUrl(featuredPost)}>{featuredPost.data.title}</a>
+          </h3>
+          {featuredPost.data.description && <p>{featuredPost.data.description}</p>}
+          <a class="text-link" href={getPostUrl(featuredPost)}>
+            Read the full post
+          </a>
+        </article>
+      </section>
+    )
+  }
+
+  {
+    secondaryPosts.length > 0 && (
+      <section class="story-grid" aria-labelledby="recent-posts-heading">
+        <div class="section-heading">
+          <p class="eyebrow">Recent writing</p>
+          <h2 id="recent-posts-heading">Three more worth opening next</h2>
+        </div>
+
+        <div class="story-grid__items">
+          {secondaryPosts.map((post) => (
+            <article class="story-card">
+              <p class="story-card__meta">
+                <span>{formatDate(post.data.date)}</span>
+                {post.data.categories[0] && <span>{post.data.categories[0]}</span>}
+              </p>
+              <h3>
+                <a href={getPostUrl(post)}>{post.data.title}</a>
+              </h3>
+              {post.data.description && <p>{post.data.description}</p>}
+            </article>
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <section class="archive" aria-labelledby="archive-heading">
+    <div class="section-heading">
+      <p class="eyebrow">Archive</p>
+      <h2 id="archive-heading">Everything else, newest first</h2>
+    </div>
+
+    <ol class="archive-list">
+      {archivePosts.map((post) => (
+        <li class="archive-list__item">
+          <div class="archive-list__date">{formatDate(post.data.date)}</div>
+          <div class="archive-list__content">
+            <h3>
+              <a href={getPostUrl(post)}>{post.data.title}</a>
+            </h3>
+            {post.data.description && <p>{post.data.description}</p>}
+          </div>
+        </li>
+      ))}
+    </ol>
+  </section>
+</BaseLayout>
