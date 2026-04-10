@@ -9,7 +9,10 @@ const archivePosts = remainingPosts.slice(3);
 
 <BaseLayout>
   <section class="home-hero">
-    <h1>Essays on transit, policy, finance, and technology.</h1>
+    <div class="home-hero__stripes" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <h1>Dean Has Something to Say</h1>
   </section>
 
   {
@@ -72,3 +75,7 @@ const archivePosts = remainingPosts.slice(3);
     </ol>
   </section>
 </BaseLayout>
+
+<style is:global>
+  .site-header__stripe { opacity: 0; }
+</style>

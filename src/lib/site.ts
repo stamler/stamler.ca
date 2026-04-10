@@ -1,6 +1,6 @@
 export const siteConfig = {
   title: '// stamler',
-  description: 'Essays on transit, policy, finance, and technology.',
+  description: 'Dean Has Something to Say',
   url: 'https://stamler.ca',
   author: 'Dean Stamler'
 };
