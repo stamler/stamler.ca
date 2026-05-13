@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
-    "astro": "^6.1.5",
+    "astro": "^6.1.10",
     "yaml": "^2.8.3"
   }
 }
